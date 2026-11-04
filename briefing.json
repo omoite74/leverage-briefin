@@ -1,92 +1,140 @@
 {
- "at": 1793802669083,
- "headline": "민주당이 상·하원을 모두 가져간 중간선거 직후 나스닥100 선물이 급락했다가 반등했고, 불안은 다소 가라앉았지만 심리는 아직 극단적 공포 구간입니다.",
+ "at": 1793829663825,
+ "headline": "민주당의 중간선거 승리로 불확실성이 걷히고 유가가 급락하면서 지수는 크게 올랐고 VIX는 내렸지만, 반도체는 규제 우려로 약했습니다.",
  "items": [
   {
    "key": "fearGreed",
-   "title": "공포탐욕 23 극단적 공포 (전날 19, +4)",
-   "tone": "fear",
+   "title": "공포탐욕 27 공포 (전날 19, +8)",
+   "tone": "neutral",
    "cause": {
-    "text": "장 마감 뒤 개표에서 민주당의 상·하원 장악이 확인되자 나스닥100 선물이 한때 크게 밀렸다가 저점에서 회복했고, 이 불확실성 해소가 공포탐욕 지수를 19에서 23으로 조금 끌어올린 것으로 보입니다. 다만 아직 극단적 공포 구간입니다.",
+    "text": "선거 불확실성이 해소되며 다우가 3.03%, 나스닥종합이 1.44% 오른 것이 심리를 공포 19에서 27로 끌어올린 것으로 보입니다. 다만 반도체 약세가 남아 아직 '공포' 구간입니다.",
     "sources": [
      {
-      "title": "Wall Street Futures Plunged After Democrats Swept Congress. Then Investors Started Buying Again.",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/wall-street-futures-plunged-democrats-102707086.html"
+      "title": "뉴욕증시, 美 민주 압승 속 급등 마감…다우 3%↑·유가 급락",
+      "url": "https://www.newspim.com/news/view/20261105000034"
      },
      {
-      "title": "A blue wave sends futures into the green",
-      "url": "https://www.cnbc.com/2026/11/04/a-blue-wave-sends-futures-into-the-green.html"
+      "title": "Dow soars 1,500 points as Democratic midterm sweep lifts stocks",
+      "url": "https://qz.com/dow-soars-democratic-midterm-sweep-lifts-markets-110426"
      }
     ]
    },
    "background": [
     {
-     "text": "개표 초반 나스닥100 선물은 1~2%대까지 하락했는데, AI 데이터센터와 빅테크 규제가 강해질 수 있다는 우려가 컸던 것으로 보도됐습니다.",
+     "text": "민주당이 상·하원을 모두 가져갔고, 다우는 약 18개월 만에 가장 크게 올랐다고 보도됐습니다.",
      "sources": [
       {
-       "title": "US stock futures tumble as Democrats score key midterm election wins - AOL",
-       "url": "https://www.aol.com/articles/us-stock-futures-tumble-democrats-045740000.html"
+       "title": "뉴욕증시, 민주당 압승에 급등⋯다우 3.03%↑ [종합]",
+       "url": "https://www.etoday.co.kr/news/view/2644291"
       }
      ]
     },
     {
-     "text": "이후 트럼프 대통령이 결과를 받아들일 뜻을 밝혀 정치적 불확실성이 줄면서 선물이 반등했다고 CNBC가 전했습니다.",
+     "text": "브렌트유가 8.7% 내려 8월 말 이후 최저 수준이 되었고, 장기 금리와 달러도 내려 부담이 줄었습니다.",
      "sources": [
       {
-       "title": "Dow futures soar 1,000 points as big midterm wins by Democrats remove political uncertainty risk on Wall Street: Live updates",
-       "url": "https://www.cnbc.com/2026/11/03/stock-market-today-live-updates.html"
+       "title": "뉴욕증시, 美 민주 압승 속 급등 마감…다우 3%↑·유가 급락",
+       "url": "https://www.newspim.com/news/view/20261105000034"
+      }
+     ]
+    },
+    {
+     "text": "반면 필라델피아 반도체지수는 3.13% 내렸고, 민주당의 AI·데이터센터 규제 강화 우려가 부담으로 거론됐습니다.",
+     "sources": [
+      {
+       "title": "미국 증시, 민주당 의회 장악에 급등…빅테크 웃고 AI 데이터센터주 울었다",
+       "url": "https://www.ddaily.co.kr/page/view/2026110506341120709"
       }
      ]
     }
    ],
-   "note": "선거라는 일회성 이벤트 영향이 큽니다. 다만 선물 수치가 기사마다 달라, 오늘 밤 미국 정규장 개장 후 실제 흐름과 AI·반도체 규제 관련 소식을 확인하시면 좋습니다."
+   "note": "선거라는 일회성 이벤트의 영향이 큽니다. 장 마감 후 별도 속보와 나스닥100 선물 움직임은 확인하지 못했습니다. 12월 11일 임시 예산안 만료와 내년 1월 3일 새 의회 개원이 다음 확인 일정입니다."
   },
   {
    "key": "putCall",
-   "title": "풋콜 0.88 (전날 0.83, +0.05)",
+   "title": "풋콜 0.83 (전날 0.83, +0.00)",
    "tone": "fear",
    "cause": {
-    "text": "선거 결과를 앞두고 하락에 대비하는 풋옵션 수요가 늘어 풋콜 비율이 0.83에서 0.88로 오른 것으로 보입니다. 옵션 거래량을 직접 다룬 기사는 찾지 못해 추정입니다.",
-    "sources": [
-     {
-      "title": "US stock futures tumble as Democrats score key midterm election wins - AOL",
-      "url": "https://www.aol.com/articles/us-stock-futures-tumble-democrats-045740000.html"
-     }
-    ]
+    "text": "풋콜 0.83은 전날과 같아, 이번 급등에도 옵션 시장의 매수·매도 쏠림은 크게 바뀌지 않은 것으로 보입니다. 이 지표를 직접 설명한 기사는 찾지 못했습니다.",
+    "sources": []
    },
    "background": [
     {
-     "text": "밤사이 선물이 급락해 기술주를 중심으로 헤지 수요가 커졌을 가능성이 있습니다.",
-     "sources": []
-    }
-   ],
-   "note": "선물이 반등했기 때문에 일시적 쏠림일 수 있습니다. 미국 정규장 개장 후 옵션 수요가 어떻게 바뀌는지 보시면 됩니다."
-  },
-  {
-   "key": "vix",
-   "title": "VIX 18.0 (전날 20.8, -2.9)",
-   "tone": "neutral",
-   "cause": {
-    "text": "선거 불확실성이 풀리고 선물이 낙폭을 줄이면서 VIX가 20.8에서 18.0으로 내린 것으로 보입니다. 원인은 공포탐욕과 같아 짧게 정리했습니다.",
-    "sources": [
-     {
-      "title": "A blue wave sends futures into the green",
-      "url": "https://www.cnbc.com/2026/11/04/a-blue-wave-sends-futures-into-the-green.html"
-     }
-    ]
-   },
-   "background": [
-    {
-     "text": "일부 전략가는 여야 교착이 기업 실적에 꼭 나쁘지 않다고 봤고, 과거 중간선거 뒤 증시가 오른 사례도 언급됐습니다.",
+     "text": "지수는 크게 올랐지만 반도체·데이터센터주는 내려 종목별로 엇갈렸기 때문에, 옵션 쏠림도 한쪽으로 몰리지 않았을 가능성이 있습니다(추정).",
      "sources": [
       {
-       "title": "Midterm elections could jolt stocks as Democrats look poised to sweep Congress",
-       "url": "https://www.cnbc.com/2026/11/03/midterm-election-stock-market.html"
+       "title": "미국 증시, 민주당 의회 장악에 급등…빅테크 웃고 AI 데이터센터주 울었다",
+       "url": "https://www.ddaily.co.kr/page/view/2026110506341120709"
       }
      ]
     }
    ],
-   "note": "선거 이벤트가 지나면 변동성이 줄어드는 경우가 많지만 이번 하락이 이어질지는 불확실합니다. 이후 금리와 연준 일정, 엔비디아 관련 소식을 확인하세요."
+   "note": "하루 값이라 의미를 크게 두기 어렵습니다. 선거 이후 정책 윤곽이 나오면서 반도체 쪽 헤지 수요가 바뀌는지 지켜볼 만합니다."
+  },
+  {
+   "key": "vix",
+   "title": "VIX 16.6 (전날 20.8, -4.2)",
+   "tone": "neutral",
+   "cause": {
+    "text": "선거 결과가 분명해져 불확실성이 사라지면서 VIX가 20.8에서 16.6으로 크게 내린 것으로 보입니다.",
+    "sources": [
+     {
+      "title": "뉴욕증시, 美 민주 압승 속 급등 마감…다우 3%↑·유가 급락",
+      "url": "https://www.newspim.com/news/view/20261105000034"
+     }
+    ]
+   },
+   "background": [
+    {
+     "text": "한 보도는 VIX가 18.72% 급락했고 선거 불확실성이 걷히며 불안이 줄었다고 전했습니다.",
+     "sources": [
+      {
+       "title": "뉴욕증시, 美 민주 압승 속 급등 마감…다우 3%↑·유가 급락",
+       "url": "https://www.newspim.com/news/view/20261105000034"
+      }
+     ]
+    },
+    {
+     "text": "유가 급락, 달러 약세, 장기 금리 하락도 변동성 부담을 덜어준 것으로 보도됐습니다.",
+     "sources": [
+      {
+       "title": "뉴욕증시, 美 민주 압승 속 급등 마감…다우 3%↑·유가 급락",
+       "url": "https://www.newspim.com/news/view/20261105000034"
+      }
+     ]
+    }
+   ],
+   "note": "이벤트가 끝나며 생긴 일회성 하락 성격이 강합니다. 12월 11일 임시 예산안 만료와 부채한도 논의가 변동성 재료가 될 수 있습니다."
+  },
+  {
+   "key": "rsi",
+   "title": "QQQ RSI 36.4 (전날 32.8, +3.6)",
+   "tone": "neutral",
+   "cause": {
+    "text": "QQQ RSI가 32.8에서 36.4로 오른 것은 나스닥이 하루 1.44% 반등한 영향으로 보입니다. 아직 30대로 낮은 편이라 앞선 약세가 다 회복된 것은 아닙니다.",
+    "sources": [
+     {
+      "title": "뉴욕증시, 美 민주 압승 속 급등 마감…다우 3%↑·유가 급락",
+      "url": "https://www.newspim.com/news/view/20261105000034"
+     }
+    ]
+   },
+   "background": [
+    {
+     "text": "애플·마이크로소프트·아마존 등 빅테크는 강세였지만 엔비디아와 반도체는 약해 나스닥 상승폭이 다우보다 작았습니다.",
+     "sources": [
+      {
+       "title": "뉴욕증시, 민주당 압승에 급등⋯다우 3.03%↑ [종합]",
+       "url": "https://www.etoday.co.kr/news/view/2644291"
+      },
+      {
+       "title": "Dow has best post-midterm elections day in 44 years as Democrats take control of Congress",
+       "url": "https://www.cnn.com/2026/11/04/investing/us-markets-midterm-elections"
+      }
+     ]
+    }
+   ],
+   "note": "하루 반등이라 추세 전환으로 보기는 이릅니다. 반도체 규제 관련 소식과 며칠간의 나스닥 흐름을 확인해 보세요."
   }
  ]
 }
