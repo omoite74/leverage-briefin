@@ -1,77 +1,92 @@
 {
- "at": 1793773038309,
- "headline": "나스닥은 중간선거 당일 0.83% 반등했지만, 10월의 큰 하락과 금리 인상 우려, 민주당 우세 전망에 따른 선물 약세가 겹쳐 공포 심리는 그대로입니다.",
+ "at": 1793802669083,
+ "headline": "민주당이 상·하원을 모두 가져간 중간선거 직후 나스닥100 선물이 급락했다가 반등했고, 불안은 다소 가라앉았지만 심리는 아직 극단적 공포 구간입니다.",
  "items": [
   {
    "key": "fearGreed",
-   "title": "공포탐욕 19 극단적 공포 (전날 19, +0)",
+   "title": "공포탐욕 23 극단적 공포 (전날 19, +4)",
    "tone": "fear",
    "cause": {
-    "text": "10월 30일 나스닥이 AI 투자 부담 우려로 2.8% 급락한 충격이 이어지고, 중간선거에서 민주당이 우세하다는 소식에 나스닥 선물이 밀린 것으로 보입니다. 선거 당일 나스닥이 0.83% 오른 정도로는 심리가 바뀌지 않은 것으로 보입니다.",
+    "text": "장 마감 뒤 개표에서 민주당의 상·하원 장악이 확인되자 나스닥100 선물이 한때 크게 밀렸다가 저점에서 회복했고, 이 불확실성 해소가 공포탐욕 지수를 19에서 23으로 조금 끌어올린 것으로 보입니다. 다만 아직 극단적 공포 구간입니다.",
     "sources": [
      {
-      "title": "Stock market today: Nasdaq, Dow, S&P 500 clobbered as October closes with brutal sell-off",
-      "url": "https://finance.yahoo.com/markets/live/stock-market-today-friday-october-30-dow-sp-500-nasdaq-amazon-intel-ai-sell-off-191429143.html"
+      "title": "Wall Street Futures Plunged After Democrats Swept Congress. Then Investors Started Buying Again.",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/wall-street-futures-plunged-democrats-102707086.html"
+     },
+     {
+      "title": "A blue wave sends futures into the green",
+      "url": "https://www.cnbc.com/2026/11/04/a-blue-wave-sends-futures-into-the-green.html"
      }
     ]
    },
    "background": [
     {
-     "text": "아마존과 알파벳의 실적 부진으로 빅테크의 AI 투자가 수익으로 이어질지 의문이 커졌고, 나스닥은 10월 한 달 약 5% 넘게 내렸습니다.",
+     "text": "개표 초반 나스닥100 선물은 1~2%대까지 하락했는데, AI 데이터센터와 빅테크 규제가 강해질 수 있다는 우려가 컸던 것으로 보도됐습니다.",
      "sources": [
       {
-       "title": "Stock market today: Nasdaq, Dow, S&P 500 clobbered as October closes with brutal sell-off",
-       "url": "https://finance.yahoo.com/markets/live/stock-market-today-friday-october-30-dow-sp-500-nasdaq-amazon-intel-ai-sell-off-191429143.html"
+       "title": "US stock futures tumble as Democrats score key midterm election wins - AOL",
+       "url": "https://www.aol.com/articles/us-stock-futures-tumble-democrats-045740000.html"
       }
      ]
     },
     {
-     "text": "유가 상승과 연준 인사 두 명의 금리 인상 가능성 언급, 물가 지표 상승으로 12월 금리 인상 기대가 강해졌다고 전해집니다.",
+     "text": "이후 트럼프 대통령이 결과를 받아들일 뜻을 밝혀 정치적 불확실성이 줄면서 선물이 반등했다고 CNBC가 전했습니다.",
      "sources": [
       {
-       "title": "Stock market today: Nasdaq, Dow, S&P 500 clobbered as October closes with brutal sell-off",
-       "url": "https://finance.yahoo.com/markets/live/stock-market-today-friday-october-30-dow-sp-500-nasdaq-amazon-intel-ai-sell-off-191429143.html"
+       "title": "Dow futures soar 1,000 points as big midterm wins by Democrats remove political uncertainty risk on Wall Street: Live updates",
+       "url": "https://www.cnbc.com/2026/11/03/stock-market-today-live-updates.html"
       }
      ]
-    },
-    {
-     "text": "민주당이 의회를 장악하면 AI 규제가 강화될 수 있다는 우려로 선물이 밀렸다는 제목의 보도가 있었으나, 원문은 열어 보지 못해 세부 내용은 확인하지 못했습니다.",
-     "sources": []
     }
    ],
-   "note": "10월 급락에 선거 변수가 겹친 흐름이라 선거 결과가 확정되면 분위기가 달라질 수 있습니다. 12월 FOMC와 앞으로 나올 물가·고용 지표를 확인하시면 됩니다."
+   "note": "선거라는 일회성 이벤트 영향이 큽니다. 다만 선물 수치가 기사마다 달라, 오늘 밤 미국 정규장 개장 후 실제 흐름과 AI·반도체 규제 관련 소식을 확인하시면 좋습니다."
   },
   {
    "key": "putCall",
-   "title": "풋콜 0.83 (전날 0.81, +0.02)",
+   "title": "풋콜 0.88 (전날 0.83, +0.05)",
    "tone": "fear",
    "cause": {
-    "text": "풋콜 비율이 0.81에서 0.83으로 소폭 올랐습니다. 선거 결과, AI 규제, 금리 인상 불확실성에 대비한 하락 방어 수요가 조금 늘어난 것으로 보이지만, 이를 직접 확인한 기사는 찾지 못했습니다.",
-    "sources": []
+    "text": "선거 결과를 앞두고 하락에 대비하는 풋옵션 수요가 늘어 풋콜 비율이 0.83에서 0.88로 오른 것으로 보입니다. 옵션 거래량을 직접 다룬 기사는 찾지 못해 추정입니다.",
+    "sources": [
+     {
+      "title": "US stock futures tumble as Democrats score key midterm election wins - AOL",
+      "url": "https://www.aol.com/articles/us-stock-futures-tumble-democrats-045740000.html"
+     }
+    ]
    },
    "background": [
     {
-     "text": "민주당 우세 전망에 선물이 약해지면서 AI 관련주의 규제 위험이 부각됐다는 보도가 있었습니다.",
+     "text": "밤사이 선물이 급락해 기술주를 중심으로 헤지 수요가 커졌을 가능성이 있습니다.",
      "sources": []
     }
    ],
-   "note": "변화 폭이 작아 뚜렷한 추세로 보기는 어렵습니다. 선거 결과 확정 뒤 선물 흐름과 옵션 시장 반응을 보시면 됩니다."
+   "note": "선물이 반등했기 때문에 일시적 쏠림일 수 있습니다. 미국 정규장 개장 후 옵션 수요가 어떻게 바뀌는지 보시면 됩니다."
   },
   {
-   "key": "rsi",
-   "title": "QQQ RSI 32.8 (전날 27.2, +5.6)",
+   "key": "vix",
+   "title": "VIX 18.0 (전날 20.8, -2.9)",
    "tone": "neutral",
    "cause": {
-    "text": "QQQ RSI가 27.2에서 32.8로 올랐습니다. 선거 당일 나스닥이 0.83% 반등한 영향으로 보이며, 아직 30대 초반이라 과매도 구간 근처입니다.",
-    "sources": []
+    "text": "선거 불확실성이 풀리고 선물이 낙폭을 줄이면서 VIX가 20.8에서 18.0으로 내린 것으로 보입니다. 원인은 공포탐욕과 같아 짧게 정리했습니다.",
+    "sources": [
+     {
+      "title": "A blue wave sends futures into the green",
+      "url": "https://www.cnbc.com/2026/11/04/a-blue-wave-sends-futures-into-the-green.html"
+     }
+    ]
    },
    "background": [
     {
-     "text": "나스닥100은 10월 고점 대비 10% 넘게 내려 조정 구간에 들어섰다고 보도됐습니다.",
-     "sources": []
+     "text": "일부 전략가는 여야 교착이 기업 실적에 꼭 나쁘지 않다고 봤고, 과거 중간선거 뒤 증시가 오른 사례도 언급됐습니다.",
+     "sources": [
+      {
+       "title": "Midterm elections could jolt stocks as Democrats look poised to sweep Congress",
+       "url": "https://www.cnbc.com/2026/11/03/midterm-election-stock-market.html"
+      }
+     ]
     }
    ],
-   "note": "하루 반등만으로 추세 전환을 말하기는 어렵고, 선물이 약하면 다시 낮아질 수 있습니다. 선거 결과와 12월 FOMC를 확인하시면 됩니다."
+   "note": "선거 이벤트가 지나면 변동성이 줄어드는 경우가 많지만 이번 하락이 이어질지는 불확실합니다. 이후 금리와 연준 일정, 엔비디아 관련 소식을 확인하세요."
   }
  ]
 }
