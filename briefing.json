@@ -1,88 +1,32 @@
 {
- "at": 1794009647429,
- "headline": "전날 AI주 급락 뒤 반도체 저가 매수로 나스닥이 반등하고 VIX는 내려갔지만, 강한 고용 지표로 12월 금리 인상 우려가 커져 공포 심리는 여전합니다.",
+ "at": 1794061874563,
+ "headline": "전날 AI·반도체주 폭락 뒤 나스닥이 1.1% 반등해 VIX는 내렸지만, 강한 고용으로 금리 인상 우려가 커져 공포 심리는 여전히 극단적입니다.",
  "items": [
   {
    "key": "fearGreed",
    "title": "공포탐욕 22 극단적 공포 (전날 20, +2)",
    "tone": "fear",
    "cause": {
-    "text": "5일 나스닥이 5.5% 급락한 충격이 남아 있어, 6일 반등(+1.09%)에도 공포탐욕 지수는 22로 극단적 공포 구간에 머문 것으로 보입니다. 나스닥이 이번 주 3.4% 내려 4주 연속 하락한 점도 심리를 누른 것으로 보입니다.",
+    "text": "전날 나스닥이 약 5.5% 급락한 충격이 이어져, 반등에도 공포탐욕 지수는 22로 극단적 공포 구간에 머문 것으로 보입니다.",
     "sources": [
      {
-      "title": "뉴욕증시, AI 기술주 저가 매수에 반등…나스닥 1.09% 상승[뉴욕마감]",
-      "url": "https://news.mtn.co.kr/article/2026110707061130639"
+      "title": "Live updates: Bitcoin flatlines under $76,000 as stock bounce loses steam into the close",
+      "url": "https://www.coindesk.com/tech/2026/11/06/live-updates-nasdaq-100-futures-rally-points-to-stock-market-respite"
      }
     ]
    },
    "background": [
     {
-     "text": "중간선거 뒤 데이터센터 건설 규제가 강화될 수 있다는 우려가 급락의 원인으로 전해졌습니다.",
+     "text": "민주당이 의회 양원을 장악하자 AI 투자 둔화 우려가 번졌고, 반도체주는 2020년 3월 이후 최악의 하루를 보냈다고 합니다.",
      "sources": [
       {
-       "title": "뉴욕증시, AI 기술주 저가 매수에 반등…나스닥 1.09% 상승[뉴욕마감]",
-       "url": "https://news.mtn.co.kr/article/2026110707061130639"
+       "title": "Live updates: Bitcoin flatlines under $76,000 as stock bounce loses steam into the close",
+       "url": "https://www.coindesk.com/tech/2026/11/06/live-updates-nasdaq-100-futures-rally-points-to-stock-market-respite"
       }
      ]
     },
     {
-     "text": "10월 고용이 16만5000명 늘어 예상치(5만9000명)를 크게 웃돌면서 12월 금리 인상 가능성이 커졌습니다.",
-     "sources": [
-      {
-       "title": "[종합] 美 10월 고용 16만5000명 '깜짝 증가'…12월 금리 인상 전망 강화",
-       "url": "https://www.newspim.com/news/view/20261106001315"
-      }
-     ]
-    }
-   ],
-   "note": "급락 뒤 첫 반등이라 심리가 바로 회복될지는 불확실합니다. 10일 발표되는 10월 소비자물가지수(CPI)가 다음 확인 지점입니다. 장 마감 후 선물 등 새 속보는 검색에서 확인하지 못했습니다."
-  },
-  {
-   "key": "putCall",
-   "title": "풋콜 0.86 (전날 0.87, -0.01)",
-   "tone": "fear",
-   "cause": {
-    "text": "풋콜 비율이 0.87에서 0.86으로 거의 변하지 않았습니다. 반등 속에서도 하락 대비 수요가 크게 줄지 않아, 투자자들이 경계를 완전히 풀지는 않은 것으로 보입니다.",
-    "sources": []
-   },
-   "background": [
-    {
-     "text": "AMD +11%, 마이크론 +5%, 엔비디아 +2.8% 등 반도체주가 크게 올랐지만 전날 낙폭이 컸습니다.",
-     "sources": [
-      {
-       "title": "뉴욕증시, AI 기술주 저가 매수에 반등…나스닥 1.09% 상승[뉴욕마감]",
-       "url": "https://news.mtn.co.kr/article/2026110707061130639"
-      }
-     ]
-    }
-   ],
-   "note": "변화 폭이 작아 특별한 신호로 보기는 어렵습니다. 10일 CPI 발표 뒤 옵션 수요가 달라지는지 지켜볼 만합니다."
-  },
-  {
-   "key": "vix",
-   "title": "VIX 25.6 (전날 28.2, -2.5)",
-   "tone": "neutral",
-   "cause": {
-    "text": "전날 급락 뒤 저가 매수로 나스닥이 반등하면서 치솟았던 변동성이 일부 가라앉아 VIX가 28.2에서 25.6으로 내려온 것으로 보입니다.",
-    "sources": [
-     {
-      "title": "뉴욕증시, AI 기술주 저가 매수에 반등…나스닥 1.09% 상승[뉴욕마감]",
-      "url": "https://news.mtn.co.kr/article/2026110707061130639"
-     }
-    ]
-   },
-   "background": [
-    {
-     "text": "나스닥은 5일 5.5% 급락해 고점 대비 10% 넘게 밀린 조정 국면에 들어갔다가 6일 반등했습니다.",
-     "sources": [
-      {
-       "title": "뉴욕증시, AI 기술주 저가 매수에 반등…나스닥 1.09% 상승[뉴욕마감]",
-       "url": "https://news.mtn.co.kr/article/2026110707061130639"
-      }
-     ]
-    },
-    {
-     "text": "일부에서는 공매도 청산과 저가 매수에 따른 기술적 반등일 수 있다고 봤습니다.",
+     "text": "반등에도 나스닥과 S&P500은 4주 연속 주간 하락했고, 반등은 저가 매수 성격이 강하다는 시각이 있습니다.",
      "sources": [
       {
        "title": "뉴욕증시, AI 기술주 급락 뒤 반등 … 나스닥 1.1% 상승",
@@ -91,42 +35,102 @@
      ]
     }
    ],
-   "note": "VIX 25대는 평소보다 높은 수준입니다. 반등이 이어질지는 10일 CPI와 데이터센터 규제 관련 소식에 달려 있습니다."
+   "note": "급락 직후의 심리 위축이라 반등이 이어지는지에 따라 달라질 수 있습니다. 다음 주 CPI·PPI 발표를 확인하시면 좋습니다."
+  },
+  {
+   "key": "putCall",
+   "title": "풋콜 0.86 (전날 0.87, -0.01)",
+   "tone": "fear",
+   "cause": {
+    "text": "풋콜 0.86은 전날과 거의 같아, 급락 뒤 반등에도 하락 대비 수요가 크게 줄지 않은 것으로 보입니다. 이 수치를 직접 설명한 기사는 찾지 못했습니다.",
+    "sources": []
+   },
+   "background": [
+    {
+     "text": "12월 금리 인상 확률이 약 77%로 올라갔고 헤지펀드 레버리지 축소가 컸다는 보도가 있어 방어적 수요가 남았을 수 있습니다.",
+     "sources": [
+      {
+       "title": "Live updates: Bitcoin flatlines under $76,000 as stock bounce loses steam into the close",
+       "url": "https://www.coindesk.com/tech/2026/11/06/live-updates-nasdaq-100-futures-rally-points-to-stock-market-respite"
+      }
+     ]
+    }
+   ],
+   "note": "하루 변화가 작아 특별한 신호로 보기는 어렵습니다. 다음 주 물가 지표 전후의 변화를 지켜보시면 됩니다."
+  },
+  {
+   "key": "vix",
+   "title": "VIX 25.6 (전날 28.2, -2.5)",
+   "tone": "neutral",
+   "cause": {
+    "text": "전날 급락 뒤 AI·반도체주 저가 매수로 지수가 반등하면서 VIX가 25.6으로 내린 것으로 보입니다.",
+    "sources": [
+     {
+      "title": "뉴욕증시, AI 기술주 급락 뒤 반등 … 나스닥 1.1% 상승",
+      "url": "https://www.newdaily.co.kr/site/data/html/2026/11/07/2026110700013.html"
+     }
+    ]
+   },
+   "background": [
+    {
+     "text": "엔비디아는 2.78%, AMD는 11% 올랐고 필라델피아 반도체지수는 4.2% 상승했습니다.",
+     "sources": [
+      {
+       "title": "뉴욕증시, AI 기술주 급락 뒤 반등 … 나스닥 1.1% 상승",
+       "url": "https://www.newdaily.co.kr/site/data/html/2026/11/07/2026110700013.html"
+      }
+     ]
+    },
+    {
+     "text": "다만 나스닥은 장중 2% 넘게 올랐다가 상승폭을 줄였고, 반도체 ETF는 주간 14% 넘게 하락해 불안이 남아 있습니다.",
+     "sources": [
+      {
+       "title": "Live updates: Bitcoin flatlines under $76,000 as stock bounce loses steam into the close",
+       "url": "https://www.coindesk.com/tech/2026/11/06/live-updates-nasdaq-100-futures-rally-points-to-stock-market-respite"
+      }
+     ]
+    }
+   ],
+   "note": "급락 뒤 되돌림 성격이 커서 일회성일 수 있습니다. 다음 주 CPI·PPI가 변수입니다."
   },
   {
    "key": "ma",
    "title": "QQQ $656.10 (전날 대비 +1.4%, 200일선 대비 아래 3.6%)",
    "tone": "greed",
    "cause": {
-    "text": "AI·반도체주 저가 매수로 나스닥이 반등하면서 QQQ가 전날보다 1.4% 올라 $656.10이 된 것으로 보입니다. 그래도 200일선보다는 3.6% 아래입니다.",
+    "text": "AI·반도체주 저가 매수로 QQQ가 1.4% 반등했지만, 전날 급락 때문에 200일선보다 3.6% 아래에 머문 것으로 보입니다.",
     "sources": [
      {
-      "title": "뉴욕증시, AI 기술주 저가 매수에 반등…나스닥 1.09% 상승[뉴욕마감]",
-      "url": "https://news.mtn.co.kr/article/2026110707061130639"
+      "title": "뉴욕증시, AI 기술주 급락 뒤 반등 … 나스닥 1.1% 상승",
+      "url": "https://www.newdaily.co.kr/site/data/html/2026/11/07/2026110700013.html"
      }
     ]
    },
    "background": [
     {
-     "text": "전날 엔비디아가 약 9%, 마이크론이 약 17% 급락했던 터라 반등에도 낙폭을 다 메우지는 못했습니다.",
+     "text": "10월 고용이 16만 5천 명 늘어 예상을 크게 웃돌면서 12월 금리 인상 기대가 커졌고, 10년물 금리는 약 4.9% 부근이었습니다.",
      "sources": [
       {
-       "title": "뉴욕증시, AI 기술주 저가 매수에 반등…나스닥 1.09% 상승[뉴욕마감]",
-       "url": "https://news.mtn.co.kr/article/2026110707061130639"
+       "title": "Live updates: Bitcoin flatlines under $76,000 as stock bounce loses steam into the close",
+       "url": "https://www.coindesk.com/tech/2026/11/06/live-updates-nasdaq-100-futures-rally-points-to-stock-market-respite"
+      },
+      {
+       "title": "뉴욕증시, AI 기술주 급락 뒤 반등 … 나스닥 1.1% 상승",
+       "url": "https://www.newdaily.co.kr/site/data/html/2026/11/07/2026110700013.html"
       }
      ]
     },
     {
-     "text": "S&P500은 이번 주 2.7%, 나스닥은 3.4% 내려 3대 지수가 모두 주간 하락했습니다.",
+     "text": "같은 날 수지 와일스 비서실장이 물러나고 후임에 스티븐 밀러가 거론됐으며, 오픈AI는 AI 데이터센터 투자를 계속하겠다고 밝혔습니다.",
      "sources": [
       {
-       "title": "뉴욕증시, AI 기술주 저가 매수에 반등…나스닥 1.09% 상승[뉴욕마감]",
-       "url": "https://news.mtn.co.kr/article/2026110707061130639"
+       "title": "Live updates: Bitcoin flatlines under $76,000 as stock bounce loses steam into the close",
+       "url": "https://www.coindesk.com/tech/2026/11/06/live-updates-nasdaq-100-futures-rally-points-to-stock-market-respite"
       }
      ]
     }
    ],
-   "note": "200일선 회복 여부는 데이터센터 규제 우려와 12월 금리 인상 기대의 향방에 달려 있습니다. 10일 CPI 발표를 확인하세요."
+   "note": "200일선 회복 여부는 금리 인상 기대와 AI 투자 심리에 달려 있습니다. 다음 주 CPI·PPI와 12월 연준 회의를 확인하시면 좋습니다."
   }
  ]
 }
