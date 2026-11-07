@@ -1,115 +1,132 @@
 {
- "at": 1793975446267,
- "headline": "AI 규제 우려로 나스닥이 5.5% 급락한 다음 날 선물은 반등했지만, 강한 고용으로 12월 금리 인상 우려가 남아 공포 심리는 그대로입니다.",
+ "at": 1794009647429,
+ "headline": "전날 AI주 급락 뒤 반도체 저가 매수로 나스닥이 반등하고 VIX는 내려갔지만, 강한 고용 지표로 12월 금리 인상 우려가 커져 공포 심리는 여전합니다.",
  "items": [
   {
    "key": "fearGreed",
-   "title": "공포탐욕 20 극단적 공포 (전날 20, +0)",
+   "title": "공포탐욕 22 극단적 공포 (전날 20, +2)",
    "tone": "fear",
    "cause": {
-    "text": "지난 5일 나스닥이 5.52% 급락해 조정장에 들어선 충격이 이어지면서 공포탐욕지수가 전날과 같은 20(극단적 공포)에 머문 것으로 보입니다. 6일 선물은 반등했지만 심리를 되돌리기엔 부족했던 것으로 보입니다.",
+    "text": "5일 나스닥이 5.5% 급락한 충격이 남아 있어, 6일 반등(+1.09%)에도 공포탐욕 지수는 22로 극단적 공포 구간에 머문 것으로 보입니다. 나스닥이 이번 주 3.4% 내려 4주 연속 하락한 점도 심리를 누른 것으로 보입니다.",
     "sources": [
      {
-      "title": "뉴욕증시, AI 기술주 투매에 급락…나스닥 5.5%↓",
-      "url": "https://www.seoul.co.kr/news/international/USA-amrica/2026/11/06/20261106500012"
+      "title": "뉴욕증시, AI 기술주 저가 매수에 반등…나스닥 1.09% 상승[뉴욕마감]",
+      "url": "https://news.mtn.co.kr/article/2026110707061130639"
      }
     ]
    },
    "background": [
     {
-     "text": "중간선거에서 민주당이 상·하원을 모두 가져간 뒤 AI 규제 강화와 데이터센터 투자 둔화 우려가 커져 기술주 매도가 쏟아졌다는 분석입니다.",
+     "text": "중간선거 뒤 데이터센터 건설 규제가 강화될 수 있다는 우려가 급락의 원인으로 전해졌습니다.",
      "sources": [
       {
-       "title": "뉴욕증시, AI 기술주 투매에 급락…나스닥 5.5%↓",
-       "url": "https://www.seoul.co.kr/news/international/USA-amrica/2026/11/06/20261106500012"
+       "title": "뉴욕증시, AI 기술주 저가 매수에 반등…나스닥 1.09% 상승[뉴욕마감]",
+       "url": "https://news.mtn.co.kr/article/2026110707061130639"
       }
      ]
     },
     {
-     "text": "필라델피아 반도체지수가 약 12% 떨어지고 엔비디아 9.2%, 브로드컴 10.6%가 하락했다고 보도되었습니다.",
+     "text": "10월 고용이 16만5000명 늘어 예상치(5만9000명)를 크게 웃돌면서 12월 금리 인상 가능성이 커졌습니다.",
      "sources": [
       {
-       "title": "뉴욕증시, AI 규제 공포에 ‘검은 목요일’...나스닥 5.52% 급락",
-       "url": "https://www.newstopkorea.com/news/articleView.html?idxno=48811"
-      }
-     ]
-    },
-    {
-     "text": "10월 고용은 16만5천 명 증가로 예상(약 7만 명)을 크게 웃돌았고, 시장은 12월 금리 인상 가능성을 이미 상당 부분 반영한 상태입니다.",
-     "sources": [
-      {
-       "title": "Stock market today: Nasdaq futures rebound after brutal sell-off, Dow and S&P 500 wobble as US adds 165K jobs",
-       "url": "https://finance.yahoo.com/markets/live/stock-market-today-friday-november-6-dow-sp-500-nasdaq-jobs-report-earnings-135953863.html"
+       "title": "[종합] 美 10월 고용 16만5000명 '깜짝 증가'…12월 금리 인상 전망 강화",
+       "url": "https://www.newspim.com/news/view/20261106001315"
       }
      ]
     }
    ],
-   "note": "급락 직후라 반등이 이어져도 심리 회복에는 시간이 걸릴 수 있습니다. 연준 인사들의 발언, 12월 FOMC, AI 규제 관련 의회 움직임을 확인하시면 됩니다."
+   "note": "급락 뒤 첫 반등이라 심리가 바로 회복될지는 불확실합니다. 10일 발표되는 10월 소비자물가지수(CPI)가 다음 확인 지점입니다. 장 마감 후 선물 등 새 속보는 검색에서 확인하지 못했습니다."
   },
   {
    "key": "putCall",
-   "title": "풋콜 0.90 (전날 0.87, +0.03)",
+   "title": "풋콜 0.86 (전날 0.87, -0.01)",
    "tone": "fear",
    "cause": {
-    "text": "급락 뒤 하락에 대비한 풋옵션 수요가 늘어 풋콜 비율이 0.87에서 0.90으로 소폭 오른 것으로 보입니다. 이 연결은 기사에서 직접 확인한 것이 아니라 상황에 따른 추정입니다.",
+    "text": "풋콜 비율이 0.87에서 0.86으로 거의 변하지 않았습니다. 반등 속에서도 하락 대비 수요가 크게 줄지 않아, 투자자들이 경계를 완전히 풀지는 않은 것으로 보입니다.",
     "sources": []
    },
    "background": [
     {
-     "text": "나스닥이 하루 만에 5.5% 떨어져 10% 넘는 조정장에 들어서면서 방어 수요가 커졌을 수 있습니다.",
+     "text": "AMD +11%, 마이크론 +5%, 엔비디아 +2.8% 등 반도체주가 크게 올랐지만 전날 낙폭이 컸습니다.",
      "sources": [
       {
-       "title": "뉴욕증시, AI 기술주 투매에 급락…나스닥 5.5%↓",
-       "url": "https://www.seoul.co.kr/news/international/USA-amrica/2026/11/06/20261106500012"
-      }
-     ]
-    },
-    {
-     "text": "고용이 강해 금리 인상 우려가 남은 점도 불안 요인으로 거론됩니다.",
-     "sources": [
-      {
-       "title": "Stock market today: Nasdaq futures rebound after brutal sell-off, Dow and S&P 500 wobble as US adds 165K jobs",
-       "url": "https://finance.yahoo.com/markets/live/stock-market-today-friday-november-6-dow-sp-500-nasdaq-jobs-report-earnings-135953863.html"
+       "title": "뉴욕증시, AI 기술주 저가 매수에 반등…나스닥 1.09% 상승[뉴욕마감]",
+       "url": "https://news.mtn.co.kr/article/2026110707061130639"
       }
      ]
     }
    ],
-   "note": "하루 변화폭(+0.03)은 작아서 의미를 크게 두기 어렵습니다. 반등이 자리 잡는지 며칠 더 지켜보시는 게 좋습니다."
+   "note": "변화 폭이 작아 특별한 신호로 보기는 어렵습니다. 10일 CPI 발표 뒤 옵션 수요가 달라지는지 지켜볼 만합니다."
   },
   {
-   "key": "ma",
-   "title": "QQQ $658.42 (전날 대비 +1.8%, 200일선 대비 아래 3.3%)",
-   "tone": "greed",
+   "key": "vix",
+   "title": "VIX 25.6 (전날 28.2, -2.5)",
+   "tone": "neutral",
    "cause": {
-    "text": "QQQ가 전날보다 1.8% 오른 것은 AI·반도체주가 폭락한 다음 날 저가 매수가 들어오고 나스닥 선물이 반등한 흐름과 맞닿아 있는 것으로 보입니다. 그래도 200일선보다는 3.3% 아래입니다.",
+    "text": "전날 급락 뒤 저가 매수로 나스닥이 반등하면서 치솟았던 변동성이 일부 가라앉아 VIX가 28.2에서 25.6으로 내려온 것으로 보입니다.",
     "sources": [
      {
-      "title": "뉴욕증시 프리뷰, 나스닥 선물 반등…AI주 폭락 하루 만에 반도체주 저가 매수세",
-      "url": "https://www.newspim.com/news/view/20261106001264"
+      "title": "뉴욕증시, AI 기술주 저가 매수에 반등…나스닥 1.09% 상승[뉴욕마감]",
+      "url": "https://news.mtn.co.kr/article/2026110707061130639"
      }
     ]
    },
    "background": [
     {
-     "text": "6일 새벽 나스닥100 선물은 1%대 올랐고 엔비디아는 프리마켓에서 4.5% 올랐다고 보도되었습니다. 매체별 상승폭은 조금씩 다릅니다.",
+     "text": "나스닥은 5일 5.5% 급락해 고점 대비 10% 넘게 밀린 조정 국면에 들어갔다가 6일 반등했습니다.",
      "sources": [
       {
-       "title": "Stock market today: Nasdaq futures rebound after brutal sell-off, Dow and S&P 500 wobble as US adds 165K jobs",
-       "url": "https://finance.yahoo.com/markets/live/stock-market-today-friday-november-6-dow-sp-500-nasdaq-jobs-report-earnings-135953863.html"
+       "title": "뉴욕증시, AI 기술주 저가 매수에 반등…나스닥 1.09% 상승[뉴욕마감]",
+       "url": "https://news.mtn.co.kr/article/2026110707061130639"
       }
      ]
     },
     {
-     "text": "Jefferies는 이번 매도를 근본적 변화가 아닌 반사적 반응이라고 평가했습니다.",
+     "text": "일부에서는 공매도 청산과 저가 매수에 따른 기술적 반등일 수 있다고 봤습니다.",
      "sources": [
       {
-       "title": "Nasdaq futures rise after steep AI selloff as chip stocks stabilize By Reuters",
-       "url": "https://www.investing.com/news/stock-market-news/nasdaq-futures-rise-after-steep-ai-selloff-as-chip-stocks-stabilize-5007026"
+       "title": "뉴욕증시, AI 기술주 급락 뒤 반등 … 나스닥 1.1% 상승",
+       "url": "https://www.newdaily.co.kr/site/data/html/2026/11/07/2026110700013.html"
       }
      ]
     }
    ],
-   "note": "급락분의 일부를 되돌린 반등이라 추세 전환으로 보기는 이릅니다. 200일선 회복 여부와 AI 규제·금리 관련 소식을 확인하시면 됩니다."
+   "note": "VIX 25대는 평소보다 높은 수준입니다. 반등이 이어질지는 10일 CPI와 데이터센터 규제 관련 소식에 달려 있습니다."
+  },
+  {
+   "key": "ma",
+   "title": "QQQ $656.10 (전날 대비 +1.4%, 200일선 대비 아래 3.6%)",
+   "tone": "greed",
+   "cause": {
+    "text": "AI·반도체주 저가 매수로 나스닥이 반등하면서 QQQ가 전날보다 1.4% 올라 $656.10이 된 것으로 보입니다. 그래도 200일선보다는 3.6% 아래입니다.",
+    "sources": [
+     {
+      "title": "뉴욕증시, AI 기술주 저가 매수에 반등…나스닥 1.09% 상승[뉴욕마감]",
+      "url": "https://news.mtn.co.kr/article/2026110707061130639"
+     }
+    ]
+   },
+   "background": [
+    {
+     "text": "전날 엔비디아가 약 9%, 마이크론이 약 17% 급락했던 터라 반등에도 낙폭을 다 메우지는 못했습니다.",
+     "sources": [
+      {
+       "title": "뉴욕증시, AI 기술주 저가 매수에 반등…나스닥 1.09% 상승[뉴욕마감]",
+       "url": "https://news.mtn.co.kr/article/2026110707061130639"
+      }
+     ]
+    },
+    {
+     "text": "S&P500은 이번 주 2.7%, 나스닥은 3.4% 내려 3대 지수가 모두 주간 하락했습니다.",
+     "sources": [
+      {
+       "title": "뉴욕증시, AI 기술주 저가 매수에 반등…나스닥 1.09% 상승[뉴욕마감]",
+       "url": "https://news.mtn.co.kr/article/2026110707061130639"
+      }
+     ]
+    }
+   ],
+   "note": "200일선 회복 여부는 데이터센터 규제 우려와 12월 금리 인상 기대의 향방에 달려 있습니다. 10일 CPI 발표를 확인하세요."
   }
  ]
 }
