@@ -1,166 +1,180 @@
 {
- "at": 1794261684051,
- "headline": "AI 반도체주 반등과 유가 급락으로 나스닥이 2.74% 오르며 공포가 누그러졌지만, 오늘 밤 10월 CPI와 금리 인상 전망이 다음 변수입니다.",
+ "at": 1794267900426,
+ "headline": "장 마감 뒤 나스닥100 선물은 0.2%대 소폭 오름에 그쳤고, 유가 급락과 반도체 반등으로 VIX가 20 아래로 내려와 공포가 꺾였지만 오늘 밤 CPI를 앞두고 경계는 남아 있습니다.",
  "items": [
   {
    "key": "fearGreed",
    "title": "공포탐욕 32 공포 (전날 22, +10)",
    "tone": "neutral",
    "cause": {
-    "text": "지난주 AI 매도로 위축됐던 심리가 월요일(9일) 반도체주 반등과 유가 하락으로 회복되며 공포탐욕지수가 22에서 32로 오른 것으로 보입니다. 장 마감 뒤에는 엔비디아 CEO 관련 조사 소식이 이어졌지만, 이날 선물은 오히려 오름세였습니다.",
+    "text": "어제 정규장에서 유가가 급락하고 반도체가 크게 반등해 나스닥이 2.74% 오르면서 공포탐욕 지수가 22에서 32로 올라온 것으로 보입니다. 장 마감 뒤 나스닥100 선물은 0.19% 오른 정도로, 추가 급등 없이 CPI를 기다리는 분위기입니다.",
     "sources": [
      {
-      "title": "Dow surges 1,100 points, Nasdaq climbs more than 2% as tech rebounds from last week's tumult: Live updates",
-      "url": "https://www.cnbc.com/2026/11/08/stock-market-today-live-updates.html"
+      "title": "S&P 500 futures are little changed as traders brace for crucial consumer inflation report: Live updates",
+      "url": "https://www.cnbc.com/2026/11/09/stock-market-today-live-updates.html"
+     },
+     {
+      "title": "[뉴욕마감]엔비디아 위기에도 급반등…나스닥 2.74% 상승 - 뉴스1",
+      "url": "https://www.news1.kr/world/international-economy/6348378"
      }
-    ]
+    ],
+    "stars": 5
    },
    "background": [
     {
-     "text": "지난주 목요일 AI 관련주 매도는 민주당의 중간선거 선전으로 데이터센터 규제 우려가 커진 데다, 엔비디아 이사회가 CEO 관련 조사를 시작한 영향이 컸다고 CNBC가 전했습니다.",
+     "text": "트럼프 대통령이 이란에 대한 추가 대규모 공습 가능성을 낮게 봤다는 발언 뒤 중동 긴장 완화 기대가 커져 WTI가 4.38% 내린 86.85달러에 마감했습니다.",
      "sources": [
       {
-       "title": "Dow surges 1,100 points, Nasdaq climbs more than 2% as tech rebounds from last week's tumult: Live updates",
-       "url": "https://www.cnbc.com/2026/11/08/stock-market-today-live-updates.html"
+       "title": "뉴욕증시, 엔비디아 급락에도 ‘활짝’…나스닥 2.74%↑ [종합] - 이투데이",
+       "url": "https://www.etoday.co.kr/news/view/2646002"
       }
-     ]
+     ],
+     "stars": 4
     },
     {
-     "text": "월요일 다우는 2.15%, S&P500은 2.35%, 나스닥은 2.74% 올랐고, 반도체 ETF(SOXX)는 전주 약 13% 하락한 뒤 7% 넘게 반등했습니다.",
+     "text": "지난주 AI 관련 급락 뒤 낙폭 과대 인식으로 매수세가 들어와 필라델피아 반도체지수가 약 6.9% 올랐습니다.",
      "sources": [
       {
-       "title": "Dow surges 1,100 points, Nasdaq climbs more than 2% as tech rebounds from last week's tumult: Live updates",
-       "url": "https://www.cnbc.com/2026/11/08/stock-market-today-live-updates.html"
+       "title": "미국증시 나스닥 2.74% 급등…유가 급락에 반도체 반등, 엔비디아는 홀로 하락",
+       "url": "https://www.topstarnews.net/news/articleView.html?idxno=16272538"
       }
-     ]
+     ],
+     "stars": 3
+    },
+    {
+     "text": "엔비디아는 CEO 관련 조사 소식으로 4%대 하락해 지수 상승을 일부 제한했습니다.",
+     "sources": [
+      {
+       "title": "Trading Day: Broad rebound rally lifts all boats but Nvidia By Reuters",
+       "url": "https://www.investing.com/news/economy-news/trading-day-broad-rebound-rally-lifts-all-boats-but-nvidia-5013492"
+      }
+     ],
+     "stars": 2
     }
    ],
-   "note": "급락 뒤 반등이라 일회성 성격이 강하고 지수는 아직 '공포' 구간입니다. 오늘 밤 10월 CPI(미 동부 10일 오전 8시 30분), 13일 PPI, 17일 엔비디아 실적을 확인하시면 됩니다."
+   "note": "지수가 한 번 크게 반등한 것이어서 일회성일 수 있고, 아직 '공포' 구간입니다. 한국시간 오늘 밤 발표되는 미국 CPI와 12월 FOMC가 다음 확인 지점입니다."
   },
   {
    "key": "putCall",
    "title": "풋콜 0.84 (전날 0.86, -0.02)",
    "tone": "fear",
    "cause": {
-    "text": "급락 뒤 반등으로 하락 대비 수요가 조금 줄어 풋콜 비율이 0.86에서 0.84로 소폭 내린 것으로 보입니다. 변화가 작아 이 숫자만 설명하는 기사는 찾지 못했습니다.",
-    "sources": []
+    "text": "풋콜 비율이 0.86에서 0.84로 거의 변하지 않은 것은, 주가가 크게 올랐어도 하락 대비 옵션 수요가 완전히 줄지는 않았다는 뜻으로 보입니다. CPI 발표를 앞두고 관망하는 분위기와 맞닿아 있습니다.",
+    "sources": [
+     {
+      "title": "S&P 500 futures are little changed as traders brace for crucial consumer inflation report: Live updates",
+      "url": "https://www.cnbc.com/2026/11/09/stock-market-today-live-updates.html"
+     }
+    ],
+    "stars": 3
    },
    "background": [
     {
-     "text": "반등 폭은 컸지만 CPI 발표를 앞두고 있어 방어적인 거래가 완전히 사라지지는 않은 것으로 보입니다.",
-     "sources": []
+     "text": "국채 금리가 오르고 연준 금리 인상 기대가 이어지고 있어 투자자들이 방어 수단을 완전히 거두기 어려운 상황입니다.",
+     "sources": [
+      {
+       "title": "Trading Day: Broad rebound rally lifts all boats but Nvidia By Reuters",
+       "url": "https://www.investing.com/news/economy-news/trading-day-broad-rebound-rally-lifts-all-boats-but-nvidia-5013492"
+      }
+     ],
+     "stars": 3
     }
    ],
-   "note": "변동폭이 작아 의미를 크게 두기 어렵습니다. CPI 발표 뒤 옵션 수요가 달라지는지 보시면 됩니다."
+   "note": "변화 폭이 작아 뚜렷한 신호로 보기는 어렵습니다. CPI 결과 이후 수치가 어떻게 달라지는지 확인해 보세요."
   },
   {
    "key": "vix",
    "title": "VIX 19.9 (전날 25.6, -5.7)",
    "tone": "neutral",
    "cause": {
-    "text": "주가가 크게 반등하고 유가가 내리면서 변동성 보험 수요가 줄어 VIX가 25.6에서 19.9로 내린 것으로 보입니다. 원인은 공포탐욕지수와 같습니다.",
+    "text": "VIX가 25.6에서 19.9로 크게 내려온 것은 유가 급락으로 인플레이션과 금리 인상 걱정이 줄고 주가가 급반등했기 때문으로 보입니다. 하루 하락률은 2025년 4월 이후 가장 컸다고 전해집니다.",
     "sources": [
      {
-      "title": "U.S. Stock Futures Gain as Oil Drop Offsets Nvidia Slump; Inflation Data Awaited",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/u-stock-futures-gain-oil-113439378.html"
+      "title": "Stock Market Today: S&P 500 Up 2.35%, Nasdaq Up 2.74% — JournalArta Global",
+      "url": "https://journalarta.com/en/2026/11/10/stock-market-today-sp-500-surges-2-35-to-7549-94-and-nasdaq-jumps-2-74-as-oil-falls-and-vix-drops/"
      }
-    ]
+    ],
+    "stars": 5
    },
    "background": [
     {
-     "text": "WTI 유가는 트럼프 대통령이 이란 추가 공격 가능성이 낮다고 밝히고 호르무즈 해협 협상이 진전된다는 소식에 3% 넘게 내렸습니다.",
+     "text": "브렌트유가 5.5% 내린 92.91달러, WTI가 86~87달러대로 떨어지며 에너지발 물가 부담이 줄었습니다.",
      "sources": [
       {
-       "title": "U.S. Stock Futures Gain as Oil Drop Offsets Nvidia Slump; Inflation Data Awaited",
-       "url": "https://finance.yahoo.com/markets/stocks/articles/u-stock-futures-gain-oil-113439378.html"
+       "title": "Stock market today: Nasdaq surges despite Nvidia stock slide, Dow and S&P 500 rally as AI tech trade rises",
+       "url": "https://finance.yahoo.com/markets/live/stock-market-today-monday-november-9-dow-sp-500-nasdaq-nvidia-090535419.html"
       }
-     ]
+     ],
+     "stars": 4
     },
     {
-     "text": "다만 CNBC는 루비오 국무장관이 이란의 요구를 '터무니없다'고 말해 협상이 정체된 듯하다고 전해, 유가 변수는 남아 있습니다.",
+     "text": "S&P500은 2.35% 올라 7,549.94에 마감하며 지난주 급락 충격에서 벗어났습니다.",
      "sources": [
       {
-       "title": "Dow surges 1,100 points, Nasdaq climbs more than 2% as tech rebounds from last week's tumult: Live updates",
-       "url": "https://www.cnbc.com/2026/11/08/stock-market-today-live-updates.html"
+       "title": "뉴욕증시, 엔비디아 급락에도 ‘활짝’…나스닥 2.74%↑ [종합] - 이투데이",
+       "url": "https://www.etoday.co.kr/news/view/2646002"
       }
-     ]
+     ],
+     "stars": 3
     }
    ],
-   "note": "하루 만에 5.7 내린 급락이라 CPI 결과와 중동 협상 뉴스에 따라 다시 움직일 수 있습니다."
+   "note": "VIX 역전이 풀린 지 하루뿐이라 다시 튈 수 있습니다. 화요일 CPI와 12월 FOMC 전까지 변동 가능성을 보세요."
   },
   {
    "key": "rsi",
    "title": "QQQ RSI 39.5 (전날 30.5, +9.0)",
    "tone": "neutral",
    "cause": {
-    "text": "QQQ가 하루 3.5% 올라 과매도에 가깝던 RSI가 30.5에서 39.5로 올라온 것으로 보입니다.",
+    "text": "QQQ RSI가 30.5에서 39.5로 오른 것은 하루 3.5% 상승으로 과매도 구간(30 안팎)에서 벗어났기 때문으로 보입니다.",
     "sources": [
      {
-      "title": "Nvidia Falls in the Stock Market Today Live, November 9, 2026, as Other Tech Stocks Rally",
-      "url": "https://www.stocktitan.net/articles/stock-market-today-live-november-9-2026"
+      "title": "[뉴욕마감]엔비디아 위기에도 급반등…나스닥 2.74% 상승 - 뉴스1",
+      "url": "https://www.news1.kr/world/international-economy/6348378"
      }
-    ]
+    ],
+    "stars": 4
    },
    "background": [
     {
-     "text": "QQQ는 월요일 3.54% 올라 마감했고, 엔비디아를 뺀 반도체(AMD 13%, 브로드컴 9% 상승)가 상승을 이끌었습니다.",
+     "text": "지난주 AI 관련 급락으로 RSI가 크게 낮아졌다가 반도체 저가 매수로 되돌림이 나왔습니다.",
      "sources": [
       {
-       "title": "Nvidia Falls in the Stock Market Today Live, November 9, 2026, as Other Tech Stocks Rally",
-       "url": "https://www.stocktitan.net/articles/stock-market-today-live-november-9-2026"
+       "title": "How Are Dow, S&P 500, Nasdaq Futures Trading After Last Week’s AI Bloodbath?",
+       "url": "https://stocktwits.com/news-articles/markets/equity/dow-s-and-p-500-nasdaq-futures-rebound-after-sharp-ai-selloff-last-week-nvda-amd-vir-sndk-in-focus/cNGADuWR9eT"
       }
-     ]
-    },
-    {
-     "text": "슈왑의 리즈 앤 손더스는 나스닥이 과매도 상태라고 평가했다고 전해집니다.",
-     "sources": [
-      {
-       "title": "Nasdaq 100 Futures Face Pressure from Chip Earnings and Politics",
-       "url": "https://www.archyde.com/nasdaq-100-futures-face-pressure-from-chip-earnings-and-politics/"
-      }
-     ]
+     ],
+     "stars": 3
     }
    ],
-   "note": "RSI가 40 아래라 아직 약세권입니다. 반등이 이어질지는 CPI와 엔비디아 실적(17일)에 달려 있습니다."
+   "note": "RSI 39.5는 아직 중립(50)보다 낮아 반등이 이어졌다고 단정하기 어렵습니다. 며칠간 40~50 구간을 회복하는지 보시면 됩니다."
   },
   {
    "key": "ma",
    "title": "QQQ $679.35 (전날 대비 +3.5%, 200일선 대비 아래 0.3%)",
    "tone": "greed",
    "cause": {
-    "text": "QQQ가 $679.35로 3.5% 오르며 200일선 바로 아래(0.3%)까지 올라온 것으로 보입니다. 같은 반도체 반등과 유가 하락이 원인입니다.",
+    "text": "QQQ가 하루 3.5% 올라 $679.35가 되면서 200일선 아래 0.3%까지 바짝 다가선 것으로 보입니다. 원인은 위 지표들과 같은 유가 급락과 반도체 반등입니다.",
     "sources": [
      {
-      "title": "Nvidia Falls in the Stock Market Today Live, November 9, 2026, as Other Tech Stocks Rally",
-      "url": "https://www.stocktitan.net/articles/stock-market-today-live-november-9-2026"
+      "title": "Wall Street Roars Back: Dow Jumps 1,106 Points as Crude Slides and Chip Stocks Rebound, but Nvidia Breaks Ranks — BigGo Finance",
+      "url": "https://finance.biggo.com/news/1e65bc8f-3047-48f1-9c52-9800d58b574e"
      }
-    ]
+    ],
+    "stars": 4
    },
    "background": [
     {
-     "text": "엔비디아는 이사회가 CEO의 외국 정보기관 표적 의혹을 조사하기로 해 4.27% 떨어진 $178.67에 마감했습니다.",
+     "text": "엔비디아가 4%대 하락해 지수 상단을 눌렀지만 AMD, 브로드컴 등이 크게 올라 이를 상쇄했습니다.",
      "sources": [
       {
-       "title": "Nvidia Falls in the Stock Market Today Live, November 9, 2026, as Other Tech Stocks Rally",
-       "url": "https://www.stocktitan.net/articles/stock-market-today-live-november-9-2026"
-      },
-      {
-       "title": "Nvidia falls about 3% in after-hours and perpetual futures trade By Reuters",
-       "url": "https://investing.com/news/stock-market-news/nvidia-falls-about-3-in-afterhours-and-perpetual-futures-trade-5010425"
+       "title": "[뉴욕마감]엔비디아 위기에도 급반등…나스닥 2.74% 상승 - 뉴스1",
+       "url": "https://www.news1.kr/world/international-economy/6348378"
       }
-     ]
-    },
-    {
-     "text": "선물시장은 12월 연준 회의에서 0.25%p 인상 가능성을 약 80.5%로 반영하고 있어 금리 부담이 변수입니다.",
-     "sources": [
-      {
-       "title": "U.S. Stock Futures Gain as Oil Drop Offsets Nvidia Slump; Inflation Data Awaited",
-       "url": "https://finance.yahoo.com/markets/stocks/articles/u-stock-futures-gain-oil-113439378.html"
-      }
-     ]
+     ],
+     "stars": 2
     }
    ],
-   "note": "200일선 회복 여부가 단기 기준선입니다. 10월 CPI는 전월비 0.3%(근원 0.2%)가 예상됩니다. 앱 제목의 중국 관세·희토류 유예 연장과 엔비디아 시간외 반등은 제가 기사로 확인하지 못했습니다."
+   "note": "200일선 회복 여부가 단기 분기점이 될 수 있어 CPI 이후 종가 기준으로 확인할 만합니다. 선물이 거의 제자리라 하루 만에 넘어서기는 불확실합니다."
   }
  ]
 }
