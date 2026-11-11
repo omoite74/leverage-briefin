@@ -1,168 +1,216 @@
 {
- "at": 1794407481590,
- "headline": "뜨거운 10월 물가와 금리 인상 우려로 정규장은 밀렸지만, 장 마감 뒤 코어위브 호실적과 AI주 반등 기대에 나스닥100 선물이 크게 오르며 공포가 누그러진 모습입니다.",
+ "at": 1794436831833,
+ "headline": "전날 뜨거운 CPI로 흔들렸던 시장이 코어위브의 호실적과 엔비디아 반등에 힘입어 나스닥이 1.6% 오르며 공포가 누그러졌지만, 12월 연준 금리 인상 우려는 그대로 남아 있습니다.",
  "items": [
   {
    "key": "fearGreed",
    "title": "공포탐욕 37 공포 (전날 33, +4)",
    "tone": "neutral",
    "cause": {
-    "text": "장 마감 뒤 코어위브가 시장 예상보다 좋은 매출 전망을 내놓고 나스닥100 선물이 약 2% 오르면서 AI·기술주 반등 기대가 커졌고, 공포탐욕 지수가 33에서 37로 올라온 것으로 보입니다.",
+    "text": "코어위브가 시장 예상보다 좋은 실적을 내 주가가 약 25% 급등하고 나스닥이 1.6% 오르면서, 투자 심리가 '공포' 구간 안에서 조금 나아진 것으로 보입니다.",
     "sources": [
      {
-      "title": "Nasdaq 100 futures climb as upbeat CoreWeave outlook reignites AI trade",
-      "url": "https://investing.com/news/stock-market-news/us-stock-futures-tick-higher-after-wall-st-slips-on-hot-cpi-nvidia-losses-5017417"
+      "title": "Stock Market Today: Nasdaq Futures Jump as Nvidia Shares Rebound, CoreWeave Soars After Earnings",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/stock-market-today-nasdaq-futures-131247889.html"
      }
     ],
     "stars": 5
    },
    "background": [
     {
-     "text": "10월 CPI가 전월 대비 0.4%로 예상(0.3%)보다 높게 나와 12월 금리 인상이 거의 확실하다는 전망이 퍼졌고, 이것이 정규장 하락의 직접 배경이었습니다.",
+     "text": "코어위브는 매출 약 37억 달러로 예상을 웃돌았고 연간 매출 전망도 133억 달러로 올려, AI 투자 수익성에 대한 걱정이 줄었습니다.",
      "sources": [
       {
-       "title": "[뉴욕증시 마감] 예상보다 높은 10월 CPI, 증시 약세…엔비디아 5% 하락",
-       "url": "https://www.blockmedia.co.kr/archives/1164156"
+       "title": "Stock Market Today: Nasdaq Futures Jump as Nvidia Shares Rebound, CoreWeave Soars After Earnings",
+       "url": "https://finance.yahoo.com/markets/stocks/articles/stock-market-today-nasdaq-futures-131247889.html"
+      }
+     ],
+     "stars": 5
+    },
+    {
+     "text": "하루 전에는 10월 CPI가 예상보다 높게 나와 미국 증시 3대 지수가 모두 떨어졌고, 심리가 많이 위축돼 있었습니다.",
+     "sources": [
+      {
+       "title": "[글로벌 마켓시황] 물가 부담 속 금리인상 언급…뉴욕증시 하락",
+       "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008840004"
       }
      ],
      "stars": 3
     },
     {
-     "text": "엔비디아가 젠슨 황 CEO 관련 보도로 5%대 급락했다가 개장 전 반등하면서 기술주 심리가 크게 흔들렸습니다.",
+     "text": "트럼프 대통령과 루비오 국무장관이 이란에 대한 추가 군사 행동이 필요 없을 수 있다고 밝혀 지정학 부담이 다소 줄었다는 보도가 있었습니다.",
      "sources": [
       {
-       "title": "Nasdaq 100 leads US indexes lower on hot CPI and Nvidia",
-       "url": "https://www.fxstreet.com/news/nasdaq-100-leads-us-indexes-lower-on-hot-cpi-and-nvidia-202611102140"
-      }
-     ],
-     "stars": 3
-    },
-    {
-     "text": "월러 이사가 12월 0.5%p 인상 가능성을 언급했지만, 선물시장은 0.25%p 인상을 기본으로 보고 0.5%p 확률은 10% 안팎으로 봅니다.",
-     "sources": [
-      {
-       "title": "‘빅스텝 올 수도’ 금리 우려에 뉴욕증시 또 충격…불륜 스캔들發 엔비디아 추락도 계속",
-       "url": "https://biz.heraldcorp.com/article/10932887"
+       "title": "Dow Jones futures surge as easing geopolitical risks, AI earnings revive market sentiment",
+       "url": "https://www.fxstreet.com/news/dow-jones-futures-surge-as-easing-geopolitical-risks-ai-earnings-revive-market-sentiment-202611110832"
       }
      ],
      "stars": 2
     }
    ],
-   "note": "물가 충격 뒤 반등이라 하루 만에 심리가 바뀔 수 있어 일회성으로 단정하기 어렵습니다. 목요일 주간 실업수당 청구, 금요일 10월 생산자물가, 12월 8~9일 FOMC를 확인해 보세요."
+   "note": "코어위브 효과는 일회성 성격이 강해, 다음 주 엔비디아 실적 발표와 12월 연준 회의 전까지 심리가 다시 흔들릴 수 있습니다. 공포탐욕 지수 자체를 직접 다룬 기사는 찾지 못했습니다."
   },
   {
    "key": "putCall",
-   "title": "풋콜 0.78 (전날 0.85, -0.07)",
-   "tone": "neutral",
+   "title": "풋콜 0.84 (전날 0.85, -0.01)",
+   "tone": "fear",
    "cause": {
-    "text": "장 마감 뒤 선물이 오르고 AI주 반등 기대가 살아나면서 하락 방어용 풋 매수 수요가 줄어 풋콜 비율이 0.85에서 0.78로 내려간 것으로 보입니다.",
+    "text": "주가가 반등하면서 하락에 대비하는 풋옵션 수요가 조금 줄어, 풋콜 비율이 0.85에서 0.84로 소폭 내린 것으로 보입니다. 다만 풋콜 비율만 따로 설명한 기사는 찾지 못했습니다.",
     "sources": [
      {
-      "title": "Nasdaq 100 futures climb as upbeat CoreWeave outlook reignites AI trade",
-      "url": "https://investing.com/news/stock-market-news/us-stock-futures-tick-higher-after-wall-st-slips-on-hot-cpi-nvidia-losses-5017417"
+      "title": "Stock Market Today: Nasdaq Futures Jump as Nvidia Shares Rebound, CoreWeave Soars After Earnings",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/stock-market-today-nasdaq-futures-131247889.html"
      }
     ],
-    "stars": 4
+    "stars": 3
    },
    "background": [
     {
-     "text": "코어위브가 올해 매출 전망을 130억~133억 달러로 제시하고 개장 전 15% 넘게 올라 AI 관련주 전반에 훈풍이 불었습니다.",
+     "text": "VIX도 같은 날 10% 넘게 내려 옵션 시장 전반에서 방어 수요가 줄었다는 흐름과 맞습니다.",
      "sources": [
       {
-       "title": "Nasdaq 100 futures climb as upbeat CoreWeave outlook reignites AI trade",
-       "url": "https://investing.com/news/stock-market-news/us-stock-futures-tick-higher-after-wall-st-slips-on-hot-cpi-nvidia-losses-5017417"
+       "title": "Stock Market Today: Nasdaq Futures Jump as Nvidia Shares Rebound, CoreWeave Soars After Earnings",
+       "url": "https://finance.yahoo.com/markets/stocks/articles/stock-market-today-nasdaq-futures-131247889.html"
+      }
+     ],
+     "stars": 3
+    },
+    {
+     "text": "CME 기준 12월 금리 인상 확률이 85%로 전해져 완전히 안심하기는 어려운 상태입니다.",
+     "sources": [
+      {
+       "title": "Dow Jones futures surge as easing geopolitical risks, AI earnings revive market sentiment",
+       "url": "https://www.fxstreet.com/news/dow-jones-futures-surge-as-easing-geopolitical-risks-ai-earnings-revive-market-sentiment-202611110832"
+      }
+     ],
+     "stars": 2
+    }
+   ],
+   "note": "변화 폭이 0.01로 작아 의미를 크게 두기는 어렵습니다. 엔비디아 실적과 PCE 발표 때 다시 확인해 보세요."
+  },
+  {
+   "key": "vix",
+   "title": "VIX 17.5 (전날 19.5, -2.0)",
+   "tone": "neutral",
+   "cause": {
+    "text": "코어위브 호실적으로 AI 관련주가 반등하고 나스닥이 오르면서 VIX가 19.5에서 17.5로 약 10% 내린 것으로 보입니다.",
+    "sources": [
+     {
+      "title": "Stock Market Today: Nasdaq Futures Jump as Nvidia Shares Rebound, CoreWeave Soars After Earnings",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/stock-market-today-nasdaq-futures-131247889.html"
+     }
+    ],
+    "stars": 5
+   },
+   "background": [
+    {
+     "text": "엔비디아가 이사회의 젠슨 황 CEO 관련 조사 보도로 이틀간 약 10% 떨어졌다가 이날 약 3% 반등해 불안이 일부 풀렸습니다.",
+     "sources": [
+      {
+       "title": "Stock Market Today: Nasdaq Futures Jump as Nvidia Shares Rebound, CoreWeave Soars After Earnings",
+       "url": "https://finance.yahoo.com/markets/stocks/articles/stock-market-today-nasdaq-futures-131247889.html"
       }
      ],
      "stars": 4
     },
     {
-     "text": "미 10년물 국채금리가 다시 5%를 넘어선 점은 아직 남아 있는 불안 요인입니다.",
+     "text": "장 마감 뒤에도 나스닥100 선물이 1.5~2%가량 오르며 코어위브 시간외 상승과 Anthropic 상장 가능성 보도가 분위기를 받쳤습니다.",
      "sources": [
       {
-       "title": "Nasdaq 100 leads US indexes lower on hot CPI and Nvidia",
-       "url": "https://www.fxstreet.com/news/nasdaq-100-leads-us-indexes-lower-on-hot-cpi-and-nvidia-202611102140"
+       "title": "Dow Jones futures surge as easing geopolitical risks, AI earnings revive market sentiment",
+       "url": "https://www.fxstreet.com/news/dow-jones-futures-surge-as-easing-geopolitical-risks-ai-earnings-revive-market-sentiment-202611110832"
       }
      ],
-     "stars": 2
+     "stars": 4
+    },
+    {
+     "text": "10년물 국채금리가 5%를 넘나들 만큼 높고, 월러 이사와 로건 총재가 빠른 긴축을 말해 금리 부담은 남아 있습니다.",
+     "sources": [
+      {
+       "title": "Stock Market Today: Nasdaq Futures Jump as Nvidia Shares Rebound, CoreWeave Soars After Earnings",
+       "url": "https://finance.yahoo.com/markets/stocks/articles/stock-market-today-nasdaq-futures-131247889.html"
+      }
+     ],
+     "stars": 3
     }
    ],
-   "note": "풋콜은 하루 단위로 자주 바뀌는 지표라 선물 상승이 정규장에서도 이어지는지 먼저 보셔야 합니다. 이번 주 연준 인사 발언(보먼, 해맥 등)이 인상폭 기대를 바꿀 수 있습니다."
+   "note": "VIX가 17대로 내려와 공포가 꺾이는 중이지만 금리 인상 우려는 그대로입니다. 다음 주 엔비디아 실적, PCE 발표, 12월 연준 회의를 지켜보세요."
   },
   {
    "key": "rsi",
-   "title": "QQQ RSI 45.0 (전날 35.9, +9.1)",
+   "title": "QQQ RSI 46.0 (전날 35.9, +10.1)",
    "tone": "neutral",
    "cause": {
-    "text": "QQQ RSI가 35.9에서 45.0으로 크게 오른 것은 직전 낙폭 뒤 반등 매수세가 들어온 결과로 보이며, 장 마감 뒤 선물 급등이 이 분위기를 뒷받침하는 것으로 보입니다.",
+    "text": "전날 CPI 충격으로 낮아졌던 QQQ가 하루 만에 크게 오르면서 RSI가 35.9에서 46.0으로 뛴 것으로 보입니다. 과매도 가까운 구간에서 벗어났다는 뜻입니다.",
     "sources": [
      {
-      "title": "Nasdaq 100 futures climb as upbeat CoreWeave outlook reignites AI trade",
-      "url": "https://investing.com/news/stock-market-news/us-stock-futures-tick-higher-after-wall-st-slips-on-hot-cpi-nvidia-losses-5017417"
+      "title": "Stock Market Today: Nasdaq Futures Jump as Nvidia Shares Rebound, CoreWeave Soars After Earnings",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/stock-market-today-nasdaq-futures-131247889.html"
      }
     ],
     "stars": 4
    },
    "background": [
     {
-     "text": "기사에 따르면 월요일 증시가 크게 올랐다가 화요일 CPI와 엔비디아 악재로 그 상승분 일부를 반납하는 등락이 컸습니다.",
+     "text": "CPI 발표 다음 날 나스닥 종합지수가 0.74% 떨어졌고 엔비디아도 약세여서 RSI가 낮아졌던 흐름입니다.",
      "sources": [
       {
-       "title": "Nasdaq 100 leads US indexes lower on hot CPI and Nvidia",
-       "url": "https://www.fxstreet.com/news/nasdaq-100-leads-us-indexes-lower-on-hot-cpi-and-nvidia-202611102140"
+       "title": "Dow Jones futures surge as easing geopolitical risks, AI earnings revive market sentiment",
+       "url": "https://www.fxstreet.com/news/dow-jones-futures-surge-as-easing-geopolitical-risks-ai-earnings-revive-market-sentiment-202611110832"
       }
      ],
      "stars": 3
     },
     {
-     "text": "화요일 정규장에서 나스닥 종합지수는 0.74% 하락했습니다.",
+     "text": "10월 근원 CPI가 전월 대비 0.3%로 예상을 웃돌아 12월 금리 인상 기대가 커졌습니다.",
      "sources": [
       {
-       "title": "美 10월 물가 예상 상회에 뉴욕증시 동반 약세...나스닥 0.74% 하락",
-       "url": "https://www.ebn.co.kr/news/articleView.html?idxno=1731189"
+       "title": "[글로벌 마켓시황] 물가 부담 속 금리인상 언급…뉴욕증시 하락",
+       "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008840004"
       }
      ],
-     "stars": 2
+     "stars": 3
     }
    ],
-   "note": "앱의 RSI 값과 화요일 정규장 하락폭이 정확히 맞물리지는 않아 집계 시점 차이일 수 있습니다. RSI 45는 중립권 아래쪽이라 추세 전환으로 보기엔 이르며, 개장 후 선물 상승이 유지되는지 확인이 필요합니다."
+   "note": "하루 반등이라 추세 전환으로 보기에는 이릅니다. 46은 중립(50) 아래이므로 며칠 더 흐름을 확인하세요."
   },
   {
    "key": "ma",
-   "title": "QQQ $687.30 (전날 대비 +1.9%, 200일선 대비 위 0.8%)",
+   "title": "QQQ $690.38 (전날 대비 +2.3%, 200일선 대비 위 1.3%)",
    "tone": "greed",
    "cause": {
-    "text": "QQQ가 전날 대비 1.9% 오르며 200일선 위 0.8%에 자리한 것은 코어위브 호실적과 엔비디아 반등으로 나스닥100 선물이 약 2% 오른 흐름과 같은 방향으로 보입니다.",
+    "text": "코어위브 급등과 엔비디아 반등으로 AI주가 살아나면서 QQQ가 하루에 2.3% 올라 $690.38이 됐고, 200일선 위 1.3% 자리를 지킨 것으로 보입니다.",
     "sources": [
      {
-      "title": "Nasdaq 100 futures climb as upbeat CoreWeave outlook reignites AI trade",
-      "url": "https://investing.com/news/stock-market-news/us-stock-futures-tick-higher-after-wall-st-slips-on-hot-cpi-nvidia-losses-5017417"
+      "title": "Stock Market Today: Nasdaq Futures Jump as Nvidia Shares Rebound, CoreWeave Soars After Earnings",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/stock-market-today-nasdaq-futures-131247889.html"
      }
     ],
     "stars": 4
    },
    "background": [
     {
-     "text": "엔비디아는 CEO 관련 의혹 보도로 압박을 받았고, 이사회가 조사를 위해 전직 검사를 선임했다는 보도가 있어 개별 악재가 아직 풀리지 않았습니다.",
+     "text": "전날 CPI와 국채금리 상승으로 기술주가 팔리며 200일선에 가까워졌다가 반등한 모습입니다.",
      "sources": [
       {
-       "title": "젠슨 황 스캔들에 엔비디아 5.5% 급락… CPI 충격에 뉴욕증시 하락",
-       "url": "https://www.gukjenews.com/news/articleView.html?idxno=3748330"
+       "title": "[글로벌 마켓시황] 물가 부담 속 금리인상 언급…뉴욕증시 하락",
+       "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008840004"
       }
      ],
      "stars": 3
     },
     {
-     "text": "금리 인상 기조와 10년물 금리 5% 상회는 고평가된 기술주에 부담이라, 200일선 바로 위라는 위치가 불안정할 수 있습니다.",
+     "text": "CME 기준 12월 금리 인상 확률이 85%로 전해져, 금리 부담이 200일선 부근 지지 여부를 좌우할 수 있습니다.",
      "sources": [
       {
-       "title": "Nasdaq 100 leads US indexes lower on hot CPI and Nvidia",
-       "url": "https://www.fxstreet.com/news/nasdaq-100-leads-us-indexes-lower-on-hot-cpi-and-nvidia-202611102140"
+       "title": "Dow Jones futures surge as easing geopolitical risks, AI earnings revive market sentiment",
+       "url": "https://www.fxstreet.com/news/dow-jones-futures-surge-as-easing-geopolitical-risks-ai-earnings-revive-market-sentiment-202611110832"
       }
      ],
      "stars": 3
     }
    ],
-   "note": "200일선과의 간격이 0.8%로 좁아 작은 변동에도 선 아래로 내려갈 수 있습니다. 앱 상승률과 정규장 종가 흐름이 다를 수 있어 오늘 정규장 마감 위치를 확인하세요."
+   "note": "200일선과의 간격이 1.3%로 좁아 금리나 엔비디아 소식에 따라 다시 아래로 내려갈 수 있습니다. 다음 주 엔비디아 실적과 PCE 발표가 가까운 확인 일정입니다."
   }
  ]
 }
