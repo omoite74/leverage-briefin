@@ -1,106 +1,91 @@
 {
- "at": 1794493852155,
- "headline": "미국 10월 물가가 예상보다 높게 나와 12월 금리 인상 우려가 커진 데다, 장 마감 뒤 엔비디아 CEO 거취 충격까지 겹쳐 나스닥100 선물이 하락했습니다.",
+ "at": 1794521425276,
+ "headline": "젠슨 황 엔비디아 CEO 사임 충격과 연준 금리 인상 우려로 지수는 내렸지만, 공포탐욕은 37에서 40으로 소폭 올랐고 풋콜은 0.84에서 0.80으로 내려 불안이 조금 누그러진 모습입니다.",
  "items": [
   {
-   "key": "putCall",
-   "title": "풋콜 0.92 (전날 0.84, +0.08)",
-   "tone": "fear",
+   "key": "fearGreed",
+   "title": "공포탐욕 40 공포 (전날 37, +3)",
+   "tone": "neutral",
    "cause": {
-    "text": "장 마감 뒤 엔비디아 이사회가 젠슨 황 CEO를 물러나게 하려 한다는 보도가 나와 시간외에서 8~10% 급락했고, 여기에 높은 물가와 금리 인상 우려가 겹쳐 하락에 대비하는 풋옵션 수요가 늘어난 것으로 보입니다(풋콜 0.84→0.92). 다만 풋콜 수치 자체를 다룬 기사는 찾지 못해 추정입니다.",
+    "text": "엔비디아가 CEO 사임 소식에 장중 13%대까지 급락했다가 저가 매수세로 4.3% 하락에 그치며 낙폭을 줄인 점이 투자 심리 반등(37→40)에 영향을 준 것으로 보입니다. 다만 3대 지수는 모두 내려 마감했고 수치는 여전히 '공포' 구간입니다.",
     "sources": [
      {
-      "title": "Stock futures decline as Huang ouster sends Nvidia reeling, oil prices rise: Live updates",
-      "url": "https://www.cnbc.com/2026/11/11/stock-market-today-live-updates.html"
+      "title": "'젠슨 황 퇴진 충격' 엔비디아 52주 신저가[뉴욕마감]",
+      "url": "https://supple.kr/news/cmwe3cs0h5er5al9prq2l3y6e"
      },
      {
-      "title": "엔비디아 주가, 시간외 8% 급락…'해임 준비' 보도에 - 파이낸셜뉴스",
-      "url": "https://www.fnnews.com/news/202611120808051839"
+      "title": "[뉴욕증시]젠슨 황 사임·종전 불투명…일제히 하락 마감",
+      "url": "https://view.asiae.co.kr/article/2026111305592985181"
      }
     ],
     "stars": 4
    },
    "background": [
     {
-     "text": "10월 소비자물가가 전월 대비 0.4% 올라 예상(0.3%)보다 높았고, 근원 물가도 0.3%로 예상(0.2%)을 웃돌았습니다.",
+     "text": "젠슨 황 CEO는 사생활 의혹으로 사퇴 압박을 받아 왔고, 후임이 정해질 때까지 CFO가 임시 CEO를 맡습니다.",
      "sources": [
       {
-       "title": "Nasdaq futures sink amid Nvidia CEO crisis: 5 things to know before Wall Street opens",
-       "url": "https://invezz.com/news/2026/11/12/nasdaq-futures-sink-amid-nvidia-ceo-crisis-5-things-to-know-before-wall-street-opens/"
-      }
-     ],
-     "stars": 5
-    },
-    {
-     "text": "월러 연준 이사가 근원 물가가 0.3% 이상 오르면 12월에 큰 폭의 인상도 고려할 수 있다는 취지로 말해, 12월 인상 기대가 크게 높아졌습니다.",
-     "sources": [
-      {
-       "title": "Nasdaq futures sink amid Nvidia CEO crisis: 5 things to know before Wall Street opens",
-       "url": "https://invezz.com/news/2026/11/12/nasdaq-futures-sink-amid-nvidia-ceo-crisis-5-things-to-know-before-wall-street-opens/"
-      }
-     ],
-     "stars": 4
-    },
-    {
-     "text": "엔비디아는 8일 이사회가 조사에 착수한 뒤 이미 약세였고, NYT의 두 번째 의혹 보도로 압력이 더 커졌습니다.",
-     "sources": [
-      {
-       "title": "Nvidia Just Fell 8.3% After Hours on a Report of a Second Jensen Huang Affair - 24/7 Wall St.",
-       "url": "https://247wallst.com/investing/2026/11/11/nvidia-just-fell-8-3-after-hours-on-a-report-of-a-second-jensen-huang-affair-heres-what-2000-shares-have-lost-this-week/"
+       "title": "젠슨 황 전격 사임…엔비디아 CFO가 임시 CEO",
+       "url": "https://www.fnnews.com/news/202611122300110225"
       }
      ],
      "stars": 3
-    }
-   ],
-   "note": "엔비디아 건은 일회성 성격이 강하지만 금리 인상 우려는 더 길게 갈 수 있습니다. 엔비디아 이사회 결정과 후임 소식, 12월 연준 회의를 확인해 보세요. 사임 여부는 기사마다 표현이 달라 추가 확인이 필요합니다."
-  },
-  {
-   "key": "ma",
-   "title": "QQQ $680.00 (전날 대비 -1.5%, 200일선 대비 아래 0.3%)",
-   "tone": "fear",
-   "cause": {
-    "text": "QQQ가 -1.5% 내려 200일선 아래 0.3%까지 밀린 것은 높은 물가에 따른 금리 인상 우려와 엔비디아 등 대형 기술주 급락 충격이 겹친 결과로 보입니다. 엔비디아 충격은 주로 장 마감 뒤에 나와 선물에 더 크게 반영됐습니다.",
-    "sources": [
-     {
-      "title": "Nasdaq futures sink amid Nvidia CEO crisis: 5 things to know before Wall Street opens",
-      "url": "https://invezz.com/news/2026/11/12/nasdaq-futures-sink-amid-nvidia-ceo-crisis-5-things-to-know-before-wall-street-opens/"
-     }
-    ],
-    "stars": 5
-   },
-   "background": [
-    {
-     "text": "나스닥 선물이 S&P 500 선물보다 두 배 넘게 빠졌는데, 엔비디아 하락이 슈퍼마이크로, 오라클, 코어위브 등으로 번진 영향으로 보도됐습니다.",
-     "sources": [
-      {
-       "title": "Nasdaq futures sink amid Nvidia CEO crisis: 5 things to know before Wall Street opens",
-       "url": "https://invezz.com/news/2026/11/12/nasdaq-futures-sink-amid-nvidia-ceo-crisis-5-things-to-know-before-wall-street-opens/"
-      }
-     ],
-     "stars": 4
     },
     {
-     "text": "반면 AMD와 브로드컴은 엔비디아 악재 속에 개장 전 3% 안팎 올라, 쏠림이 있는 움직임이었습니다.",
+     "text": "AMD(+5.86%)와 브로드컴(+5.54%)은 반사이익 기대로 올라 반도체 종목별로 엇갈렸습니다.",
      "sources": [
       {
-       "title": "뉴욕증시 개장 전 특징주...엔비디아 10% 급락·AMD 상승",
-       "url": "https://newspim.com/news/view/20261112001498"
+       "title": "젠슨 황 사임에 엔비디아 4% 급락…AMD·브로드컴은 5% 급등",
+       "url": "https://www.fnnews.com/news/202611130617387748"
       }
      ],
      "stars": 2
     },
     {
-     "text": "12월 금리 인상 확률이 높아졌다는 보도가 나와, 성장주인 기술주에 부담이 되는 환경입니다.",
+     "text": "10월 CPI가 전월 대비 0.4% 올라 예상(0.3%)보다 높았고, 달러는 19개월 만에 최고로 올랐으며 12월 금리 인상 확률이 91%로 반영됐습니다.",
      "sources": [
       {
-       "title": "Nasdaq futures sink amid Nvidia CEO crisis: 5 things to know before Wall Street opens",
-       "url": "https://invezz.com/news/2026/11/12/nasdaq-futures-sink-amid-nvidia-ceo-crisis-5-things-to-know-before-wall-street-opens/"
+       "title": "Dollar rises to 19-month high as Fed hike bets grow, yen softens",
+       "url": "https://www.cnbc.com/2026/11/12/dollar-near-one-month-high-as-yen-edges-toward-160-.html"
+      }
+     ],
+     "stars": 4
+    }
+   ],
+   "note": "엔비디아 쇼크는 후임 CEO 선임 전까지 변동성이 이어질 수 있습니다. 금요일 발표되는 10월 PPI와 윌리엄스 뉴욕연은 총재 발언을 확인하시면 좋습니다."
+  },
+  {
+   "key": "putCall",
+   "title": "풋콜 0.80 (전날 0.84, -0.04)",
+   "tone": "fear",
+   "cause": {
+    "text": "엔비디아 급락 후 낙폭이 줄고 AMD·브로드컴이 오르면서 하락 방어용 풋 수요가 다소 줄어 풋콜이 0.84에서 0.80으로 내려간 것으로 보입니다. 이 연결은 기사로 직접 확인된 것은 아니고 추정입니다.",
+    "sources": [
+     {
+      "title": "젠슨 황 사임에 엔비디아 4% 급락…AMD·브로드컴은 5% 급등",
+      "url": "https://www.fnnews.com/news/202611130617387748"
+     }
+    ],
+    "stars": 3
+   },
+   "background": [
+    {
+     "text": "연준 인사들이 추가 긴축 필요성을 언급하고 50bp 인상 가능성까지 배제하지 않으면서 금리 부담이 시장 전반에 깔려 있습니다.",
+     "sources": [
+      {
+       "title": "Dollar rises to 19-month high as Fed hike bets grow, yen softens",
+       "url": "https://www.cnbc.com/2026/11/12/dollar-near-one-month-high-as-yen-edges-toward-160-.html"
       }
      ],
      "stars": 3
+    },
+    {
+     "text": "미국 실업수당 청구가 20만 건 안팎으로 안정적이어서 고용 쪽 불안은 크지 않은 상태입니다.",
+     "sources": [],
+     "stars": 2
     }
    ],
-   "note": "200일선 바로 아래라 이후 종가가 이 선을 회복하는지가 관전 포인트입니다. 엔비디아 후속 소식과 12월 연준 회의를 확인해 보세요."
+   "note": "풋콜 하락은 하루 변화라 일회성일 수 있습니다. 엔비디아 후임 CEO 발표와 금요일 PPI 결과에 따라 다시 움직일 수 있습니다."
   }
  ]
 }
