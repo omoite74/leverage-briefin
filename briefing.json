@@ -1,216 +1,106 @@
 {
- "at": 1794436831833,
- "headline": "전날 뜨거운 CPI로 흔들렸던 시장이 코어위브의 호실적과 엔비디아 반등에 힘입어 나스닥이 1.6% 오르며 공포가 누그러졌지만, 12월 연준 금리 인상 우려는 그대로 남아 있습니다.",
+ "at": 1794493852155,
+ "headline": "미국 10월 물가가 예상보다 높게 나와 12월 금리 인상 우려가 커진 데다, 장 마감 뒤 엔비디아 CEO 거취 충격까지 겹쳐 나스닥100 선물이 하락했습니다.",
  "items": [
   {
-   "key": "fearGreed",
-   "title": "공포탐욕 37 공포 (전날 33, +4)",
-   "tone": "neutral",
+   "key": "putCall",
+   "title": "풋콜 0.92 (전날 0.84, +0.08)",
+   "tone": "fear",
    "cause": {
-    "text": "코어위브가 시장 예상보다 좋은 실적을 내 주가가 약 25% 급등하고 나스닥이 1.6% 오르면서, 투자 심리가 '공포' 구간 안에서 조금 나아진 것으로 보입니다.",
+    "text": "장 마감 뒤 엔비디아 이사회가 젠슨 황 CEO를 물러나게 하려 한다는 보도가 나와 시간외에서 8~10% 급락했고, 여기에 높은 물가와 금리 인상 우려가 겹쳐 하락에 대비하는 풋옵션 수요가 늘어난 것으로 보입니다(풋콜 0.84→0.92). 다만 풋콜 수치 자체를 다룬 기사는 찾지 못해 추정입니다.",
     "sources": [
      {
-      "title": "Stock Market Today: Nasdaq Futures Jump as Nvidia Shares Rebound, CoreWeave Soars After Earnings",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/stock-market-today-nasdaq-futures-131247889.html"
+      "title": "Stock futures decline as Huang ouster sends Nvidia reeling, oil prices rise: Live updates",
+      "url": "https://www.cnbc.com/2026/11/11/stock-market-today-live-updates.html"
+     },
+     {
+      "title": "엔비디아 주가, 시간외 8% 급락…'해임 준비' 보도에 - 파이낸셜뉴스",
+      "url": "https://www.fnnews.com/news/202611120808051839"
      }
     ],
-    "stars": 5
+    "stars": 4
    },
    "background": [
     {
-     "text": "코어위브는 매출 약 37억 달러로 예상을 웃돌았고 연간 매출 전망도 133억 달러로 올려, AI 투자 수익성에 대한 걱정이 줄었습니다.",
+     "text": "10월 소비자물가가 전월 대비 0.4% 올라 예상(0.3%)보다 높았고, 근원 물가도 0.3%로 예상(0.2%)을 웃돌았습니다.",
      "sources": [
       {
-       "title": "Stock Market Today: Nasdaq Futures Jump as Nvidia Shares Rebound, CoreWeave Soars After Earnings",
-       "url": "https://finance.yahoo.com/markets/stocks/articles/stock-market-today-nasdaq-futures-131247889.html"
+       "title": "Nasdaq futures sink amid Nvidia CEO crisis: 5 things to know before Wall Street opens",
+       "url": "https://invezz.com/news/2026/11/12/nasdaq-futures-sink-amid-nvidia-ceo-crisis-5-things-to-know-before-wall-street-opens/"
       }
      ],
      "stars": 5
     },
     {
-     "text": "하루 전에는 10월 CPI가 예상보다 높게 나와 미국 증시 3대 지수가 모두 떨어졌고, 심리가 많이 위축돼 있었습니다.",
+     "text": "월러 연준 이사가 근원 물가가 0.3% 이상 오르면 12월에 큰 폭의 인상도 고려할 수 있다는 취지로 말해, 12월 인상 기대가 크게 높아졌습니다.",
      "sources": [
       {
-       "title": "[글로벌 마켓시황] 물가 부담 속 금리인상 언급…뉴욕증시 하락",
-       "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008840004"
+       "title": "Nasdaq futures sink amid Nvidia CEO crisis: 5 things to know before Wall Street opens",
+       "url": "https://invezz.com/news/2026/11/12/nasdaq-futures-sink-amid-nvidia-ceo-crisis-5-things-to-know-before-wall-street-opens/"
+      }
+     ],
+     "stars": 4
+    },
+    {
+     "text": "엔비디아는 8일 이사회가 조사에 착수한 뒤 이미 약세였고, NYT의 두 번째 의혹 보도로 압력이 더 커졌습니다.",
+     "sources": [
+      {
+       "title": "Nvidia Just Fell 8.3% After Hours on a Report of a Second Jensen Huang Affair - 24/7 Wall St.",
+       "url": "https://247wallst.com/investing/2026/11/11/nvidia-just-fell-8-3-after-hours-on-a-report-of-a-second-jensen-huang-affair-heres-what-2000-shares-have-lost-this-week/"
       }
      ],
      "stars": 3
-    },
-    {
-     "text": "트럼프 대통령과 루비오 국무장관이 이란에 대한 추가 군사 행동이 필요 없을 수 있다고 밝혀 지정학 부담이 다소 줄었다는 보도가 있었습니다.",
-     "sources": [
-      {
-       "title": "Dow Jones futures surge as easing geopolitical risks, AI earnings revive market sentiment",
-       "url": "https://www.fxstreet.com/news/dow-jones-futures-surge-as-easing-geopolitical-risks-ai-earnings-revive-market-sentiment-202611110832"
-      }
-     ],
-     "stars": 2
     }
    ],
-   "note": "코어위브 효과는 일회성 성격이 강해, 다음 주 엔비디아 실적 발표와 12월 연준 회의 전까지 심리가 다시 흔들릴 수 있습니다. 공포탐욕 지수 자체를 직접 다룬 기사는 찾지 못했습니다."
+   "note": "엔비디아 건은 일회성 성격이 강하지만 금리 인상 우려는 더 길게 갈 수 있습니다. 엔비디아 이사회 결정과 후임 소식, 12월 연준 회의를 확인해 보세요. 사임 여부는 기사마다 표현이 달라 추가 확인이 필요합니다."
   },
   {
-   "key": "putCall",
-   "title": "풋콜 0.84 (전날 0.85, -0.01)",
+   "key": "ma",
+   "title": "QQQ $680.00 (전날 대비 -1.5%, 200일선 대비 아래 0.3%)",
    "tone": "fear",
    "cause": {
-    "text": "주가가 반등하면서 하락에 대비하는 풋옵션 수요가 조금 줄어, 풋콜 비율이 0.85에서 0.84로 소폭 내린 것으로 보입니다. 다만 풋콜 비율만 따로 설명한 기사는 찾지 못했습니다.",
+    "text": "QQQ가 -1.5% 내려 200일선 아래 0.3%까지 밀린 것은 높은 물가에 따른 금리 인상 우려와 엔비디아 등 대형 기술주 급락 충격이 겹친 결과로 보입니다. 엔비디아 충격은 주로 장 마감 뒤에 나와 선물에 더 크게 반영됐습니다.",
     "sources": [
      {
-      "title": "Stock Market Today: Nasdaq Futures Jump as Nvidia Shares Rebound, CoreWeave Soars After Earnings",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/stock-market-today-nasdaq-futures-131247889.html"
-     }
-    ],
-    "stars": 3
-   },
-   "background": [
-    {
-     "text": "VIX도 같은 날 10% 넘게 내려 옵션 시장 전반에서 방어 수요가 줄었다는 흐름과 맞습니다.",
-     "sources": [
-      {
-       "title": "Stock Market Today: Nasdaq Futures Jump as Nvidia Shares Rebound, CoreWeave Soars After Earnings",
-       "url": "https://finance.yahoo.com/markets/stocks/articles/stock-market-today-nasdaq-futures-131247889.html"
-      }
-     ],
-     "stars": 3
-    },
-    {
-     "text": "CME 기준 12월 금리 인상 확률이 85%로 전해져 완전히 안심하기는 어려운 상태입니다.",
-     "sources": [
-      {
-       "title": "Dow Jones futures surge as easing geopolitical risks, AI earnings revive market sentiment",
-       "url": "https://www.fxstreet.com/news/dow-jones-futures-surge-as-easing-geopolitical-risks-ai-earnings-revive-market-sentiment-202611110832"
-      }
-     ],
-     "stars": 2
-    }
-   ],
-   "note": "변화 폭이 0.01로 작아 의미를 크게 두기는 어렵습니다. 엔비디아 실적과 PCE 발표 때 다시 확인해 보세요."
-  },
-  {
-   "key": "vix",
-   "title": "VIX 17.5 (전날 19.5, -2.0)",
-   "tone": "neutral",
-   "cause": {
-    "text": "코어위브 호실적으로 AI 관련주가 반등하고 나스닥이 오르면서 VIX가 19.5에서 17.5로 약 10% 내린 것으로 보입니다.",
-    "sources": [
-     {
-      "title": "Stock Market Today: Nasdaq Futures Jump as Nvidia Shares Rebound, CoreWeave Soars After Earnings",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/stock-market-today-nasdaq-futures-131247889.html"
+      "title": "Nasdaq futures sink amid Nvidia CEO crisis: 5 things to know before Wall Street opens",
+      "url": "https://invezz.com/news/2026/11/12/nasdaq-futures-sink-amid-nvidia-ceo-crisis-5-things-to-know-before-wall-street-opens/"
      }
     ],
     "stars": 5
    },
    "background": [
     {
-     "text": "엔비디아가 이사회의 젠슨 황 CEO 관련 조사 보도로 이틀간 약 10% 떨어졌다가 이날 약 3% 반등해 불안이 일부 풀렸습니다.",
+     "text": "나스닥 선물이 S&P 500 선물보다 두 배 넘게 빠졌는데, 엔비디아 하락이 슈퍼마이크로, 오라클, 코어위브 등으로 번진 영향으로 보도됐습니다.",
      "sources": [
       {
-       "title": "Stock Market Today: Nasdaq Futures Jump as Nvidia Shares Rebound, CoreWeave Soars After Earnings",
-       "url": "https://finance.yahoo.com/markets/stocks/articles/stock-market-today-nasdaq-futures-131247889.html"
+       "title": "Nasdaq futures sink amid Nvidia CEO crisis: 5 things to know before Wall Street opens",
+       "url": "https://invezz.com/news/2026/11/12/nasdaq-futures-sink-amid-nvidia-ceo-crisis-5-things-to-know-before-wall-street-opens/"
       }
      ],
      "stars": 4
     },
     {
-     "text": "장 마감 뒤에도 나스닥100 선물이 1.5~2%가량 오르며 코어위브 시간외 상승과 Anthropic 상장 가능성 보도가 분위기를 받쳤습니다.",
+     "text": "반면 AMD와 브로드컴은 엔비디아 악재 속에 개장 전 3% 안팎 올라, 쏠림이 있는 움직임이었습니다.",
      "sources": [
       {
-       "title": "Dow Jones futures surge as easing geopolitical risks, AI earnings revive market sentiment",
-       "url": "https://www.fxstreet.com/news/dow-jones-futures-surge-as-easing-geopolitical-risks-ai-earnings-revive-market-sentiment-202611110832"
+       "title": "뉴욕증시 개장 전 특징주...엔비디아 10% 급락·AMD 상승",
+       "url": "https://newspim.com/news/view/20261112001498"
       }
      ],
-     "stars": 4
+     "stars": 2
     },
     {
-     "text": "10년물 국채금리가 5%를 넘나들 만큼 높고, 월러 이사와 로건 총재가 빠른 긴축을 말해 금리 부담은 남아 있습니다.",
+     "text": "12월 금리 인상 확률이 높아졌다는 보도가 나와, 성장주인 기술주에 부담이 되는 환경입니다.",
      "sources": [
       {
-       "title": "Stock Market Today: Nasdaq Futures Jump as Nvidia Shares Rebound, CoreWeave Soars After Earnings",
-       "url": "https://finance.yahoo.com/markets/stocks/articles/stock-market-today-nasdaq-futures-131247889.html"
+       "title": "Nasdaq futures sink amid Nvidia CEO crisis: 5 things to know before Wall Street opens",
+       "url": "https://invezz.com/news/2026/11/12/nasdaq-futures-sink-amid-nvidia-ceo-crisis-5-things-to-know-before-wall-street-opens/"
       }
      ],
      "stars": 3
     }
    ],
-   "note": "VIX가 17대로 내려와 공포가 꺾이는 중이지만 금리 인상 우려는 그대로입니다. 다음 주 엔비디아 실적, PCE 발표, 12월 연준 회의를 지켜보세요."
-  },
-  {
-   "key": "rsi",
-   "title": "QQQ RSI 46.0 (전날 35.9, +10.1)",
-   "tone": "neutral",
-   "cause": {
-    "text": "전날 CPI 충격으로 낮아졌던 QQQ가 하루 만에 크게 오르면서 RSI가 35.9에서 46.0으로 뛴 것으로 보입니다. 과매도 가까운 구간에서 벗어났다는 뜻입니다.",
-    "sources": [
-     {
-      "title": "Stock Market Today: Nasdaq Futures Jump as Nvidia Shares Rebound, CoreWeave Soars After Earnings",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/stock-market-today-nasdaq-futures-131247889.html"
-     }
-    ],
-    "stars": 4
-   },
-   "background": [
-    {
-     "text": "CPI 발표 다음 날 나스닥 종합지수가 0.74% 떨어졌고 엔비디아도 약세여서 RSI가 낮아졌던 흐름입니다.",
-     "sources": [
-      {
-       "title": "Dow Jones futures surge as easing geopolitical risks, AI earnings revive market sentiment",
-       "url": "https://www.fxstreet.com/news/dow-jones-futures-surge-as-easing-geopolitical-risks-ai-earnings-revive-market-sentiment-202611110832"
-      }
-     ],
-     "stars": 3
-    },
-    {
-     "text": "10월 근원 CPI가 전월 대비 0.3%로 예상을 웃돌아 12월 금리 인상 기대가 커졌습니다.",
-     "sources": [
-      {
-       "title": "[글로벌 마켓시황] 물가 부담 속 금리인상 언급…뉴욕증시 하락",
-       "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008840004"
-      }
-     ],
-     "stars": 3
-    }
-   ],
-   "note": "하루 반등이라 추세 전환으로 보기에는 이릅니다. 46은 중립(50) 아래이므로 며칠 더 흐름을 확인하세요."
-  },
-  {
-   "key": "ma",
-   "title": "QQQ $690.38 (전날 대비 +2.3%, 200일선 대비 위 1.3%)",
-   "tone": "greed",
-   "cause": {
-    "text": "코어위브 급등과 엔비디아 반등으로 AI주가 살아나면서 QQQ가 하루에 2.3% 올라 $690.38이 됐고, 200일선 위 1.3% 자리를 지킨 것으로 보입니다.",
-    "sources": [
-     {
-      "title": "Stock Market Today: Nasdaq Futures Jump as Nvidia Shares Rebound, CoreWeave Soars After Earnings",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/stock-market-today-nasdaq-futures-131247889.html"
-     }
-    ],
-    "stars": 4
-   },
-   "background": [
-    {
-     "text": "전날 CPI와 국채금리 상승으로 기술주가 팔리며 200일선에 가까워졌다가 반등한 모습입니다.",
-     "sources": [
-      {
-       "title": "[글로벌 마켓시황] 물가 부담 속 금리인상 언급…뉴욕증시 하락",
-       "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008840004"
-      }
-     ],
-     "stars": 3
-    },
-    {
-     "text": "CME 기준 12월 금리 인상 확률이 85%로 전해져, 금리 부담이 200일선 부근 지지 여부를 좌우할 수 있습니다.",
-     "sources": [
-      {
-       "title": "Dow Jones futures surge as easing geopolitical risks, AI earnings revive market sentiment",
-       "url": "https://www.fxstreet.com/news/dow-jones-futures-surge-as-easing-geopolitical-risks-ai-earnings-revive-market-sentiment-202611110832"
-      }
-     ],
-     "stars": 3
-    }
-   ],
-   "note": "200일선과의 간격이 1.3%로 좁아 금리나 엔비디아 소식에 따라 다시 아래로 내려갈 수 있습니다. 다음 주 엔비디아 실적과 PCE 발표가 가까운 확인 일정입니다."
+   "note": "200일선 바로 아래라 이후 종가가 이 선을 회복하는지가 관전 포인트입니다. 엔비디아 후속 소식과 12월 연준 회의를 확인해 보세요."
   }
  ]
 }
