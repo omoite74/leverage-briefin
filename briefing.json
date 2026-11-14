@@ -1,91 +1,119 @@
 {
- "at": 1794521425276,
- "headline": "젠슨 황 엔비디아 CEO 사임 충격과 연준 금리 인상 우려로 지수는 내렸지만, 공포탐욕은 37에서 40으로 소폭 올랐고 풋콜은 0.84에서 0.80으로 내려 불안이 조금 누그러진 모습입니다.",
+ "at": 1794615410246,
+ "headline": "엔비디아 경영진 불확실성에 반도체·AI주가 크게 흔들렸고, 물가·금리인상 우려까지 겹쳐 QQQ가 200일선 아래로 내려왔습니다.",
  "items": [
   {
-   "key": "fearGreed",
-   "title": "공포탐욕 40 공포 (전날 37, +3)",
-   "tone": "neutral",
+   "key": "putCall",
+   "title": "풋콜 0.80 (전날 0.80, +0.00)",
+   "tone": "fear",
    "cause": {
-    "text": "엔비디아가 CEO 사임 소식에 장중 13%대까지 급락했다가 저가 매수세로 4.3% 하락에 그치며 낙폭을 줄인 점이 투자 심리 반등(37→40)에 영향을 준 것으로 보입니다. 다만 3대 지수는 모두 내려 마감했고 수치는 여전히 '공포' 구간입니다.",
+    "text": "엔비디아 경영 불확실성으로 나스닥이 0.91% 내렸는데도 풋콜은 0.80으로 전날과 같아, 하락에 맞서 방어(풋) 베팅이 눈에 띄게 늘지는 않은 것으로 보입니다.",
     "sources": [
      {
-      "title": "'젠슨 황 퇴진 충격' 엔비디아 52주 신저가[뉴욕마감]",
-      "url": "https://supple.kr/news/cmwe3cs0h5er5al9prq2l3y6e"
-     },
-     {
-      "title": "[뉴욕증시]젠슨 황 사임·종전 불투명…일제히 하락 마감",
-      "url": "https://view.asiae.co.kr/article/2026111305592985181"
+      "title": "[속보] 뉴욕증시 혼조 마감…다우 +0.10%, S&P500 -0.40%, 나스닥 -0.91%…엔비디아 2%↓ - SBS Biz",
+      "url": "https://biz.sbs.co.kr/article/20000346377"
      }
     ],
     "stars": 4
    },
    "background": [
     {
-     "text": "젠슨 황 CEO는 사생활 의혹으로 사퇴 압박을 받아 왔고, 후임이 정해질 때까지 CFO가 임시 CEO를 맡습니다.",
+     "text": "엔비디아가 2.01% 내려 시가총액 4조 달러가 무너졌고, 필라델피아 반도체지수는 3.43% 하락했습니다.",
      "sources": [
       {
-       "title": "젠슨 황 전격 사임…엔비디아 CFO가 임시 CEO",
-       "url": "https://www.fnnews.com/news/202611122300110225"
-      }
-     ],
-     "stars": 3
-    },
-    {
-     "text": "AMD(+5.86%)와 브로드컴(+5.54%)은 반사이익 기대로 올라 반도체 종목별로 엇갈렸습니다.",
-     "sources": [
+       "title": "뉴욕증시 혼조 마감…엔비디아 2.01% 하락",
+       "url": "https://www.sentv.co.kr/article/view/sentv202611140004"
+      },
       {
-       "title": "젠슨 황 사임에 엔비디아 4% 급락…AMD·브로드컴은 5% 급등",
-       "url": "https://www.fnnews.com/news/202611130617387748"
-      }
-     ],
-     "stars": 2
-    },
-    {
-     "text": "10월 CPI가 전월 대비 0.4% 올라 예상(0.3%)보다 높았고, 달러는 19개월 만에 최고로 올랐으며 12월 금리 인상 확률이 91%로 반영됐습니다.",
-     "sources": [
-      {
-       "title": "Dollar rises to 19-month high as Fed hike bets grow, yen softens",
-       "url": "https://www.cnbc.com/2026/11/12/dollar-near-one-month-high-as-yen-edges-toward-160-.html"
+       "title": "엔비디아 시총 4조 달러 붕괴... 뉴욕증시 기술주 약세 속 혼조 마감",
+       "url": "https://gukjenews.com/news/articleView.html?idxno=3751871"
       }
      ],
      "stars": 4
-    }
-   ],
-   "note": "엔비디아 쇼크는 후임 CEO 선임 전까지 변동성이 이어질 수 있습니다. 금요일 발표되는 10월 PPI와 윌리엄스 뉴욕연은 총재 발언을 확인하시면 좋습니다."
-  },
-  {
-   "key": "putCall",
-   "title": "풋콜 0.80 (전날 0.84, -0.04)",
-   "tone": "fear",
-   "cause": {
-    "text": "엔비디아 급락 후 낙폭이 줄고 AMD·브로드컴이 오르면서 하락 방어용 풋 수요가 다소 줄어 풋콜이 0.84에서 0.80으로 내려간 것으로 보입니다. 이 연결은 기사로 직접 확인된 것은 아니고 추정입니다.",
-    "sources": [
-     {
-      "title": "젠슨 황 사임에 엔비디아 4% 급락…AMD·브로드컴은 5% 급등",
-      "url": "https://www.fnnews.com/news/202611130617387748"
-     }
-    ],
-    "stars": 3
-   },
-   "background": [
+    },
     {
-     "text": "연준 인사들이 추가 긴축 필요성을 언급하고 50bp 인상 가능성까지 배제하지 않으면서 금리 부담이 시장 전반에 깔려 있습니다.",
+     "text": "물가 상승에 따른 통화긴축 우려가 기술주에 부담으로 작용했다는 보도가 있었습니다.",
      "sources": [
       {
-       "title": "Dollar rises to 19-month high as Fed hike bets grow, yen softens",
-       "url": "https://www.cnbc.com/2026/11/12/dollar-near-one-month-high-as-yen-edges-toward-160-.html"
+       "title": "엔비디아 시총 4조 달러 붕괴... 뉴욕증시 기술주 약세 속 혼조 마감",
+       "url": "https://gukjenews.com/news/articleView.html?idxno=3751871"
       }
      ],
      "stars": 3
+    }
+   ],
+   "note": "수치 변화가 없어 일회성 신호로 보기는 어렵습니다. 엔비디아 후임 인선 소식과 12월 FOMC 전까지 나올 물가 지표를 확인해 보세요. 장 마감 뒤 선물 움직임은 확인하지 못했습니다."
+  },
+  {
+   "key": "rsi",
+   "title": "QQQ RSI 40.9 (전날 45.4, -4.5)",
+   "tone": "neutral",
+   "cause": {
+    "text": "반도체·AI주 급락으로 QQQ가 하루 만에 내려 RSI가 45.4에서 40.9로 낮아진 것으로 보입니다.",
+    "sources": [
+     {
+      "title": "엔비디아 시총 4조 달러 붕괴... 뉴욕증시 기술주 약세 속 혼조 마감",
+      "url": "https://gukjenews.com/news/articleView.html?idxno=3751871"
+     }
+    ],
+    "stars": 5
+   },
+   "background": [
+    {
+     "text": "전날 엔비디아 반사이익 기대로 올랐던 AMD(-8.75%)와 브로드컴(-4.76%)까지 급락해 반도체 전반으로 매도가 번졌습니다.",
+     "sources": [
+      {
+       "title": "엔비디아 시총 4조 달러 붕괴... 뉴욕증시 기술주 약세 속 혼조 마감",
+       "url": "https://gukjenews.com/news/articleView.html?idxno=3751871"
+      }
+     ],
+     "stars": 4
     },
     {
-     "text": "미국 실업수당 청구가 20만 건 안팎으로 안정적이어서 고용 쪽 불안은 크지 않은 상태입니다.",
+     "text": "HSBC 등 투자은행들이 엔비디아 목표주가를 낮추며 승계 계획이 분명해지기 전까지 부진할 수 있다고 봤습니다.",
+     "sources": [
+      {
+       "title": "뉴욕증시 혼조 마감…엔비디아 주가 2% 하락",
+       "url": "https://news.jkn.co.kr/post/1092212"
+      }
+     ],
+     "stars": 3
+    }
+   ],
+   "note": "RSI 40.9는 통상 과매도 기준(30 이하)에는 아직 멀어 추가 변동 여지가 있습니다. 엔비디아 관련 후속 발표를 확인하세요."
+  },
+  {
+   "key": "ma",
+   "title": "QQQ $679.89 (전날 대비 -1.2%, 200일선 대비 아래 0.3%)",
+   "tone": "fear",
+   "cause": {
+    "text": "엔비디아발 반도체 약세로 QQQ가 전날보다 1.2% 내린 $679.89가 되면서 200일선보다 0.3% 아래로 밀린 것으로 보입니다.",
+    "sources": [
+     {
+      "title": "뉴욕증시 혼조 마감…엔비디아 2.01% 하락",
+      "url": "https://www.sentv.co.kr/article/view/sentv202611140004"
+     }
+    ],
+    "stars": 5
+   },
+   "background": [
+    {
+     "text": "나스닥 종합지수는 229.82포인트(0.91%) 내린 25,136.27에 마감했습니다.",
+     "sources": [
+      {
+       "title": "[속보] 뉴욕증시 혼조 마감…다우 +0.10%, S&P500 -0.40%, 나스닥 -0.91%…엔비디아 2%↓ - SBS Biz",
+       "url": "https://biz.sbs.co.kr/article/20000346377"
+      }
+     ],
+     "stars": 4
+    },
+    {
+     "text": "금리인상 가능성 속에 12월 FOMC를 앞두고 긴축 우려가 이어지고 있다는 제목들이 나왔지만, 세부 내용은 직접 확인하지 못했습니다.",
      "sources": [],
      "stars": 2
     }
    ],
-   "note": "풋콜 하락은 하루 변화라 일회성일 수 있습니다. 엔비디아 후임 CEO 발표와 금요일 PPI 결과에 따라 다시 움직일 수 있습니다."
+   "note": "200일선과 거리가 0.3%뿐이라 작은 등락에도 위아래가 바뀔 수 있습니다. VIX 기간 구조는 정상이라 공포가 크게 번진 단계는 아닌 것으로 보이며, 장 마감 뒤 선물 움직임은 확인하지 못했습니다."
   }
  ]
 }
