@@ -1,138 +1,157 @@
 {
- "at": 1794837981911,
- "headline": "엔비디아 CEO 사임 충격과 연준 금리 인상 우려로 기술주가 흔들려 QQQ가 200일선 아래로 내려왔고, 월요일 나스닥100 선물도 1% 안팎 더 내렸습니다.",
+ "at": 1794839461356,
+ "headline": "엔비디아 실적과 앤트로픽 상장, 연준 12월 금리 인상 전망을 앞두고 장 시작 전 나스닥 선물이 1% 안팎 밀리며 QQQ가 200일선 아래로 내려왔습니다.",
  "items": [
   {
    "key": "putCall",
    "title": "풋콜 0.83 (전날 0.80, +0.03)",
    "tone": "fear",
    "cause": {
-    "text": "장 마감 뒤에도 엔비디아 CEO 사임 파문과 반도체 약세가 이어지며 나스닥100 선물이 월요일 1% 안팎 내렸고, 하락에 대비하는 풋옵션 수요가 조금 늘어 풋콜이 0.80에서 0.83으로 오른 것으로 보입니다.",
+    "text": "한국 시간 오늘 밤 개장 직전 나스닥100 선물이 0.5~1.5% 내렸습니다. 엔비디아 실적(미국 17일 장 마감 후)과 앤트로픽 상장을 앞두고 하락에 대비하려는 풋옵션 수요가 조금 늘어, 풋콜이 0.80에서 0.83으로 오른 것으로 보입니다.",
     "sources": [
      {
-      "title": "Stock futures slide as Nvidia leads AI stocks lower: Live updates (CNBC)",
-      "url": "https://www.cnbc.com/2026/11/15/stock-market-today-live-updates.html"
+      "title": "뉴욕증시 프리뷰, 주가지수 선물 하락…엔비디아 실적·앤스로픽 상장 앞두고 기술주 약세",
+      "url": "https://www.newspim.com/news/view/20261116001408"
      },
      {
-      "title": "Nasdaq futures fall as investors await Nvidia results and Anthropic debut",
-      "url": "https://tradersunion.com/news/stocks/show/4266725-nasdaq-futures-fall/"
+      "title": "Morning Bid: AI selloff resumes as Nvidia earnings loom",
+      "url": "https://investing.com/news/economy-news/morning-bid-ai-selloff-resumes-as-nvidia-earnings-loom-5028378"
      }
     ],
-    "stars": 5
+    "stars": 4
    },
    "background": [
     {
-     "text": "젠슨 황이 사임한 뒤 엔비디아는 지난주 13% 떨어졌고, 월요일 장전에도 약 4% 내렸다고 합니다.",
+     "text": "젠슨 황 CEO가 지난주 사임해 경영 불확실성이 커졌고, 엔비디아 시가총액은 10월 초 이후 약 1.9조 달러 줄었다고 합니다.",
      "sources": [
       {
-       "title": "Stock futures slide as Nvidia leads AI stocks lower: Live updates (CNBC)",
-       "url": "https://www.cnbc.com/2026/11/15/stock-market-today-live-updates.html"
+       "title": "Morning Bid: AI selloff resumes as Nvidia earnings loom",
+       "url": "https://investing.com/news/economy-news/morning-bid-ai-selloff-resumes-as-nvidia-earnings-loom-5028378"
       }
      ],
      "stars": 4
     },
     {
-     "text": "10월 물가가 예상보다 뜨거워 12월 8~9일 회의에서 연준이 0.25%p 올릴 확률이 약 88.5%로 반영돼 있다고 합니다.",
+     "text": "CME 페드워치상 12월 금리 인상 가능성이 사실상 100%이고 10년물 금리는 5.1%대여서, 높은 차입 비용이 AI 투자 수익성 우려를 키우고 있습니다.",
      "sources": [
       {
-       "title": "Nvidia Earnings, Fed Minutes, Anthropic’s IPO Put AI Rally To The Test",
-       "url": "https://finance.yahoo.com/technology/ai/articles/nvidia-earnings-fed-minutes-anthropic-120006002.html"
-      }
-     ],
-     "stars": 4
-    },
-    {
-     "text": "화요일 엔비디아 실적과 이번 주 앤트로픽 상장을 앞두고 AI 투자 열기를 시험받는다는 경계심이 커졌습니다.",
-     "sources": [
-      {
-       "title": "엔비디아 실적·앤트로픽 상장…이번주 증시 향방 최대 가늠자 - 경향신문",
-       "url": "https://www.khan.co.kr/article/202611152035005"
+       "title": "뉴욕증시 프리뷰, 주가지수 선물 하락…엔비디아 실적·앤스로픽 상장 앞두고 기술주 약세",
+       "url": "https://www.newspim.com/news/view/20261116001408"
       }
      ],
      "stars": 3
+    },
+    {
+     "text": "VIX 기간 구조가 정상이라 공포가 급격히 커진 상태는 아니며, 풋콜 변화도 0.03으로 작습니다.",
+     "sources": [],
+     "stars": 2
     }
    ],
-   "note": "풋콜 변화는 0.03으로 작아 큰 공포 신호라고 보기는 어렵고, 엔비디아 이벤트에 따른 단기 반응일 가능성이 있습니다. 17일 장 마감 후 엔비디아 실적, 이번 주 앤트로픽 상장, 연준 의사록을 확인하세요."
+   "note": "풋콜 변화가 작아 큰 공포 신호라기보다 실적 전 경계심으로 보입니다. 미국 17일 소매판매와 엔비디아 실적, 18일 FOMC 의사록, 앤트로픽 상장(보도 19일 전후)을 확인해 보세요."
   },
   {
    "key": "rsi",
-   "title": "QQQ RSI 40.9 (전날 45.4, -4.5)",
+   "title": "QQQ RSI 35.8 (전날 40.9, -5.1)",
    "tone": "neutral",
    "cause": {
-    "text": "금요일 QQQ가 1.2% 내리고 엔비디아·반도체 약세가 이어지면서 RSI가 45.4에서 40.9로 내려간 것으로 보입니다.",
+    "text": "지난주 나스닥이 4.48% 내려 6월 이후 최악의 주간 하락을 기록했고 금요일에도 크게 밀렸습니다. 여기에 오늘 선물 약세가 더해져 QQQ RSI가 40.9에서 35.8로 내려간 것으로 보입니다.",
     "sources": [
      {
-      "title": "Nasdaq futures fall as investors await Nvidia results and Anthropic debut",
-      "url": "https://tradersunion.com/news/stocks/show/4266725-nasdaq-futures-fall/"
+      "title": "US STOCKS-Wall Street ends down sharply; worries about AI trade and high oil prices weigh",
+      "url": "https://www.devdiscourse.com/article/international/3993897-us-stocks-wall-street-ends-down-sharply-worries-about-ai-trade-and-high-oil-prices-weigh"
+     },
+     {
+      "title": "Morning Bid: AI selloff resumes as Nvidia earnings loom",
+      "url": "https://investing.com/news/economy-news/morning-bid-ai-selloff-resumes-as-nvidia-earnings-loom-5028378"
      }
     ],
     "stars": 5
    },
    "background": [
     {
-     "text": "엔비디아가 한 주에 13% 빠져 2025년 4월 이후 가장 큰 주간 낙폭을 기록했다고 합니다.",
+     "text": "부채로 AI 설비를 짓는 기업들이 이자 부담을 감당할 만큼 돈을 벌 수 있을지에 대한 의문이 반도체·AI 주식 매도로 이어졌습니다.",
      "sources": [
       {
-       "title": "Stock futures slide as Nvidia leads AI stocks lower: Live updates (CNBC)",
-       "url": "https://www.cnbc.com/2026/11/15/stock-market-today-live-updates.html"
+       "title": "US STOCKS-Wall Street ends down sharply; worries about AI trade and high oil prices weigh",
+       "url": "https://www.devdiscourse.com/article/international/3993897-us-stocks-wall-street-ends-down-sharply-worries-about-ai-trade-and-high-oil-prices-weigh"
       }
      ],
      "stars": 4
     },
     {
-     "text": "마이크론·인텔·AMD 등 반도체주가 월요일 장전에 5% 넘게 내렸고, 미국 상무부는 중국 기업의 엔비디아 연산력 임대 허점을 막으려 하고 있습니다.",
+     "text": "13일 필라델피아 반도체지수가 3.43% 내렸고 구성 종목 30개가 모두 하락했습니다.",
      "sources": [
       {
-       "title": "Stock futures slide as Nvidia leads AI stocks lower: Live updates (CNBC)",
-       "url": "https://www.cnbc.com/2026/11/15/stock-market-today-live-updates.html"
+       "title": "[뉴욕증시 마감] 엔비디아發 기술주 매도…나스닥 0.91%↓",
+       "url": "https://www.thefairnews.co.kr/news/articleView.html?idxno=94167"
       }
      ],
      "stars": 3
+    },
+    {
+     "text": "앤트로픽 상장 자금을 마련하려고 기존 기술주를 팔 수 있다는 분석도 있으나, 확인된 사실은 아닙니다.",
+     "sources": [
+      {
+       "title": "뉴욕증시 프리뷰, 주가지수 선물 하락…엔비디아 실적·앤스로픽 상장 앞두고 기술주 약세",
+       "url": "https://www.newspim.com/news/view/20261116001408"
+      }
+     ],
+     "stars": 2
     }
    ],
-   "note": "RSI 40.9는 과매도 기준(보통 30)에는 아직 멀어서, 월요일 선물 하락이 이어지면 더 내려갈 수 있습니다. 17일 엔비디아 실적 반응을 확인하세요."
+   "note": "RSI 35.8은 흔히 쓰는 과매도 기준 30보다 위라 아직 그 구간은 아닙니다. 오늘 정규장 움직임과 엔비디아 실적 반응에 따라 다시 크게 움직일 수 있습니다."
   },
   {
    "key": "ma",
-   "title": "QQQ $679.89 (전날 대비 -1.2%, 200일선 대비 아래 0.3%)",
+   "title": "QQQ $671.05 (전날 대비 -1.3%, 200일선 대비 아래 1.7%)",
    "tone": "fear",
    "cause": {
-    "text": "금요일 QQQ가 1.2% 내린 $679.89로 마감해 200일선 아래 0.3%까지 내려온 것으로 보입니다. 엔비디아와 반도체주 약세가 직접 원인으로 보입니다.",
+    "text": "기사 근거상 QQQ가 하루 1.3% 내려 $671.05가 되었고 200일선보다 1.7% 아래로 밀린 것은 엔비디아 약세와 AI 부채 우려, 금리 인상 전망이 겹친 결과로 보입니다. 가격이 선물 하락 전 금요일 종가 기준이라면 오늘 밤 개장 때 격차가 더 벌어질 수도 있습니다.",
     "sources": [
      {
-      "title": "Nasdaq futures fall as investors await Nvidia results and Anthropic debut",
-      "url": "https://tradersunion.com/news/stocks/show/4266725-nasdaq-futures-fall/"
+      "title": "Morning Bid: AI selloff resumes as Nvidia earnings loom",
+      "url": "https://investing.com/news/economy-news/morning-bid-ai-selloff-resumes-as-nvidia-earnings-loom-5028378"
      },
      {
-      "title": "Chip Slump Hits Nasdaq Futures After Hours - moomoo Community",
-      "url": "https://www.moomoo.com/community/feed/chip-slump-hits-nasdaq-futures-after-hours-117612093964294"
+      "title": "[뉴욕증시 마감] 엔비디아發 기술주 매도…나스닥 0.91%↓",
+      "url": "https://www.thefairnews.co.kr/news/articleView.html?idxno=94167"
      }
     ],
     "stars": 5
    },
    "background": [
     {
-     "text": "장 마감 뒤에도 엔비디아·마이크론·인텔이 시간외에서 내렸고, 월요일 나스닥100 선물은 약 1.4% 하락했다고 합니다.",
+     "text": "연준은 12월 인상이 거의 확실시되고, 월러 이사는 물가가 이어지면 0.5%p 인상도 열어뒀다고 전해졌습니다.",
      "sources": [
       {
-       "title": "Stock futures slide as Nvidia leads AI stocks lower: Live updates (CNBC)",
-       "url": "https://www.cnbc.com/2026/11/15/stock-market-today-live-updates.html"
+       "title": "뉴욕증시, 연준 '빅스텝' 우려·엔비디아 급락에 하락 마감",
+       "url": "https://www.newspim.com/news/view/20261111000037"
       }
      ],
      "stars": 4
     },
     {
-     "text": "베선트 재무장관이 엔비디아의 '대대적 쇄신'을 요구했고, 연준 금리 인상 전망과 달러 강세도 기술주에 부담으로 보도됐습니다.",
+     "text": "민주당의 중간선거 승리로 데이터센터 규제가 강해질 수 있다는 우려가 AI 주식에 부담이 됐다고 합니다.",
      "sources": [
       {
-       "title": "Stock futures slide as Nvidia leads AI stocks lower: Live updates (CNBC)",
-       "url": "https://www.cnbc.com/2026/11/15/stock-market-today-live-updates.html"
+       "title": "Morning Bid: AI selloff resumes as Nvidia earnings loom",
+       "url": "https://investing.com/news/economy-news/morning-bid-ai-selloff-resumes-as-nvidia-earnings-loom-5028378"
       }
      ],
-     "stars": 3
+     "stars": 2
+    },
+    {
+     "text": "아시아 증시도 약했고 대만 가권지수는 4% 넘게, 코스피는 3%대 하락했습니다.",
+     "sources": [
+      {
+       "title": "뉴욕증시 프리뷰, 주가지수 선물 하락…엔비디아 실적·앤스로픽 상장 앞두고 기술주 약세",
+       "url": "https://www.newspim.com/news/view/20261116001408"
+      }
+     ],
+     "stars": 2
     }
    ],
-   "note": "200일선 바로 아래라 이틀 연속 회복 여부가 관건이며, 월요일 선물 하락으로 격차가 더 벌어질 수 있습니다. 17일 엔비디아 실적, 19일 앤트로픽 상장 일정을 확인하세요."
+   "note": "한 번의 이벤트보다 AI 우려와 금리 부담이 이어진 흐름으로 보입니다. 워시 의장 연설(미국 16일), 엔비디아 실적(17일), 10월 FOMC 의사록(18일)에서 200일선 회복 여부를 지켜보세요."
   }
  ]
 }
