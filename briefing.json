@@ -1,54 +1,122 @@
 {
- "at": 1794925840089,
- "headline": "엔비디아 CEO 교체 불확실성과 AI주 매도로 나스닥이 크게 흔들렸지만, 풋콜 비율은 0.81로 소폭 낮아져 옵션 시장의 공포는 아직 크지 않은 모습입니다.",
+ "at": 1794953653283,
+ "headline": "미국 증시가 엔비디아 실적과 12월 금리 인상 우려로 크게 밀려 공포 지표가 올랐고, 장 마감 뒤 엔비디아가 예상을 웃돌며 시간외에서 반등했습니다.",
  "items": [
   {
-   "key": "putCall",
-   "title": "풋콜 0.81 (전날 0.84, -0.03)",
+   "key": "fearGreed",
+   "title": "공포탐욕 25 극단적 공포 (전날 31, -6)",
    "tone": "fear",
    "cause": {
-    "text": "엔비디아 젠슨 황 CEO 관련 충격으로 AI·반도체주가 흔들렸는데도 풋콜이 0.84에서 0.81로 낮아진 것은, 하락에 대비한 풋 매수보다 콜 거래가 상대적으로 더 이어진 결과로 보입니다. 다만 이 비율 자체를 설명하는 기사는 찾지 못해 추정입니다.",
+    "text": "17일 뉴욕증시에서 다우가 1.64%, S&P500이 1.03%, 나스닥이 0.74% 내리고 장중 나스닥이 4월 이후 최저까지 밀린 것이 투자 심리를 더 위축시킨 것으로 보입니다. 장 마감 뒤 엔비디아 매출이 1,158억 달러로 전망치를 웃돌고 시간외에서 1~2% 올랐지만, 이 반등은 이번 수치에는 반영되지 않은 것으로 보입니다.",
     "sources": [
      {
-      "title": "Nasdaq futures drop 0.8% as WSJ says Nvidia board is preparing to oust CEO Huang",
-      "url": "https://investinglive.com/stock-market-update/nasdaq-futures-drop-0-8-as-wsj-says-nvidia-board-is-preparing-to-oust-ceo-huang/"
+      "title": "뉴욕증시, 엔비디아 실적 앞두고 일제히 하락 마감…다우 1.64%↓",
+      "url": "https://www.newspim.com/news/view/20261118000031"
+     },
+     {
+      "title": "엔비디아, 최근 분기 매출 1천158억 4천만달러…시장 예상 웃돌아 - SBS Biz",
+      "url": "https://biz.sbs.co.kr/article/20000347179"
+     }
+    ],
+    "stars": 5
+   },
+   "background": [
+    {
+     "text": "12월 연준 금리 인상 가능성이 높게 반영되고 있고, 국채 10년물 금리도 5%를 웃도는 수준으로 올라 주식에 부담이 됐습니다.",
+     "sources": [
+      {
+       "title": "Why Is the Stock Market Down Today? 17 November 2026",
+       "url": "https://admiralmarkets.com/analytics/traders-blog/why-is-the-stock-market-down-today-17-november-2026"
+      },
+      {
+       "title": "US yields rise, stocks fall as inflation data boosts odds of larger December rate hike",
+       "url": "https://www.marketscreener.com/news/world-stocks-bounce-as-oil-slides-heading-into-us-cpi-print-ce785edadd8af024"
+      }
+     ],
+     "stars": 4
+    },
+    {
+     "text": "젠슨 황 CEO 사임 이후 엔비디아 주가가 이달 들어 크게 떨어졌고, 앤스로픽 IPO를 앞둔 AI 투자 불안도 겹쳤습니다.",
+     "sources": [
+      {
+       "title": "엔비디아 실적 앞두고 美증시 하락…나스닥 4월 이후 최저 - SBS Biz",
+       "url": "https://biz.sbs.co.kr/article/20000347169"
+      }
+     ],
+     "stars": 3
+    }
+   ],
+   "note": "실적 발표 자체는 일회성이지만 금리 인상 부담은 이어지는 흐름입니다. 18일 공개되는 FOMC 의사록과 엔비디아의 정규장 주가 반응을 확인하시면 좋겠습니다."
+  },
+  {
+   "key": "putCall",
+   "title": "풋콜 0.86 (전날 0.84, +0.02)",
+   "tone": "fear",
+   "cause": {
+    "text": "풋콜 비율이 0.84에서 0.86으로 소폭만 올라, 하락 대비 풋옵션 수요가 약간 늘었지만 큰 쏠림은 아닌 것으로 보입니다. 엔비디아 실적을 앞두고 옵션 시장이 큰 변동폭을 반영한 점이 배경으로 보이나, 풋콜 수치를 직접 설명한 기사는 찾지 못했습니다.",
+    "sources": [
+     {
+      "title": "Nasdaq Futures Rise as Investors Look to Nvidia Earnings - Update",
+      "url": "https://www.marketscreener.com/news/nasdaq-futures-rise-as-investors-look-to-nvidia-earnings-update-ce785edcdb88f227"
      }
     ],
     "stars": 3
    },
    "background": [
     {
-     "text": "WSJ가 엔비디아 이사회의 황 CEO 해임 준비를 보도하자 나스닥100 선물이 약 0.8% 내렸고, 엔비디아는 시간외에서 4% 넘게 하락했습니다.",
+     "text": "실적 전 옵션 시장은 엔비디아 주가가 발표 뒤 양방향으로 약 8.5% 움직일 가능성을 반영했다고 합니다.",
      "sources": [
       {
-       "title": "Nasdaq futures drop 0.8% as WSJ says Nvidia board is preparing to oust CEO Huang",
-       "url": "https://investinglive.com/stock-market-update/nasdaq-futures-drop-0-8-as-wsj-says-nvidia-board-is-preparing-to-oust-ceo-huang/"
-      }
-     ],
-     "stars": 4
-    },
-    {
-     "text": "황 CEO 사임 발표 뒤 엔비디아는 장 초반 13%대까지 밀렸다가 낙폭을 줄였고, CFO가 임시 CEO를 맡아 후임을 찾고 있습니다.",
-     "sources": [
-      {
-       "title": "news.mtn.co.kr",
-       "url": "https://news.mtn.co.kr/article/2026111306160010584"
-      }
-     ],
-     "stars": 4
-    },
-    {
-     "text": "같은 시기 유가 급등도 투자심리를 누른 요인으로 보도됐습니다.",
-     "sources": [
-      {
-       "title": "news.mtn.co.kr",
-       "url": "https://news.mtn.co.kr/article/2026111311441916486"
+       "title": "Nasdaq Futures Rise as Investors Look to Nvidia Earnings - Update",
+       "url": "https://www.marketscreener.com/news/nasdaq-futures-rise-as-investors-look-to-nvidia-earnings-update-ce785edcdb88f227"
       }
      ],
      "stars": 2
     }
    ],
-   "note": "풋콜 0.81은 하루치 변화가 작아 일회성인지 판단하기 어렵고, 엔비디아 후임 CEO 선임 소식과 AI주 흐름에 따라 달라질 수 있습니다. 검색에서는 11월 17일 장 마감 뒤 새 속보와 '나스닥 2.49% 하락' 원문을 확인하지 못했으니 원문 확인이 필요합니다."
+   "note": "변화 폭이 작아 뚜렷한 신호로 보기는 어렵습니다. 엔비디아 실적 이후 주가 방향에 따라 달라질 수 있습니다.)"
+  },
+  {
+   "key": "vix",
+   "title": "VIX 25.5 (전날 22.9, +2.6)",
+   "tone": "neutral",
+   "cause": {
+    "text": "엔비디아 실적과 금리 인상 우려 속에 주가 하락이 이어지며 VIX가 22.9에서 25.5로 올랐습니다. 직전 거래일에도 VIX가 약 18.7% 올라 22.91로 마감했다는 보도가 있어, 변동성이 이틀째 커진 것으로 보입니다.",
+    "sources": [
+     {
+      "title": "Why Is the Stock Market Down Today? 17 November 2026",
+      "url": "https://admiralmarkets.com/analytics/traders-blog/why-is-the-stock-market-down-today-17-november-2026"
+     },
+     {
+      "title": "뉴욕증시, 엔비디아 실적 앞두고 일제히 하락 마감…다우 1.64%↓",
+      "url": "https://www.newspim.com/news/view/20261118000031"
+     }
+    ],
+    "stars": 5
+   },
+   "background": [
+    {
+     "text": "나스닥이 이틀 연속 급락해 지수가 약 6% 빠졌다는 보도가 있었고, 나스닥은 조정 구간에 들어섰다는 평가가 나옵니다.",
+     "sources": [
+      {
+       "title": "Nasdaq Futures Rise as Investors Look to Nvidia Earnings - Update",
+       "url": "https://www.marketscreener.com/news/nasdaq-futures-rise-as-investors-look-to-nvidia-earnings-update-ce785edcdb88f227"
+      }
+     ],
+     "stars": 4
+    },
+    {
+     "text": "12월 금리 인상 가능성이 매우 높게 반영됐고, 월러 이사가 물가가 높으면 50bp 인상도 열어두겠다고 밝혔다는 보도가 있습니다.",
+     "sources": [
+      {
+       "title": "US yields rise, stocks fall as inflation data boosts odds of larger December rate hike",
+       "url": "https://www.marketscreener.com/news/world-stocks-bounce-as-oil-slides-heading-into-us-cpi-print-ce785edadd8af024"
+      }
+     ],
+     "stars": 3
+    }
+   ],
+   "note": "VIX가 3개월물보다 높은 역전이 1거래일째라 단기 불안이 진행 중이라는 뜻입니다. 엔비디아 시간외 반등이 정규장에서 이어지는지, 18일 FOMC 의사록 내용이 어떤지가 관건입니다."
   }
  ]
 }
