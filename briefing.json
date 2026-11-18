@@ -1,122 +1,97 @@
 {
- "at": 1794953653283,
- "headline": "미국 증시가 엔비디아 실적과 12월 금리 인상 우려로 크게 밀려 공포 지표가 올랐고, 장 마감 뒤 엔비디아가 예상을 웃돌며 시간외에서 반등했습니다.",
+ "at": 1795012271182,
+ "headline": "엔비디아의 호실적으로 나스닥100 선물이 1% 안팎 오르며 4거래일 연속 하락 뒤 공포가 누그러졌지만, 연준의 추가 금리 인상 우려는 남아 있습니다.",
  "items": [
   {
-   "key": "fearGreed",
-   "title": "공포탐욕 25 극단적 공포 (전날 31, -6)",
+   "key": "putCall",
+   "title": "풋콜 0.87 (전날 0.86, +0.01)",
    "tone": "fear",
    "cause": {
-    "text": "17일 뉴욕증시에서 다우가 1.64%, S&P500이 1.03%, 나스닥이 0.74% 내리고 장중 나스닥이 4월 이후 최저까지 밀린 것이 투자 심리를 더 위축시킨 것으로 보입니다. 장 마감 뒤 엔비디아 매출이 1,158억 달러로 전망치를 웃돌고 시간외에서 1~2% 올랐지만, 이 반등은 이번 수치에는 반영되지 않은 것으로 보입니다.",
+    "text": "어제 정규장 마감 뒤 엔비디아가 예상(약 1,090억 달러)을 웃도는 1,158억 달러 매출과 더 높은 다음 분기 전망을 내놓았고, 나스닥100 선물이 1% 안팎 오르면서 하락 대비 풋옵션 수요가 한풀 꺾인 것으로 보입니다. 다만 풋콜 0.87(+0.01)은 거의 변화가 없어 경계심은 아직 남아 있는 것으로 보입니다.",
     "sources": [
      {
-      "title": "뉴욕증시, 엔비디아 실적 앞두고 일제히 하락 마감…다우 1.64%↓",
-      "url": "https://www.newspim.com/news/view/20261118000031"
-     },
-     {
-      "title": "엔비디아, 최근 분기 매출 1천158억 4천만달러…시장 예상 웃돌아 - SBS Biz",
-      "url": "https://biz.sbs.co.kr/article/20000347179"
+      "title": "Nvidia's $115.8 Billion Beat Lifts Futures — But Wall Street's Four-Day Slide Isn't Over Yet",
+      "url": "https://que.com/nvidias-115-8-billion-beat-lifts-futures-but-wall-streets-four-day-slide-isnt-over-yet/"
      }
     ],
     "stars": 5
    },
    "background": [
     {
-     "text": "12월 연준 금리 인상 가능성이 높게 반영되고 있고, 국채 10년물 금리도 5%를 웃도는 수준으로 올라 주식에 부담이 됐습니다.",
+     "text": "어제 정규장에서는 S&P500이 1.03% 내려 7월 이후 최저로 마감했고 다우는 약 850포인트 빠지는 등 4거래일 연속 하락했습니다.",
      "sources": [
       {
-       "title": "Why Is the Stock Market Down Today? 17 November 2026",
-       "url": "https://admiralmarkets.com/analytics/traders-blog/why-is-the-stock-market-down-today-17-november-2026"
-      },
-      {
-       "title": "US yields rise, stocks fall as inflation data boosts odds of larger December rate hike",
-       "url": "https://www.marketscreener.com/news/world-stocks-bounce-as-oil-slides-heading-into-us-cpi-print-ce785edadd8af024"
+       "title": "Stock market today: Dow sinks 850 points, S&P 500 and Nasdaq drop with focus on Nvidia earnings",
+       "url": "https://finance.yahoo.com/markets/live/stock-market-today-tuesday-november-17-dow-sp-500-nasdaq-nvidia-earnings-retail-sales-143848454.html"
       }
      ],
      "stars": 4
     },
     {
-     "text": "젠슨 황 CEO 사임 이후 엔비디아 주가가 이달 들어 크게 떨어졌고, 앤스로픽 IPO를 앞둔 AI 투자 불안도 겹쳤습니다.",
+     "text": "세인트루이스 연은 총재가 봄까지 추가 금리 인상이 필요하다고 말했고 소매판매도 예상보다 좋아 금리 부담 우려가 이어지고 있습니다.",
      "sources": [
       {
-       "title": "엔비디아 실적 앞두고 美증시 하락…나스닥 4월 이후 최저 - SBS Biz",
-       "url": "https://biz.sbs.co.kr/article/20000347169"
+       "title": "Stock market today: Dow sinks 850 points, S&P 500 and Nasdaq drop with focus on Nvidia earnings",
+       "url": "https://finance.yahoo.com/markets/live/stock-market-today-tuesday-november-17-dow-sp-500-nasdaq-nvidia-earnings-retail-sales-143848454.html"
       }
      ],
      "stars": 3
-    }
-   ],
-   "note": "실적 발표 자체는 일회성이지만 금리 인상 부담은 이어지는 흐름입니다. 18일 공개되는 FOMC 의사록과 엔비디아의 정규장 주가 반응을 확인하시면 좋겠습니다."
-  },
-  {
-   "key": "putCall",
-   "title": "풋콜 0.86 (전날 0.84, +0.02)",
-   "tone": "fear",
-   "cause": {
-    "text": "풋콜 비율이 0.84에서 0.86으로 소폭만 올라, 하락 대비 풋옵션 수요가 약간 늘었지만 큰 쏠림은 아닌 것으로 보입니다. 엔비디아 실적을 앞두고 옵션 시장이 큰 변동폭을 반영한 점이 배경으로 보이나, 풋콜 수치를 직접 설명한 기사는 찾지 못했습니다.",
-    "sources": [
-     {
-      "title": "Nasdaq Futures Rise as Investors Look to Nvidia Earnings - Update",
-      "url": "https://www.marketscreener.com/news/nasdaq-futures-rise-as-investors-look-to-nvidia-earnings-update-ce785edcdb88f227"
-     }
-    ],
-    "stars": 3
-   },
-   "background": [
+    },
     {
-     "text": "실적 전 옵션 시장은 엔비디아 주가가 발표 뒤 양방향으로 약 8.5% 움직일 가능성을 반영했다고 합니다.",
+     "text": "젠슨 황 CEO 사임으로 경영 불확실성이 있고 SEC 조사 보도도 있어 실적이 좋아도 불안이 완전히 가시지는 않았습니다.",
      "sources": [
       {
-       "title": "Nasdaq Futures Rise as Investors Look to Nvidia Earnings - Update",
-       "url": "https://www.marketscreener.com/news/nasdaq-futures-rise-as-investors-look-to-nvidia-earnings-update-ce785edcdb88f227"
+       "title": "Nvidia's $115.8 Billion Beat Lifts Futures — But Wall Street's Four-Day Slide Isn't Over Yet",
+       "url": "https://que.com/nvidias-115-8-billion-beat-lifts-futures-but-wall-streets-four-day-slide-isnt-over-yet/"
       }
      ],
      "stars": 2
     }
    ],
-   "note": "변화 폭이 작아 뚜렷한 신호로 보기는 어렵습니다. 엔비디아 실적 이후 주가 방향에 따라 달라질 수 있습니다.)"
+   "note": "엔비디아 실적은 일회성 이벤트 성격이 강해 풋콜이 며칠 더 높게 머물 수 있습니다. 미국 시각 오늘 오후 2시(한국 19일 새벽 4시) 10월 FOMC 의사록, 팔로알토·타깃·로우스 실적과 12월 금리 결정 전까지의 연준 발언을 확인하세요."
   },
   {
-   "key": "vix",
-   "title": "VIX 25.5 (전날 22.9, +2.6)",
+   "key": "rsi",
+   "title": "QQQ RSI 34.9 (전날 31.6, +3.3)",
    "tone": "neutral",
    "cause": {
-    "text": "엔비디아 실적과 금리 인상 우려 속에 주가 하락이 이어지며 VIX가 22.9에서 25.5로 올랐습니다. 직전 거래일에도 VIX가 약 18.7% 올라 22.91로 마감했다는 보도가 있어, 변동성이 이틀째 커진 것으로 보입니다.",
+    "text": "4거래일 연속 하락으로 과매도권(30 부근)까지 내려갔던 QQQ가 엔비디아 호실적 기대 속 선물 반등 흐름에 힘입어 RSI가 31.6에서 34.9로 올라온 것으로 보입니다. 이 반등은 어제 정규장 값이 아니라 장 마감 뒤 소식이 반영될 여지가 있어, 확정된 흐름인지는 더 지켜봐야 합니다.",
     "sources": [
      {
-      "title": "Why Is the Stock Market Down Today? 17 November 2026",
-      "url": "https://admiralmarkets.com/analytics/traders-blog/why-is-the-stock-market-down-today-17-november-2026"
-     },
-     {
-      "title": "뉴욕증시, 엔비디아 실적 앞두고 일제히 하락 마감…다우 1.64%↓",
-      "url": "https://www.newspim.com/news/view/20261118000031"
+      "title": "Nvidia's $115.8 Billion Beat Lifts Futures — But Wall Street's Four-Day Slide Isn't Over Yet",
+      "url": "https://que.com/nvidias-115-8-billion-beat-lifts-futures-but-wall-streets-four-day-slide-isnt-over-yet/"
      }
     ],
-    "stars": 5
+    "stars": 4
    },
    "background": [
     {
-     "text": "나스닥이 이틀 연속 급락해 지수가 약 6% 빠졌다는 보도가 있었고, 나스닥은 조정 구간에 들어섰다는 평가가 나옵니다.",
+     "text": "나스닥은 어제 장중 2.1%까지 빠졌다가 0.74% 하락으로 마감해, 장중 낙폭을 상당 부분 만회했습니다.",
      "sources": [
       {
-       "title": "Nasdaq Futures Rise as Investors Look to Nvidia Earnings - Update",
-       "url": "https://www.marketscreener.com/news/nasdaq-futures-rise-as-investors-look-to-nvidia-earnings-update-ce785edcdb88f227"
-      }
-     ],
-     "stars": 4
-    },
-    {
-     "text": "12월 금리 인상 가능성이 매우 높게 반영됐고, 월러 이사가 물가가 높으면 50bp 인상도 열어두겠다고 밝혔다는 보도가 있습니다.",
-     "sources": [
-      {
-       "title": "US yields rise, stocks fall as inflation data boosts odds of larger December rate hike",
-       "url": "https://www.marketscreener.com/news/world-stocks-bounce-as-oil-slides-heading-into-us-cpi-print-ce785edadd8af024"
+       "title": "Stock market today: Dow sinks 850 points, S&P 500 and Nasdaq drop with focus on Nvidia earnings",
+       "url": "https://finance.yahoo.com/markets/live/stock-market-today-tuesday-november-17-dow-sp-500-nasdaq-nvidia-earnings-retail-sales-143848454.html"
       }
      ],
      "stars": 3
+    },
+    {
+     "text": "변동성지수(VIX)는 어제 24.18로 약 5% 내려, 공포가 다소 꺾인 모습이었습니다.",
+     "sources": [
+      {
+       "title": "Stock market today: Dow sinks 850 points, S&P 500 and Nasdaq drop with focus on Nvidia earnings",
+       "url": "https://finance.yahoo.com/markets/live/stock-market-today-tuesday-november-17-dow-sp-500-nasdaq-nvidia-earnings-retail-sales-143848454.html"
+      }
+     ],
+     "stars": 3
+    },
+    {
+     "text": "엔비디아 시가총액이 10월 초 이후 약 2조 달러 줄어든 상태라 지수 전체가 이 종목 소식에 민감하게 움직이고 있습니다.",
+     "sources": [],
+     "stars": 2
     }
    ],
-   "note": "VIX가 3개월물보다 높은 역전이 1거래일째라 단기 불안이 진행 중이라는 뜻입니다. 엔비디아 시간외 반등이 정규장에서 이어지는지, 18일 FOMC 의사록 내용이 어떤지가 관건입니다."
+   "note": "RSI는 상승했지만 아직 30대 중반이라 약한 구간입니다. 오늘 정규장에서 선물 상승이 유지되는지, FOMC 의사록과 연준 발언에 반등이 꺾이지 않는지 확인하세요."
   }
  ]
 }
