@@ -1,97 +1,57 @@
 {
- "at": 1795012271182,
- "headline": "엔비디아의 호실적으로 나스닥100 선물이 1% 안팎 오르며 4거래일 연속 하락 뒤 공포가 누그러졌지만, 연준의 추가 금리 인상 우려는 남아 있습니다.",
+ "at": 1795039229172,
+ "headline": "연준 긴축 우려와 엔비디아 실적 뒤 혼조 마감으로 공포탐욕은 극단적 공포(25)에 머물렀고, 풋콜은 0.88로 소폭 올랐지만 VIX 역전이 풀리며 공포는 한풀 꺾인 모습입니다.",
  "items": [
   {
-   "key": "putCall",
-   "title": "풋콜 0.87 (전날 0.86, +0.01)",
+   "key": "fearGreed",
+   "title": "공포탐욕 25 극단적 공포 (전날 25, +0)",
    "tone": "fear",
    "cause": {
-    "text": "어제 정규장 마감 뒤 엔비디아가 예상(약 1,090억 달러)을 웃도는 1,158억 달러 매출과 더 높은 다음 분기 전망을 내놓았고, 나스닥100 선물이 1% 안팎 오르면서 하락 대비 풋옵션 수요가 한풀 꺾인 것으로 보입니다. 다만 풋콜 0.87(+0.01)은 거의 변화가 없어 경계심은 아직 남아 있는 것으로 보입니다.",
-    "sources": [
-     {
-      "title": "Nvidia's $115.8 Billion Beat Lifts Futures — But Wall Street's Four-Day Slide Isn't Over Yet",
-      "url": "https://que.com/nvidias-115-8-billion-beat-lifts-futures-but-wall-streets-four-day-slide-isnt-over-yet/"
-     }
-    ],
-    "stars": 5
-   },
-   "background": [
-    {
-     "text": "어제 정규장에서는 S&P500이 1.03% 내려 7월 이후 최저로 마감했고 다우는 약 850포인트 빠지는 등 4거래일 연속 하락했습니다.",
-     "sources": [
-      {
-       "title": "Stock market today: Dow sinks 850 points, S&P 500 and Nasdaq drop with focus on Nvidia earnings",
-       "url": "https://finance.yahoo.com/markets/live/stock-market-today-tuesday-november-17-dow-sp-500-nasdaq-nvidia-earnings-retail-sales-143848454.html"
-      }
-     ],
-     "stars": 4
-    },
-    {
-     "text": "세인트루이스 연은 총재가 봄까지 추가 금리 인상이 필요하다고 말했고 소매판매도 예상보다 좋아 금리 부담 우려가 이어지고 있습니다.",
-     "sources": [
-      {
-       "title": "Stock market today: Dow sinks 850 points, S&P 500 and Nasdaq drop with focus on Nvidia earnings",
-       "url": "https://finance.yahoo.com/markets/live/stock-market-today-tuesday-november-17-dow-sp-500-nasdaq-nvidia-earnings-retail-sales-143848454.html"
-      }
-     ],
-     "stars": 3
-    },
-    {
-     "text": "젠슨 황 CEO 사임으로 경영 불확실성이 있고 SEC 조사 보도도 있어 실적이 좋아도 불안이 완전히 가시지는 않았습니다.",
-     "sources": [
-      {
-       "title": "Nvidia's $115.8 Billion Beat Lifts Futures — But Wall Street's Four-Day Slide Isn't Over Yet",
-       "url": "https://que.com/nvidias-115-8-billion-beat-lifts-futures-but-wall-streets-four-day-slide-isnt-over-yet/"
-      }
-     ],
-     "stars": 2
-    }
-   ],
-   "note": "엔비디아 실적은 일회성 이벤트 성격이 강해 풋콜이 며칠 더 높게 머물 수 있습니다. 미국 시각 오늘 오후 2시(한국 19일 새벽 4시) 10월 FOMC 의사록, 팔로알토·타깃·로우스 실적과 12월 금리 결정 전까지의 연준 발언을 확인하세요."
-  },
-  {
-   "key": "rsi",
-   "title": "QQQ RSI 34.9 (전날 31.6, +3.3)",
-   "tone": "neutral",
-   "cause": {
-    "text": "4거래일 연속 하락으로 과매도권(30 부근)까지 내려갔던 QQQ가 엔비디아 호실적 기대 속 선물 반등 흐름에 힘입어 RSI가 31.6에서 34.9로 올라온 것으로 보입니다. 이 반등은 어제 정규장 값이 아니라 장 마감 뒤 소식이 반영될 여지가 있어, 확정된 흐름인지는 더 지켜봐야 합니다.",
-    "sources": [
-     {
-      "title": "Nvidia's $115.8 Billion Beat Lifts Futures — But Wall Street's Four-Day Slide Isn't Over Yet",
-      "url": "https://que.com/nvidias-115-8-billion-beat-lifts-futures-but-wall-streets-four-day-slide-isnt-over-yet/"
-     }
-    ],
+    "text": "연준 의사록에서 추가 금리 인상이 적절하다는 의견이 우세했고 12월 빅스텝까지 거론되면서, S&P500이 5거래일 연속 내려 7월 이후 최저가 된 점이 공포를 유지시킨 것으로 보입니다. 다만 나스닥은 0.4% 올라 혼조로 마감해 공포가 더 깊어지지는 않았습니다.",
+    "sources": [],
     "stars": 4
    },
    "background": [
     {
-     "text": "나스닥은 어제 장중 2.1%까지 빠졌다가 0.74% 하락으로 마감해, 장중 낙폭을 상당 부분 만회했습니다.",
-     "sources": [
-      {
-       "title": "Stock market today: Dow sinks 850 points, S&P 500 and Nasdaq drop with focus on Nvidia earnings",
-       "url": "https://finance.yahoo.com/markets/live/stock-market-today-tuesday-november-17-dow-sp-500-nasdaq-nvidia-earnings-retail-sales-143848454.html"
-      }
-     ],
+     "text": "엔비디아가 호실적을 내놓고도 주가가 2.8% 내려, AI 기대가 주가를 더 끌어올리지 못한다는 우려가 커진 것으로 보입니다.",
+     "sources": [],
      "stars": 3
     },
     {
-     "text": "변동성지수(VIX)는 어제 24.18로 약 5% 내려, 공포가 다소 꺾인 모습이었습니다.",
-     "sources": [
-      {
-       "title": "Stock market today: Dow sinks 850 points, S&P 500 and Nasdaq drop with focus on Nvidia earnings",
-       "url": "https://finance.yahoo.com/markets/live/stock-market-today-tuesday-november-17-dow-sp-500-nasdaq-nvidia-earnings-retail-sales-143848454.html"
-      }
-     ],
+     "text": "금값이 14개월 만의 최저, 달러가 19개월 만의 최고라는 보도는 시장이 연준 긴축을 크게 의식하고 있다는 신호로 보입니다.",
+     "sources": [],
      "stars": 3
     },
     {
-     "text": "엔비디아 시가총액이 10월 초 이후 약 2조 달러 줄어든 상태라 지수 전체가 이 종목 소식에 민감하게 움직이고 있습니다.",
+     "text": "트럼프 대통령이 APEC에서 멕시코·캐나다 정상과 회담하며 무역협상 진전 소식이 나온 것은 부담을 일부 덜어주는 재료입니다.",
      "sources": [],
      "stars": 2
     }
    ],
-   "note": "RSI는 상승했지만 아직 30대 중반이라 약한 구간입니다. 오늘 정규장에서 선물 상승이 유지되는지, FOMC 의사록과 연준 발언에 반등이 꺾이지 않는지 확인하세요."
+   "note": "긴축 우려는 단발 이벤트가 아니라 이어지는 흐름이라 다음 물가·고용 지표와 12월 FOMC 전까지 변동성이 남을 수 있습니다. 장 마감 뒤 새로 확인된 속보는 검색에서 찾지 못했습니다."
+  },
+  {
+   "key": "putCall",
+   "title": "풋콜 0.88 (전날 0.86, +0.02)",
+   "tone": "fear",
+   "cause": {
+    "text": "풋콜 비율이 0.86에서 0.88로 조금 오른 것은 S&P500 5일 연속 하락과 다우 1.1% 하락 속에서 하락 대비 보호 수요가 약간 늘었기 때문으로 보입니다.",
+    "sources": [],
+    "stars": 3
+   },
+   "background": [
+    {
+     "text": "연준 의사록의 긴축 신호로 금리 불확실성이 커지며 헤지 수요가 늘어난 것으로 보이지만, 기사로 직접 확인한 것은 아닙니다.",
+     "sources": [],
+     "stars": 2
+    },
+    {
+     "text": "나스닥이 오르며 지수별로 방향이 엇갈려 비율 변화는 +0.02에 그친 것으로 보입니다.",
+     "sources": [],
+     "stars": 2
+    }
+   ],
+   "note": "변화 폭이 작아 일회성 흔들림일 가능성이 있습니다. 앞으로 연준 인사 발언과 엔비디아 등 AI 대형주 주가 흐름에 따라 달라질 수 있습니다."
   }
  ]
 }
