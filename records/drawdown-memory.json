@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-19",
+ "updated": "2026-11-20",
  "memory": [
   {
    "name": "가격 최저",
@@ -3608,17 +3608,17 @@
   },
   {
    "peak": "2026-10-06",
-   "low": "2026-11-19",
-   "depth": -15.1,
+   "low": "2026-11-20",
+   "depth": -19.9,
    "done": false,
    "ongoing": true,
    "events": [
     {
      "name": "가격 최저",
-     "date": "2026-11-19",
+     "date": "2026-11-20",
      "offset": 0,
      "vsLow": 0,
-     "dd": -15.09,
+     "dd": -19.9,
      "fwd60": null
     },
     {
@@ -3631,42 +3631,38 @@
     },
     {
      "name": "공포탐욕 최저",
-     "date": "2026-10-23",
-     "offset": -19,
-     "vsLow": 9.2,
-     "dd": -7.27,
+     "date": "2026-11-20",
+     "offset": 0,
+     "vsLow": 0,
+     "dd": -19.9,
      "fwd60": null
     },
     {
      "name": "공포탐욕 25 회복",
-     "date": "2026-10-26",
-     "offset": -18,
-     "vsLow": 10.41,
-     "dd": -6.25,
-     "fwd60": null
+     "date": null
     },
     {
      "name": "RSI 일봉 최저",
      "date": "2026-10-23",
-     "offset": -19,
-     "vsLow": 9.2,
+     "offset": -20,
+     "vsLow": 15.77,
      "dd": -7.27,
      "fwd60": null
     },
     {
      "name": "RSI 일봉 30 재돌파",
      "date": "2026-10-27",
-     "offset": -17,
-     "vsLow": 11.81,
+     "offset": -18,
+     "vsLow": 18.54,
      "dd": -5.06,
      "fwd60": null
     },
     {
      "name": "RSI 주봉 최저",
-     "date": "2026-11-19",
+     "date": "2026-11-20",
      "offset": 0,
      "vsLow": 0,
-     "dd": -15.09,
+     "dd": -19.9,
      "fwd60": null
     },
     {
@@ -3675,10 +3671,10 @@
     },
     {
      "name": "VIX 최고",
-     "date": "2026-11-19",
+     "date": "2026-11-20",
      "offset": 0,
      "vsLow": 0,
-     "dd": -15.09,
+     "dd": -19.9,
      "fwd60": null
     },
     {
@@ -3687,26 +3683,22 @@
     },
     {
      "name": "VIX 구조 최고",
-     "date": "2026-11-05",
-     "offset": -10,
-     "vsLow": 0.31,
-     "dd": -14.82,
+     "date": "2026-11-20",
+     "offset": 0,
+     "vsLow": 0,
+     "dd": -19.9,
      "fwd60": null
     },
     {
      "name": "VIX 역전 풀림",
-     "date": "2026-11-09",
-     "offset": -8,
-     "vsLow": 5.32,
-     "dd": -10.57,
-     "fwd60": null
+     "date": null
     },
     {
      "name": "풋콜 최고",
-     "date": "2026-11-19",
+     "date": "2026-11-20",
      "offset": 0,
      "vsLow": 0,
-     "dd": -15.09,
+     "dd": -19.9,
      "fwd60": null
     },
     {
@@ -3716,16 +3708,16 @@
     {
      "name": "신용 최고",
      "date": "2026-09-08",
-     "offset": -52,
-     "vsLow": 11.37,
+     "offset": -53,
+     "vsLow": 18.06,
      "dd": -3.73,
      "fwd60": null
     },
     {
      "name": "200일선 이탈",
      "date": "2026-11-05",
-     "offset": -10,
-     "vsLow": 0.31,
+     "offset": -11,
+     "vsLow": 6.34,
      "dd": -14.82,
      "fwd60": null
     },
