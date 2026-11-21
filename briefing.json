@@ -1,140 +1,129 @@
 {
- "at": 1795215558995,
- "headline": "엔비디아 SEC 회계 조사 보도와 AI 투자 수익성 불안에 나스닥이 5.28% 급락하고 VIX가 35.9까지 치솟아, 공포가 진행 중인 국면입니다.",
+ "at": 1795271458590,
+ "headline": "엔비디아 급락과 AI 거품 우려, 금리 인상 전망이 겹치며 나스닥이 하루 5.3% 폭락해 공포 지표가 한꺼번에 치솟았습니다.",
  "items": [
   {
    "key": "fearGreed",
    "title": "공포탐욕 10 극단적 공포 (전날 19, -9)",
    "tone": "fear",
    "cause": {
-    "text": "엔비디아가 하루 14% 급락하고 나스닥이 5.28% 떨어져 올해 상승분을 모두 반납하면서, 심리 지표가 10 '극단적 공포'까지 내려간 것으로 보입니다.",
+    "text": "20일(현지시간) 나스닥이 5.28% 급락하고 다우·S&P500이 조정장에 들어가면서, 공포탐욕 지수가 19에서 10으로 내려간 것으로 보입니다. 엔비디아가 14% 빠진 것이 가장 직접적인 계기로 보입니다.",
     "sources": [
      {
-      "title": "[속보] 엔비디아 14% 폭락… 뉴욕증시 기술주 매도에 나스닥 5.3% 떨어져",
-      "url": "https://www.dt.co.kr/article/12096377"
+      "title": "나스닥 5.3% 폭락… ‘AI 거품’ 공포에 다우·S&P500도 조정 진입",
+      "url": "https://www.segye.com/newsView/20261121504595"
+     },
+     {
+      "title": "Nasdaq 100 futures slide as tech sell-off shows no signs of letting up",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/wall-street-futures-fall-anthropic-014153113.html"
      }
     ],
     "stars": 5
    },
    "background": [
     {
-     "text": "로이터가 SEC의 엔비디아 회계 처리 조사를 보도했고, 엔비디아는 10월 사상 최고치 대비 약 48% 내린 상태입니다.",
+     "text": "로이터가 SEC의 엔비디아 회계 조사를 보도했고, 젠슨 황 CEO가 지난 12일 물러난 일까지 겹쳐 실적 호조도 하락을 막지 못했습니다.",
      "sources": [
       {
-       "title": "[속보] 엔비디아 14% 폭락… 뉴욕증시 기술주 매도에 나스닥 5.3% 떨어져",
-       "url": "https://www.dt.co.kr/article/12096377"
+       "title": "나스닥 5.3% 폭락… ‘AI 거품’ 공포에 다우·S&P500도 조정 진입",
+       "url": "https://www.segye.com/newsView/20261121504595"
       }
      ],
      "stars": 5
     },
     {
-     "text": "엔비디아 호실적과 앤트로픽 상장에도 AI 투자가 실제 수익으로 이어질지에 대한 의심이 풀리지 않았습니다.",
+     "text": "10월부터 이어진 빚으로 하는 AI 투자의 수익성 의문과 민주당 중간선거 승리에 따른 AI 규제 강화 우려가 깔려 있습니다.",
      "sources": [
       {
-       "title": "Stocks slide as AI selloff deepens, Asia has worst week since 2020",
-       "url": "https://www.marketscreener.com/news/stocks-slide-as-ai-selloff-deepens-asia-has-worst-week-since-2020-ce785ed3db89f623"
+       "title": "Nasdaq 100 futures slide as tech sell-off shows no signs of letting up",
+       "url": "https://finance.yahoo.com/markets/stocks/articles/wall-street-futures-fall-anthropic-014153113.html"
       }
      ],
      "stars": 4
     },
     {
-     "text": "S&P500은 6거래일 연속 하락했고 S&P500과 다우는 조정 국면에 들어갔으며, 세계 주식도 7거래일 연속 내렸습니다.",
+     "text": "필라델피아 반도체지수가 하루 10.7% 내렸고, 소비재·헬스케어·에너지 같은 방어 업종으로 돈이 옮겨갔습니다.",
      "sources": [
       {
-       "title": "Stocks slide as AI selloff deepens, Asia has worst week since 2020",
-       "url": "https://www.marketscreener.com/news/stocks-slide-as-ai-selloff-deepens-asia-has-worst-week-since-2020-ce785ed3db89f623"
+       "title": "Nasdaq 100 futures slide as tech sell-off shows no signs of letting up",
+       "url": "https://finance.yahoo.com/markets/stocks/articles/wall-street-futures-fall-anthropic-014153113.html"
       }
      ],
      "stars": 3
     }
    ],
-   "note": "여러 악재가 겹친 하락이라 AI 실적과 SEC 조사 진행 상황에 따라 달라질 수 있습니다. 정규장 마감 뒤 새로 확인된 큰 속보는 찾지 못했습니다."
+   "note": "21일은 토요일이라 정규장이 쉬고, 마감 뒤 새 속보나 선물 시세는 확인하지 못했습니다. 다음 주 PCE 물가 발표와 12월 연준 회의가 확인할 일정입니다."
   },
   {
    "key": "putCall",
    "title": "풋콜 0.94 (전날 0.90, +0.04)",
    "tone": "fear",
    "cause": {
-    "text": "주가 급락 속에 하락에 대비하는 풋옵션 수요가 늘어 풋콜 비율이 0.90에서 0.94로 소폭 올라간 것으로 보입니다.",
-    "sources": [
-     {
-      "title": "[속보] 엔비디아 14% 폭락… 뉴욕증시 기술주 매도에 나스닥 5.3% 떨어져",
-      "url": "https://www.dt.co.kr/article/12096377"
-     }
-    ],
+    "text": "하락장에서 하락 보험인 풋옵션 수요가 늘어 풋콜이 0.90에서 0.94로 소폭 올랐다고 추정됩니다. 다만 풋콜 자체를 다룬 기사는 찾지 못했습니다.",
+    "sources": [],
     "stars": 3
    },
    "background": [
     {
-     "text": "풋콜 비율 자체를 설명한 기사는 찾지 못했고, 같은 날 VIX가 26% 오른 점에서 옵션 시장의 방어 수요가 커진 것으로 추정됩니다.",
+     "text": "S&P500이 7거래일 연속 내렸고 기술주가 한 주 동안 약 12% 빠지면서 헤지 수요가 커진 상황으로 보입니다.",
      "sources": [
       {
-       "title": "[속보] 엔비디아 14% 폭락… 뉴욕증시 기술주 매도에 나스닥 5.3% 떨어져",
-       "url": "https://www.dt.co.kr/article/12096377"
+       "title": "나스닥 5.3% 폭락… ‘AI 거품’ 공포에 다우·S&P500도 조정 진입",
+       "url": "https://www.segye.com/newsView/20261121504595"
       }
      ],
-     "stars": 2
+     "stars": 3
     },
     {
-     "text": "필라델피아 반도체 지수가 10.73% 떨어지는 등 반도체 쏠림이 컸던 만큼 헤지 수요가 몰렸을 수 있습니다.",
+     "text": "12월 금리 인상이 거의 확실하게 가격에 반영돼 있어 추가 하락을 걱정하는 심리가 이어지고 있습니다.",
      "sources": [
       {
-       "title": "[속보] 엔비디아 14% 폭락… 뉴욕증시 기술주 매도에 나스닥 5.3% 떨어져",
-       "url": "https://www.dt.co.kr/article/12096377"
+       "title": "Nasdaq 100 futures slide as tech sell-off shows no signs of letting up",
+       "url": "https://finance.yahoo.com/markets/stocks/articles/wall-street-futures-fall-anthropic-014153113.html"
       }
      ],
      "stars": 2
     }
    ],
-   "note": "0.94는 공포 속에서도 아주 극단적인 수치는 아니어서, 앞으로 비율이 더 오르는지 함께 지켜볼 만합니다."
+   "note": "변동폭이 작아 이번 급락 규모에 비하면 극단적인 쏠림은 아닙니다. 다음 주 PCE 발표 후 수치 변화를 보시면 됩니다."
   },
   {
    "key": "vix",
    "title": "VIX 35.9 (전날 28.4, +7.4)",
    "tone": "fear",
    "cause": {
-    "text": "엔비디아·반도체주 폭락과 나스닥 5%대 급락으로 VIX가 26.2% 오른 35.89가 되어 2025년 4월 이후 가장 높아진 것으로 보입니다.",
+    "text": "나스닥 5.3% 폭락으로 VIX가 26% 뛰어 35.89(35.9)까지 오른 것으로 보입니다. 단기 변동성 불안이 장기보다 커져 역전 상태가 4거래일째 이어지고 있습니다.",
     "sources": [
      {
-      "title": "[속보] 엔비디아 14% 폭락… 뉴욕증시 기술주 매도에 나스닥 5.3% 떨어져",
-      "url": "https://www.dt.co.kr/article/12096377"
+      "title": "나스닥 5.3% 폭락… ‘AI 거품’ 공포에 다우·S&P500도 조정 진입",
+      "url": "https://www.segye.com/newsView/20261121504595"
      }
     ],
     "stars": 5
    },
    "background": [
     {
-     "text": "엔비디아 SEC 회계 조사 보도에 더해 법무부·상무부의 수출 통제, 반독점 조사까지 거론되며 불확실성이 커졌습니다.",
+     "text": "엔비디아 회계 조사와 CEO 사임 같은 개별 악재가 AI 대장주 전체의 불확실성으로 번졌습니다.",
      "sources": [
       {
-       "title": "[속보] 엔비디아 14% 폭락… 뉴욕증시 기술주 매도에 나스닥 5.3% 떨어져",
-       "url": "https://www.dt.co.kr/article/12096377"
+       "title": "Nasdaq 100 futures slide as tech sell-off shows no signs of letting up",
+       "url": "https://finance.yahoo.com/markets/stocks/articles/wall-street-futures-fall-anthropic-014153113.html"
       }
      ],
      "stars": 4
     },
     {
-     "text": "선물시장은 다음 달 연준의 0.25%p 금리 인상이 거의 확실하다고 보고 있어 긴축 부담도 겹쳤습니다.",
+     "text": "10월 FOMC 의사록이 추가 긴축 기대를 키웠고 CME 기준 12월 25bp 인상이 거의 확실하며, 10년물 금리는 약 4.91%였습니다.",
      "sources": [
       {
-       "title": "Stocks slide as AI selloff deepens, Asia has worst week since 2020",
-       "url": "https://www.marketscreener.com/news/stocks-slide-as-ai-selloff-deepens-asia-has-worst-week-since-2020-ce785ed3db89f623"
+       "title": "Nasdaq 100 futures slide as tech sell-off shows no signs of letting up",
+       "url": "https://finance.yahoo.com/markets/stocks/articles/wall-street-futures-fall-anthropic-014153113.html"
       }
      ],
      "stars": 4
-    },
-    {
-     "text": "아시아 증시는 한 주 동안 8%(일본 제외) 빠져 2020년 3월 이후 최악이었고 대만은 17% 하락했습니다.",
-     "sources": [
-      {
-       "title": "Stocks slide as AI selloff deepens, Asia has worst week since 2020",
-       "url": "https://www.marketscreener.com/news/stocks-slide-as-ai-selloff-deepens-asia-has-worst-week-since-2020-ce785ed3db89f623"
-      }
-     ],
-     "stars": 3
     }
    ],
-   "note": "VIX가 3개월물보다 높은 역전이 이어지는 것은 단기 공포가 큰 상태라는 뜻입니다. 다음 달 연준 회의와 엔비디아 SEC 조사 소식이 변수입니다."
+   "note": "급락 직후라 변동성이 빠르게 커진 구간으로, 일회성인지는 아직 알 수 없습니다. 다음 주 PCE 물가와 S&P500의 7,000선 회복 여부를 보시면 됩니다."
   },
   {
    "key": "rsi",
@@ -144,73 +133,73 @@
     "text": "QQQ가 하루 5.7% 빠지면서 RSI가 36.5에서 31.4로 내려가 과매도 기준(30)에 가까워진 것으로 보입니다.",
     "sources": [
      {
-      "title": "나스닥 5.3% 폭락…AMD·마이크론 13% 급락 - 디지털데일리",
-      "url": "https://www.ddaily.co.kr/page/view/2026112107251226435"
+      "title": "나스닥 5.3% 폭락… ‘AI 거품’ 공포에 다우·S&P500도 조정 진입",
+      "url": "https://www.segye.com/newsView/20261121504595"
      }
     ],
     "stars": 4
    },
    "background": [
     {
-     "text": "엔비디아·AMD·마이크론 등 대형 반도체주가 10% 넘게 동반 급락해 나스닥100 비중이 큰 종목들이 지수를 끌어내렸습니다.",
+     "text": "S&P500이 7거래일 연속 하락하는 등 약세가 이어져 RSI가 이미 낮은 상태에서 한 번 더 밀렸습니다.",
      "sources": [
       {
-       "title": "나스닥 5.3% 폭락…AMD·마이크론 13% 급락 - 디지털데일리",
-       "url": "https://www.ddaily.co.kr/page/view/2026112107251226435"
+       "title": "나스닥 5.3% 폭락… ‘AI 거품’ 공포에 다우·S&P500도 조정 진입",
+       "url": "https://www.segye.com/newsView/20261121504595"
       }
      ],
-     "stars": 4
+     "stars": 3
     },
     {
-     "text": "AMD가 중국 관련 기업과 얽혀 있다는 공매도 세력 연계 매체 보도도 불안을 키운 것으로 전해집니다.",
+     "text": "엔비디아와 반도체주 급락이 QQQ 하락을 이끌었습니다.",
      "sources": [
       {
-       "title": "Stocks slide as AI selloff deepens, Asia has worst week since 2020",
-       "url": "https://www.marketscreener.com/news/stocks-slide-as-ai-selloff-deepens-asia-has-worst-week-since-2020-ce785ed3db89f623"
+       "title": "Nasdaq 100 futures slide as tech sell-off shows no signs of letting up",
+       "url": "https://finance.yahoo.com/markets/stocks/articles/wall-street-futures-fall-anthropic-014153113.html"
       }
      ],
-     "stars": 2
+     "stars": 3
     }
    ],
-   "note": "RSI가 낮다는 것은 최근 하락이 빨랐다는 뜻일 뿐 반등을 보장하지는 않습니다. 30 아래로 내려가는지 지켜볼 만합니다."
+   "note": "RSI는 가격 하락의 결과를 보여주는 값이라 원인은 위와 같습니다. 과매도 구간 진입이 곧 반등을 뜻하지는 않으며, 다음 주 PCE 발표 뒤 흐름을 확인하시면 됩니다."
   },
   {
    "key": "ma",
    "title": "QQQ $608.45 (전날 대비 -5.7%, 200일선 대비 아래 10.9%)",
    "tone": "fear",
    "cause": {
-    "text": "QQQ가 하루 5.7% 급락해 $608.45가 되면서 200일선보다 10.9% 아래로 내려온 것으로 보입니다. 원인은 앞서 본 AI·반도체 투매와 같습니다.",
+    "text": "QQQ가 하루 5.7% 내려 $608.45가 되면서 200일선보다 10.9% 아래로 벌어진 것으로 보입니다. 엔비디아 14% 폭락과 반도체주 급락이 직접적인 원인으로 보입니다.",
     "sources": [
      {
-      "title": "Stocks slide as AI selloff deepens, Asia has worst week since 2020",
-      "url": "https://www.marketscreener.com/news/stocks-slide-as-ai-selloff-deepens-asia-has-worst-week-since-2020-ce785ed3db89f623"
+      "title": "나스닥 5.3% 폭락… ‘AI 거품’ 공포에 다우·S&P500도 조정 진입",
+      "url": "https://www.segye.com/newsView/20261121504595"
      }
     ],
-    "stars": 4
+    "stars": 5
    },
    "background": [
     {
-     "text": "나스닥은 10월 초 사상 최고치보다 약 15% 낮고, 올해 상승분을 모두 반납했습니다.",
+     "text": "나스닥 종합지수가 올해 상승분을 모두 반납해 연초 대비 마이너스가 됐습니다.",
      "sources": [
       {
-       "title": "Stocks slide as AI selloff deepens, Asia has worst week since 2020",
-       "url": "https://www.marketscreener.com/news/stocks-slide-as-ai-selloff-deepens-asia-has-worst-week-since-2020-ce785ed3db89f623"
+       "title": "Nasdaq 100 futures slide as tech sell-off shows no signs of letting up",
+       "url": "https://finance.yahoo.com/markets/stocks/articles/wall-street-futures-fall-anthropic-014153113.html"
       }
      ],
      "stars": 4
     },
     {
-     "text": "달러는 약 20개월 만의 최고 부근이고 미 10년물 금리는 14bp 내린 4.909%로, 안전자산 선호가 나타났습니다.",
+     "text": "엔비디아는 10월 초 사상 최고가보다 약 48% 낮고, 같은 날 상장 2일차인 앤트로픽도 8.5% 내려 AI 투자심리 회복에 도움이 되지 못했습니다.",
      "sources": [
       {
-       "title": "[속보] 엔비디아 14% 폭락… 뉴욕증시 기술주 매도에 나스닥 5.3% 떨어져",
-       "url": "https://www.dt.co.kr/article/12096377"
+       "title": "나스닥 5.3% 폭락… ‘AI 거품’ 공포에 다우·S&P500도 조정 진입",
+       "url": "https://www.segye.com/newsView/20261121504595"
       }
      ],
-     "stars": 2
+     "stars": 3
     }
    ],
-   "note": "200일선 아래 10%대는 큰 이탈이라 추세가 바뀌는지 확인이 필요합니다. 다음 달 연준 회의와 엔비디아 SEC 조사 소식, 추수감사절 연휴 전후 변동성을 지켜볼 만합니다."
+   "note": "200일선과의 격차는 추세가 크게 꺾였다는 신호이며, 회복 여부는 다음 주 PCE 발표와 12월 연준 회의 이후 확인이 필요합니다. 연준 쿡 이사의 추가 인상 발언은 날짜와 내용을 기사로 확인하지 못해 원인으로 쓰지 않았습니다."
   }
  ]
 }
