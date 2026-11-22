@@ -1,184 +1,197 @@
 {
- "at": 1795357850016,
- "headline": "금요일 AI 투매와 금리 인상 우려가 겹치며 나스닥이 5.28% 급락했고, 공포 지표가 한꺼번에 극단으로 치솟았습니다.",
+ "at": 1795388793314,
+ "headline": "AI 투자 수익성 불안, 엔비디아 악재, 연준 금리 인상 우려가 겹쳐 지난 금요일 나스닥이 5% 넘게 급락했고 VIX가 35.9까지 치솟았으며, 주말에도 불안한 소식이 이어졌습니다.",
  "items": [
   {
    "key": "fearGreed",
    "title": "공포탐욕 10 극단적 공포 (전날 19, -9)",
    "tone": "fear",
    "cause": {
-    "text": "금요일 나스닥 5.28%·S&P500 3.70% 급락으로 시장 심리가 극단적 공포(10)까지 내려간 것으로 보입니다. 장 마감 뒤 새로 확인된 속보는 찾지 못했고, 지금은 주말이라 선물 거래 재개(한국시간 월요일 아침)를 기다리는 상태입니다.",
+    "text": "금요일 나스닥 5.28%, S&P500 3.70% 급락과 엔비디아·앤트로픽 등 AI주 투매가 겹쳐 공포탐욕 지수가 10까지 내려간 것으로 보입니다. 장 마감 뒤에도 재무장관의 연준 비판, 한국의 증시 안정 조치 등 불안한 소식이 이어졌습니다.",
     "sources": [
      {
-      "title": "AI 공포에 나스닥 올해 상승분 반납…뉴욕증시 최악의 한 주 - 파이낸셜뉴스",
-      "url": "https://www.fnnews.com/news/202611210919193557"
+      "title": "Tech sell-off hits Nvidia, Anthropic and Nasdaq",
+      "url": "https://www.foxnews.com/live-news/ai-news-markets-correction-11-22-26"
+     },
+     {
+      "title": "앤트로픽도 엔비디아도 급락… 글로벌 증시, AI 악재만 더 반응했다",
+      "url": "https://www.seoul.co.kr/news/economy/securities/2026/11/23/20261123029004"
      }
     ],
     "stars": 5
    },
    "background": [
     {
-     "text": "AI 인프라에 쓰는 돈이 수익으로 돌아올지 의심이 커졌고, 엔비디아가 약 14% 떨어지며 나스닥의 올해 상승분이 모두 사라졌습니다.",
+     "text": "S&P500이 7거래일 연속 하락해 고점 대비 10% 이상 내려 조정 구간에 들어섰고, 나스닥은 올해 상승분을 모두 반납했습니다.",
      "sources": [
-      {
-       "title": "AI 공포에 나스닥 올해 상승분 반납…뉴욕증시 최악의 한 주 - 파이낸셜뉴스",
-       "url": "https://www.fnnews.com/news/202611210919193557"
-      },
       {
        "title": "Stock market slide wipes out Nasdaq gains for the year on AI rout; correction on",
        "url": "https://www.foxbusiness.com/markets/wall-street-suffers-historic-losses-dow-sp-500-plunge-correction-territory"
       }
      ],
-     "stars": 5
+     "stars": 4
     },
     {
-     "text": "S&P500과 다우가 사상 최고가보다 10% 넘게 내려 조정 구간에 들어섰고, 주간 낙폭은 2025년 4월 이후 가장 컸습니다.",
+     "text": "AI 설비투자가 실제 수익으로 돌아올지 의문이 커지면서 투자자들이 성장 기대보다 비용 회수 가능성에 더 주목하고 있습니다.",
      "sources": [
       {
-       "title": "AI 공포에 나스닥 올해 상승분 반납…뉴욕증시 최악의 한 주 - 파이낸셜뉴스",
-       "url": "https://www.fnnews.com/news/202611210919193557"
+       "title": "앤트로픽도 엔비디아도 급락… 글로벌 증시, AI 악재만 더 반응했다",
+       "url": "https://www.seoul.co.kr/news/economy/securities/2026/11/23/20261123029004"
       }
      ],
      "stars": 4
     }
    ],
-   "note": "급락 하루로만 생긴 수치가 아니라 한 주 내내 쌓인 매도의 결과입니다. 월요일 선물 개장 반응과 수요일(11/25) PCE 물가 발표를 확인해 보세요."
+   "note": "장 마감 뒤 나스닥100 선물 수치는 찾지 못했습니다. 다음 주는 추수감사절 주간이라 거래가 줄 수 있고, 뉴스 제목에 따르면 25일 PCE와 델 실적, 12월 8~9일 연준 회의가 확인할 일정입니다."
   },
   {
    "key": "putCall",
    "title": "풋콜 0.94 (전날 0.90, +0.04)",
    "tone": "fear",
    "cause": {
-    "text": "하락 방어용 풋옵션 수요가 늘어 풋콜이 0.94로 올랐다고 보이지만, 이 수치를 직접 다룬 기사는 찾지 못했습니다. 금요일 급락과 VIX 급등이 같은 원인으로 보입니다.",
-    "sources": [
-     {
-      "title": "Stock market slide wipes out Nasdaq gains for the year on AI rout; correction on",
-      "url": "https://www.foxbusiness.com/markets/wall-street-suffers-historic-losses-dow-sp-500-plunge-correction-territory"
-     }
-    ],
-    "stars": 3
+    "text": "급락 속에서 하락에 대비하는 풋옵션 수요가 늘어 풋콜이 0.90에서 0.94로 소폭 오른 것으로 보입니다. 풋콜 자체를 다룬 기사는 찾지 못해 추정입니다.",
+    "sources": [],
+    "stars": 2
    },
    "background": [
     {
-     "text": "엔비디아 급락과 반도체지수 약 10% 하락 같은 개별 악재가 겹쳐 보호 수요가 커진 것으로 추정됩니다.",
+     "text": "반도체·AI 관련주가 크게 흔들려 필라델피아 반도체지수가 하루 10% 넘게 빠졌다는 보도가 있었습니다.",
      "sources": [
       {
-       "title": "M이코노미뉴스 뉴욕증시 'AI 투자 공포'에 폭락...나스닥 5.28%↓·엔비디아 14% 급락",
-       "url": "https://www.m-economynews.com/news/article.html?no=73399"
+       "title": "美 뉴욕증시, AI ‘버블’ 공포에 곤두박질…나스닥 5.28% 폭락",
+       "url": "https://www.dailian.co.kr/news/view/1718049/%E7%BE%8E-%EB%89%B4%EC%9A%95%EC%A6%9D%EC%8B%9C-AI-%E2%80%98%EB%B2%84%EB%B8%94%E2%80%99-%EA%B3%B5%ED%8F%AC-%EA%B3%A4%EB%91%90-2026"
       }
      ],
      "stars": 3
     }
    ],
-   "note": "0.94는 아직 극단적 수준은 아니어서, 공포가 더 커질지는 다음 거래일 흐름을 봐야 합니다. 월요일 개장 후 변화를 확인하세요."
+   "note": "변화 폭이 작아 풋콜만으로는 공포 정도를 판단하기 어렵습니다. 다음 주 PCE와 연준 회의 전후로 값이 어떻게 달라지는지 보시면 됩니다."
   },
   {
    "key": "vix",
    "title": "VIX 35.9 (전날 28.4, +7.4)",
    "tone": "fear",
    "cause": {
-    "text": "금요일 주식이 급락하자 VIX가 35.9로 뛰어 지난해 4월 이후 가장 높은 종가를 기록한 것으로 보입니다. 보도마다 상승폭이 조금씩 달라 정확한 폭은 확인이 더 필요합니다.",
+    "text": "금요일 VIX가 35.89로 마감해 2025년 4월 이후 최고가 됐고, 나스닥 급락과 12월 연준 금리 인상 전망이 불안을 키운 것으로 보입니다. 3개월 VIX보다 높은 역전이 이어지는 것도 단기 공포가 진행 중이라는 뜻입니다.",
     "sources": [
      {
-      "title": "US stocks plunge as AI fears deepen, markets enter correction",
-      "url": "https://english.aaj.tv/news/330481479/us-stocks-plunge-as-ai-fears-deepen-markets-enter-correction"
+      "title": "Analysis-Correction or deeper reckoning? Investors seek signs US stock selling will abate",
+      "url": "https://www.investing.com/news/stock-market-news/analysiscorrection-or-deeper-reckoning-investors-seek-signs-us-stock-selling-will-abate-5043939"
      },
      {
-      "title": "Stock market ‘fear gauge’ spikes and traders flinch",
-      "url": "https://rollingout.com/2026/11/20/stock-market-spikes-and-traders-flinch/"
+      "title": "Tech sell-off hits Nvidia, Anthropic and Nasdaq",
+      "url": "https://www.foxnews.com/live-news/ai-news-markets-correction-11-22-26"
      }
     ],
     "stars": 5
    },
    "background": [
     {
-     "text": "10월 물가가 예상보다 높게 나왔고 연준 이사 리사 쿡이 \"정책금리가 물가를 잡기에 충분히 높지 않다\"고 말해, 12월 25bp 인상 확률이 88.6%로 반영돼 있습니다.",
+     "text": "엔비디아는 하루 약 14% 하락했는데, 매체에 따라 젠슨 황 전 CEO 퇴출 여파 또는 SEC 회계 조사 보도 때문이라고 설명이 달라 정확한 계기는 확인이 더 필요합니다.",
      "sources": [
       {
-       "title": "US stocks plunge as AI fears deepen, markets enter correction",
-       "url": "https://english.aaj.tv/news/330481479/us-stocks-plunge-as-ai-fears-deepen-markets-enter-correction"
+       "title": "Tech sell-off hits Nvidia, Anthropic and Nasdaq",
+       "url": "https://www.foxnews.com/live-news/ai-news-markets-correction-11-22-26"
+      },
+      {
+       "title": "앤트로픽도 엔비디아도 급락… 글로벌 증시, AI 악재만 더 반응했다",
+       "url": "https://www.seoul.co.kr/news/economy/securities/2026/11/23/20261123029004"
       }
      ],
      "stars": 4
     },
     {
-     "text": "AI 투자 부채 부담 우려가 커졌고 엔비디아·앤트로픽 등 AI 대표주가 함께 떨어졌습니다.",
+     "text": "연준이 12월 8~9일 회의에서 0.25%p 인상할 것으로 널리 예상되며, 투자자들은 인상 자체보다 이후 추가 인상 신호에 더 주목하고 있습니다.",
      "sources": [
       {
-       "title": "Wall Street plunges as AI fears mount: What it means for investors",
-       "url": "https://www.ynetnews.com/business/article/bkt00xtc0me"
+       "title": "Analysis-Correction or deeper reckoning? Investors seek signs US stock selling will abate",
+       "url": "https://www.investing.com/news/stock-market-news/analysiscorrection-or-deeper-reckoning-investors-seek-signs-us-stock-selling-will-abate-5043939"
       }
      ],
      "stars": 4
+    },
+    {
+     "text": "새로 당선된 민주당 의원과 주지사들이 데이터센터 규제와 건설 중단을 공약해 AI 투자 불확실성이 커졌습니다.",
+     "sources": [
+      {
+       "title": "Tech sell-off hits Nvidia, Anthropic and Nasdaq",
+       "url": "https://www.foxnews.com/live-news/ai-news-markets-correction-11-22-26"
+      }
+     ],
+     "stars": 3
     }
    ],
-   "note": "VIX가 3개월물보다 높은 역전이 4거래일째라 공포가 진행 중인 국면입니다. 월요일 선물 반응과 수요일 PCE 발표 뒤 VIX가 내려오는지 보세요."
+   "note": "한 전략가는 VIX 40 안팎을 극단적 공포 수준으로 본다고 합니다. 추수감사절 주간, 12월 8~9일 연준 회의, 12월 17일 마이크론 실적이 확인할 일정입니다."
   },
   {
    "key": "rsi",
    "title": "QQQ RSI 31.4 (전날 36.5, -5.1)",
    "tone": "neutral",
    "cause": {
-    "text": "하루 만에 QQQ가 5.7% 빠지면서 RSI가 31.4로 내려가 과매도 기준(30)에 가까워진 것으로 보입니다. 원인은 앞 항목들과 같은 AI 투매입니다.",
+    "text": "QQQ가 하루에 5% 넘게 빠지며 RSI가 36.5에서 31.4로 내려가 과매도 기준인 30에 가까워진 것으로 보입니다. 원인은 AI·반도체주 급락과 같습니다.",
     "sources": [
      {
-      "title": "AI 공포에 나스닥 올해 상승분 반납…뉴욕증시 최악의 한 주 - 파이낸셜뉴스",
-      "url": "https://www.fnnews.com/news/202611210919193557"
+      "title": "Stock market slide wipes out Nasdaq gains for the year on AI rout; correction on",
+      "url": "https://www.foxbusiness.com/markets/wall-street-suffers-historic-losses-dow-sp-500-plunge-correction-territory"
      }
     ],
     "stars": 4
    },
    "background": [
     {
-     "text": "모건스탠리는 기술적 반등 가능성을, 골드만삭스는 하락이 매도를 부르는 악순환 위험을 각각 언급했습니다.",
+     "text": "앤트로픽은 대형 IPO 이틀째 약 9% 하락했고, 지분 배정과 가치 평가 논란이 AI 고평가 우려를 다시 키웠습니다.",
      "sources": [
       {
-       "title": "U.S. stocks face panic selling; multiple institutions view it as merely a bull market correction",
-       "url": "https://news.futunn.com/en/post/1005275553/us-stocks-face-panic-selling-multiple-institutions-view-it-as"
+       "title": "앤트로픽도 엔비디아도 급락… 글로벌 증시, AI 악재만 더 반응했다",
+       "url": "https://www.seoul.co.kr/news/economy/securities/2026/11/23/20261123029004"
       }
      ],
      "stars": 3
     }
    ],
-   "note": "RSI가 낮다고 반드시 반등한다는 뜻은 아니고, 과매도 상태가 이어질 수도 있습니다. 월요일 이후 종가 흐름을 확인하세요."
+   "note": "RSI가 낮다는 것은 하락이 빨랐다는 뜻이지 반등을 보장하지는 않습니다. 일부 시장 폭 지표는 바닥 신호에 가깝지만 아직 확정은 아니라는 분석이 있습니다."
   },
   {
    "key": "ma",
    "title": "QQQ $608.45 (전날 대비 -5.7%, 200일선 대비 아래 10.9%)",
    "tone": "fear",
    "cause": {
-    "text": "AI 수익성 우려로 반도체와 AI 대형주가 크게 떨어져 QQQ가 $608.45로 하루 5.7% 빠졌고 200일선 아래로 10.9% 내려간 것으로 보입니다.",
+    "text": "QQQ가 $608.45로 하루 5.7% 내려 200일선보다 10.9% 아래로 벌어진 것으로 보입니다. 금요일 AI주 투매와 나스닥 5.28% 급락이 직접 원인입니다.",
     "sources": [
      {
-      "title": "M이코노미뉴스 뉴욕증시 'AI 투자 공포'에 폭락...나스닥 5.28%↓·엔비디아 14% 급락",
-      "url": "https://www.m-economynews.com/news/article.html?no=73399"
+      "title": "Tech sell-off hits Nvidia, Anthropic and Nasdaq",
+      "url": "https://www.foxnews.com/live-news/ai-news-markets-correction-11-22-26"
      }
     ],
     "stars": 5
    },
    "background": [
     {
-     "text": "필라델피아 반도체지수가 10.73% 떨어졌고, 엔비디아 실적 호조와 앤트로픽 상장도 매도를 막지 못했습니다.",
+     "text": "S&P500은 10월 6일 고점 대비 약 11.6% 내려 6주간 이어진 기술주 중심 하락 끝에 조정 구간이 됐습니다.",
      "sources": [
       {
-       "title": "M이코노미뉴스 뉴욕증시 'AI 투자 공포'에 폭락...나스닥 5.28%↓·엔비디아 14% 급락",
-       "url": "https://www.m-economynews.com/news/article.html?no=73399"
+       "title": "Analysis-Correction or deeper reckoning? Investors seek signs US stock selling will abate",
+       "url": "https://www.investing.com/news/stock-market-news/analysiscorrection-or-deeper-reckoning-investors-seek-signs-us-stock-selling-will-abate-5043939"
       }
      ],
-     "stars": 4
+     "stars": 3
     },
     {
-     "text": "금리 인상 우려가 커져 성장주 부담이 더해졌다는 분석이 있습니다.",
+     "text": "일요일 베센트 재무장관은 민주당의 AI 견제와 연준의 매파적 발언을 하락 원인으로 꼽으며 과도한 긴축은 정책 실수가 될 수 있다고 말했습니다.",
      "sources": [
       {
-       "title": "나스닥 올해 상승분 반납…미 연준 \"금리 더 올려야\"",
-       "url": "https://www.thescoop.co.kr/news/articleView.html?idxno=312389"
+       "title": "Tech sell-off hits Nvidia, Anthropic and Nasdaq",
+       "url": "https://www.foxnews.com/live-news/ai-news-markets-correction-11-22-26"
+      },
+      {
+       "title": "Bessent advocates lower Fed rate hike, cites energy shock",
+       "url": "https://www.investing.com/news/economy-news/bessent-advocates-lower-fed-rate-hike-cites-energy-shock-5042202"
       }
      ],
      "stars": 3
     }
    ],
-   "note": "200일선보다 10% 넘게 아래라 추세상 약한 구간입니다. 수요일 PCE와 연말 쇼핑 시즌 초입의 경제지표, 월요일 선물 개장을 확인하세요."
+   "note": "여러 악재가 겹친 움직임이라 단발성으로 보기 어렵습니다. 12월 1일 엔비디아 경영진의 의회 비공개 조사, 12월 8~9일 연준 회의가 확인할 일정입니다."
   }
  ]
 }
