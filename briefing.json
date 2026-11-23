@@ -1,197 +1,171 @@
 {
- "at": 1795388793314,
- "headline": "AI 투자 수익성 불안, 엔비디아 악재, 연준 금리 인상 우려가 겹쳐 지난 금요일 나스닥이 5% 넘게 급락했고 VIX가 35.9까지 치솟았으며, 주말에도 불안한 소식이 이어졌습니다.",
+ "at": 1795444265065,
+ "headline": "엔비디아 젠슨 황 CEO 복귀 소식에 나스닥100 선물이 급반등하면서, 지난주 폭락으로 치솟았던 공포 지표들이 한 걸음 물러섰습니다.",
  "items": [
   {
    "key": "fearGreed",
-   "title": "공포탐욕 10 극단적 공포 (전날 19, -9)",
+   "title": "공포탐욕 17 극단적 공포 (전날 10, +7)",
    "tone": "fear",
    "cause": {
-    "text": "금요일 나스닥 5.28%, S&P500 3.70% 급락과 엔비디아·앤트로픽 등 AI주 투매가 겹쳐 공포탐욕 지수가 10까지 내려간 것으로 보입니다. 장 마감 뒤에도 재무장관의 연준 비판, 한국의 증시 안정 조치 등 불안한 소식이 이어졌습니다.",
+    "text": "엔비디아 이사회가 젠슨 황을 CEO로 즉시 복귀시켰다는 소식에 엔비디아가 프리마켓에서 크게 오르고 선물이 급등하면서, 극단적 공포(17) 안에서도 전날(10)보다 심리가 조금 풀린 것으로 보입니다.",
     "sources": [
      {
-      "title": "Tech sell-off hits Nvidia, Anthropic and Nasdaq",
-      "url": "https://www.foxnews.com/live-news/ai-news-markets-correction-11-22-26"
-     },
-     {
-      "title": "앤트로픽도 엔비디아도 급락… 글로벌 증시, AI 악재만 더 반응했다",
-      "url": "https://www.seoul.co.kr/news/economy/securities/2026/11/23/20261123029004"
+      "title": "Dow futures jump 1,100 points, Nasdaq futures surge 6% as Nvidia spikes on Huang's return: Live updates",
+      "url": "https://www.cnbc.com/2026/11/22/stock-market-today-live-updates.html"
      }
     ],
     "stars": 5
    },
    "background": [
     {
-     "text": "S&P500이 7거래일 연속 하락해 고점 대비 10% 이상 내려 조정 구간에 들어섰고, 나스닥은 올해 상승분을 모두 반납했습니다.",
+     "text": "지난주 나스닥과 다우는 6년여 만에 가장 큰 주간 하락을 기록했고, 세 지수 모두 금요일에 조정 국면으로 마감했습니다.",
      "sources": [
       {
-       "title": "Stock market slide wipes out Nasdaq gains for the year on AI rout; correction on",
-       "url": "https://www.foxbusiness.com/markets/wall-street-suffers-historic-losses-dow-sp-500-plunge-correction-territory"
+       "title": "Dow futures jump 1,100 points, Nasdaq futures surge 6% as Nvidia spikes on Huang's return: Live updates",
+       "url": "https://www.cnbc.com/2026/11/22/stock-market-today-live-updates.html"
       }
      ],
      "stars": 4
     },
     {
-     "text": "AI 설비투자가 실제 수익으로 돌아올지 의문이 커지면서 투자자들이 성장 기대보다 비용 회수 가능성에 더 주목하고 있습니다.",
+     "text": "엔비디아의 중국 칩 판매 관련 조사가 이어지고 있어(FBI 조사, 집단소송 제기 움직임, 12월 초 의회 출석 예정) 불안 요인은 남아 있습니다.",
      "sources": [
       {
-       "title": "앤트로픽도 엔비디아도 급락… 글로벌 증시, AI 악재만 더 반응했다",
-       "url": "https://www.seoul.co.kr/news/economy/securities/2026/11/23/20261123029004"
+       "title": "Futures bounce after AI selloff; Bessent on Nvidia probe - what's moving markets",
+       "url": "https://in.investing.com/news/economy-news/futures-bounce-after-ai-selloff-bessent-on-nvidia-probe--whats-moving-markets-5720493"
       }
      ],
-     "stars": 4
+     "stars": 3
     }
    ],
-   "note": "장 마감 뒤 나스닥100 선물 수치는 찾지 못했습니다. 다음 주는 추수감사절 주간이라 거래가 줄 수 있고, 뉴스 제목에 따르면 25일 PCE와 델 실적, 12월 8~9일 연준 회의가 확인할 일정입니다."
+   "note": "공포가 완전히 풀렸다기보다 급반등에 따른 되돌림 성격이 강합니다. 12월 초 엔비디아 의회 출석과 12월 연준 회의를 확인해 보시면 좋겠습니다."
   },
   {
    "key": "putCall",
-   "title": "풋콜 0.94 (전날 0.90, +0.04)",
+   "title": "풋콜 0.85 (전날 0.94, -0.09)",
    "tone": "fear",
    "cause": {
-    "text": "급락 속에서 하락에 대비하는 풋옵션 수요가 늘어 풋콜이 0.90에서 0.94로 소폭 오른 것으로 보입니다. 풋콜 자체를 다룬 기사는 찾지 못해 추정입니다.",
-    "sources": [],
-    "stars": 2
-   },
-   "background": [
-    {
-     "text": "반도체·AI 관련주가 크게 흔들려 필라델피아 반도체지수가 하루 10% 넘게 빠졌다는 보도가 있었습니다.",
-     "sources": [
-      {
-       "title": "美 뉴욕증시, AI ‘버블’ 공포에 곤두박질…나스닥 5.28% 폭락",
-       "url": "https://www.dailian.co.kr/news/view/1718049/%E7%BE%8E-%EB%89%B4%EC%9A%95%EC%A6%9D%EC%8B%9C-AI-%E2%80%98%EB%B2%84%EB%B8%94%E2%80%99-%EA%B3%B5%ED%8F%AC-%EA%B3%A4%EB%91%90-2026"
-      }
-     ],
-     "stars": 3
-    }
-   ],
-   "note": "변화 폭이 작아 풋콜만으로는 공포 정도를 판단하기 어렵습니다. 다음 주 PCE와 연준 회의 전후로 값이 어떻게 달라지는지 보시면 됩니다."
-  },
-  {
-   "key": "vix",
-   "title": "VIX 35.9 (전날 28.4, +7.4)",
-   "tone": "fear",
-   "cause": {
-    "text": "금요일 VIX가 35.89로 마감해 2025년 4월 이후 최고가 됐고, 나스닥 급락과 12월 연준 금리 인상 전망이 불안을 키운 것으로 보입니다. 3개월 VIX보다 높은 역전이 이어지는 것도 단기 공포가 진행 중이라는 뜻입니다.",
+    "text": "선물과 AI 대형주가 급반등하자 하락에 대비한 풋옵션 수요가 줄어 풋콜 비율이 0.94에서 0.85로 내려간 것으로 보입니다.",
     "sources": [
      {
-      "title": "Analysis-Correction or deeper reckoning? Investors seek signs US stock selling will abate",
-      "url": "https://www.investing.com/news/stock-market-news/analysiscorrection-or-deeper-reckoning-investors-seek-signs-us-stock-selling-will-abate-5043939"
-     },
-     {
-      "title": "Tech sell-off hits Nvidia, Anthropic and Nasdaq",
-      "url": "https://www.foxnews.com/live-news/ai-news-markets-correction-11-22-26"
-     }
-    ],
-    "stars": 5
-   },
-   "background": [
-    {
-     "text": "엔비디아는 하루 약 14% 하락했는데, 매체에 따라 젠슨 황 전 CEO 퇴출 여파 또는 SEC 회계 조사 보도 때문이라고 설명이 달라 정확한 계기는 확인이 더 필요합니다.",
-     "sources": [
-      {
-       "title": "Tech sell-off hits Nvidia, Anthropic and Nasdaq",
-       "url": "https://www.foxnews.com/live-news/ai-news-markets-correction-11-22-26"
-      },
-      {
-       "title": "앤트로픽도 엔비디아도 급락… 글로벌 증시, AI 악재만 더 반응했다",
-       "url": "https://www.seoul.co.kr/news/economy/securities/2026/11/23/20261123029004"
-      }
-     ],
-     "stars": 4
-    },
-    {
-     "text": "연준이 12월 8~9일 회의에서 0.25%p 인상할 것으로 널리 예상되며, 투자자들은 인상 자체보다 이후 추가 인상 신호에 더 주목하고 있습니다.",
-     "sources": [
-      {
-       "title": "Analysis-Correction or deeper reckoning? Investors seek signs US stock selling will abate",
-       "url": "https://www.investing.com/news/stock-market-news/analysiscorrection-or-deeper-reckoning-investors-seek-signs-us-stock-selling-will-abate-5043939"
-      }
-     ],
-     "stars": 4
-    },
-    {
-     "text": "새로 당선된 민주당 의원과 주지사들이 데이터센터 규제와 건설 중단을 공약해 AI 투자 불확실성이 커졌습니다.",
-     "sources": [
-      {
-       "title": "Tech sell-off hits Nvidia, Anthropic and Nasdaq",
-       "url": "https://www.foxnews.com/live-news/ai-news-markets-correction-11-22-26"
-      }
-     ],
-     "stars": 3
-    }
-   ],
-   "note": "한 전략가는 VIX 40 안팎을 극단적 공포 수준으로 본다고 합니다. 추수감사절 주간, 12월 8~9일 연준 회의, 12월 17일 마이크론 실적이 확인할 일정입니다."
-  },
-  {
-   "key": "rsi",
-   "title": "QQQ RSI 31.4 (전날 36.5, -5.1)",
-   "tone": "neutral",
-   "cause": {
-    "text": "QQQ가 하루에 5% 넘게 빠지며 RSI가 36.5에서 31.4로 내려가 과매도 기준인 30에 가까워진 것으로 보입니다. 원인은 AI·반도체주 급락과 같습니다.",
-    "sources": [
-     {
-      "title": "Stock market slide wipes out Nasdaq gains for the year on AI rout; correction on",
-      "url": "https://www.foxbusiness.com/markets/wall-street-suffers-historic-losses-dow-sp-500-plunge-correction-territory"
+      "title": "Dow futures jump 1,100 points, Nasdaq futures surge 6% as Nvidia spikes on Huang's return: Live updates",
+      "url": "https://www.cnbc.com/2026/11/22/stock-market-today-live-updates.html"
      }
     ],
     "stars": 4
    },
    "background": [
     {
-     "text": "앤트로픽은 대형 IPO 이틀째 약 9% 하락했고, 지분 배정과 가치 평가 논란이 AI 고평가 우려를 다시 키웠습니다.",
+     "text": "S&P500은 금요일 종가 6,910.39로 10월 6일 고점 대비 11.6% 낮아 기술적 조정 상태입니다.",
      "sources": [
       {
-       "title": "앤트로픽도 엔비디아도 급락… 글로벌 증시, AI 악재만 더 반응했다",
-       "url": "https://www.seoul.co.kr/news/economy/securities/2026/11/23/20261123029004"
+       "title": "Futures bounce after AI selloff; Bessent on Nvidia probe - what's moving markets",
+       "url": "https://in.investing.com/news/economy-news/futures-bounce-after-ai-selloff-bessent-on-nvidia-probe--whats-moving-markets-5720493"
       }
      ],
      "stars": 3
     }
    ],
-   "note": "RSI가 낮다는 것은 하락이 빨랐다는 뜻이지 반등을 보장하지는 않습니다. 일부 시장 폭 지표는 바닥 신호에 가깝지만 아직 확정은 아니라는 분석이 있습니다."
+   "note": "풋콜 비율은 하루 단위로 쉽게 바뀌는 지표라 일회성 변동일 수 있습니다. 반등이 이어지는지 며칠 지켜보셔야 합니다."
   },
   {
-   "key": "ma",
-   "title": "QQQ $608.45 (전날 대비 -5.7%, 200일선 대비 아래 10.9%)",
-   "tone": "fear",
+   "key": "vix",
+   "title": "VIX 27.4 (전날 35.9, -8.5)",
+   "tone": "neutral",
    "cause": {
-    "text": "QQQ가 $608.45로 하루 5.7% 내려 200일선보다 10.9% 아래로 벌어진 것으로 보입니다. 금요일 AI주 투매와 나스닥 5.28% 급락이 직접 원인입니다.",
+    "text": "선물이 3~6%대 급반등하며 시장이 느끼는 변동성 공포가 빠르게 줄어 VIX가 35.9에서 27.4로 내려온 것으로 보입니다.",
     "sources": [
      {
-      "title": "Tech sell-off hits Nvidia, Anthropic and Nasdaq",
-      "url": "https://www.foxnews.com/live-news/ai-news-markets-correction-11-22-26"
+      "title": "Dow futures jump 1,100 points, Nasdaq futures surge 6% as Nvidia spikes on Huang's return: Live updates",
+      "url": "https://www.cnbc.com/2026/11/22/stock-market-today-live-updates.html"
      }
     ],
     "stars": 5
    },
    "background": [
     {
-     "text": "S&P500은 10월 6일 고점 대비 약 11.6% 내려 6주간 이어진 기술주 중심 하락 끝에 조정 구간이 됐습니다.",
+     "text": "금리 인상 부담도 다소 누그러졌습니다. 한 보도에서는 투자자들이 12월 인상을 더는 확실하게 반영하지 않고, 2년물 금리가 크게 내렸다고 전했습니다(다른 보도의 확률 수치와는 차이가 있습니다).",
      "sources": [
       {
-       "title": "Analysis-Correction or deeper reckoning? Investors seek signs US stock selling will abate",
-       "url": "https://www.investing.com/news/stock-market-news/analysiscorrection-or-deeper-reckoning-investors-seek-signs-us-stock-selling-will-abate-5043939"
+       "title": "Futures bounce after AI selloff; Bessent on Nvidia probe - what's moving markets",
+       "url": "https://in.investing.com/news/economy-news/futures-bounce-after-ai-selloff-bessent-on-nvidia-probe--whats-moving-markets-5720493"
       }
      ],
      "stars": 3
     },
     {
-     "text": "일요일 베센트 재무장관은 민주당의 AI 견제와 연준의 매파적 발언을 하락 원인으로 꼽으며 과도한 긴축은 정책 실수가 될 수 있다고 말했습니다.",
+     "text": "베센트 재무장관이 과도한 긴축은 경제를 위태롭게 할 수 있다고 경고한 점도 시장에 영향을 준 것으로 보입니다.",
      "sources": [
       {
-       "title": "Tech sell-off hits Nvidia, Anthropic and Nasdaq",
-       "url": "https://www.foxnews.com/live-news/ai-news-markets-correction-11-22-26"
-      },
+       "title": "Futures bounce after AI selloff; Bessent on Nvidia probe - what's moving markets",
+       "url": "https://in.investing.com/news/economy-news/futures-bounce-after-ai-selloff-bessent-on-nvidia-probe--whats-moving-markets-5720493"
+      }
+     ],
+     "stars": 2
+    }
+   ],
+   "note": "VIX는 아직 27대로 평소보다 높아, 한 번의 반등으로 안정됐다고 보기는 어렵습니다. 12월 연준 회의와 물가 지표를 확인하세요."
+  },
+  {
+   "key": "rsi",
+   "title": "QQQ RSI 43.5 (전날 31.4, +12.1)",
+   "tone": "neutral",
+   "cause": {
+    "text": "지난주 급락으로 과매도권(31.4)까지 갔던 QQQ가 반등으로 크게 올라 RSI가 43.5로 회복된 것으로 보입니다.",
+    "sources": [
+     {
+      "title": "Dow futures jump 1,100 points, Nasdaq futures surge 6% as Nvidia spikes on Huang's return: Live updates",
+      "url": "https://www.cnbc.com/2026/11/22/stock-market-today-live-updates.html"
+     }
+    ],
+    "stars": 4
+   },
+   "background": [
+    {
+     "text": "RSI는 최근 가격 변화로 계산되므로, 큰 낙폭 뒤 큰 반등이 나오면 수치가 빠르게 튀어 오릅니다.",
+     "sources": [],
+     "stars": 2
+    }
+   ],
+   "note": "원인은 위 지표들과 같습니다. 수치 변화가 커서 반등이 꺾이면 다시 내려올 수 있습니다."
+  },
+  {
+   "key": "ma",
+   "title": "QQQ $654.26 (전날 대비 +7.5%, 200일선 대비 아래 4.2%)",
+   "tone": "greed",
+   "cause": {
+    "text": "엔비디아 복귀 소식과 AI주 동반 강세로 QQQ가 하루 만에 7.5% 올라 $654.26이 됐지만, 200일선 아래 4.2%에 머물러 있는 것으로 보입니다.",
+    "sources": [
+     {
+      "title": "Dow futures jump 1,100 points, Nasdaq futures surge 6% as Nvidia spikes on Huang's return: Live updates",
+      "url": "https://www.cnbc.com/2026/11/22/stock-market-today-live-updates.html"
+     }
+    ],
+    "stars": 4
+   },
+   "background": [
+    {
+     "text": "마이크론, 코어위브, AMD 등 다른 AI 관련주도 함께 올라 나스닥100 전반을 끌어올렸습니다.",
+     "sources": [
       {
-       "title": "Bessent advocates lower Fed rate hike, cites energy shock",
-       "url": "https://www.investing.com/news/economy-news/bessent-advocates-lower-fed-rate-hike-cites-energy-shock-5042202"
+       "title": "Dow futures jump 1,100 points, Nasdaq futures surge 6% as Nvidia spikes on Huang's return: Live updates",
+       "url": "https://www.cnbc.com/2026/11/22/stock-market-today-live-updates.html"
       }
      ],
      "stars": 3
+    },
+    {
+     "text": "지난주 낙폭으로 나스닥은 올해 수익률이 마이너스로 돌아선 상태입니다.",
+     "sources": [
+      {
+       "title": "Dow futures jump 1,100 points, Nasdaq futures surge 6% as Nvidia spikes on Huang's return: Live updates",
+       "url": "https://www.cnbc.com/2026/11/22/stock-market-today-live-updates.html"
+      }
+     ],
+     "stars": 2
     }
    ],
-   "note": "여러 악재가 겹친 움직임이라 단발성으로 보기 어렵습니다. 12월 1일 엔비디아 경영진의 의회 비공개 조사, 12월 8~9일 연준 회의가 확인할 일정입니다."
+   "note": "선물과 프리마켓 움직임이 정규장에서 유지되는지가 관건입니다. 200일선 회복 여부와 월요일 장 마감 뒤 HPE 실적을 확인해 보세요."
   }
  ]
 }
