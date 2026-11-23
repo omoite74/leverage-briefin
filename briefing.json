@@ -1,171 +1,202 @@
 {
- "at": 1795444265065,
- "headline": "엔비디아 젠슨 황 CEO 복귀 소식에 나스닥100 선물이 급반등하면서, 지난주 폭락으로 치솟았던 공포 지표들이 한 걸음 물러섰습니다.",
+ "at": 1795471689342,
+ "headline": "엔비디아가 젠슨 황 CEO를 복귀시키자 나스닥이 6.5% 급등하고 공포 지표가 일부 풀렸지만, 금리 인상 우려와 AI 투자 불안이 남아 공포 국면은 아직 끝나지 않았습니다.",
  "items": [
   {
    "key": "fearGreed",
    "title": "공포탐욕 17 극단적 공포 (전날 10, +7)",
    "tone": "fear",
    "cause": {
-    "text": "엔비디아 이사회가 젠슨 황을 CEO로 즉시 복귀시켰다는 소식에 엔비디아가 프리마켓에서 크게 오르고 선물이 급등하면서, 극단적 공포(17) 안에서도 전날(10)보다 심리가 조금 풀린 것으로 보입니다.",
+    "text": "지난주 AI 관련주 급락으로 바닥까지 내려갔던 공포탐욕 지수가 10에서 17로 조금 올랐는데, 월요일 엔비디아 황 CEO 복귀와 증시 급반등 덕분으로 보입니다. 다만 여전히 극단적 공포 구간입니다.",
     "sources": [
      {
-      "title": "Dow futures jump 1,100 points, Nasdaq futures surge 6% as Nvidia spikes on Huang's return: Live updates",
-      "url": "https://www.cnbc.com/2026/11/22/stock-market-today-live-updates.html"
+      "title": "Nasdaq 100 futures soar on Nvidia Huang reversal, triggering circuit breaker halt",
+      "url": "https://www.investing.com/news/stock-market-news/wall-street-futures-jump-after-major-indexes-enter-correction-territory-5044226"
+     },
+     {
+      "title": "Nvidia live updates: Nvidia stock climbs more than 31% as board reinstates Jensen Huang as CEO",
+      "url": "https://finance.yahoo.com/markets/stocks/live/nvidia-live-updates-jensen-huang-reinstated-as-ceo-trump-says-he-convinced-board-165423793.html"
      }
     ],
     "stars": 5
    },
    "background": [
     {
-     "text": "지난주 나스닥과 다우는 6년여 만에 가장 큰 주간 하락을 기록했고, 세 지수 모두 금요일에 조정 국면으로 마감했습니다.",
+     "text": "지난주 S&P500이 4월 이후 최악의 주간 성적으로 조정 구간에 들어갔고 나스닥은 한 주 동안 10% 떨어졌습니다.",
      "sources": [
       {
-       "title": "Dow futures jump 1,100 points, Nasdaq futures surge 6% as Nvidia spikes on Huang's return: Live updates",
-       "url": "https://www.cnbc.com/2026/11/22/stock-market-today-live-updates.html"
+       "title": "Nasdaq 100 futures soar on Nvidia Huang reversal, triggering circuit breaker halt",
+       "url": "https://www.investing.com/news/stock-market-news/wall-street-futures-jump-after-major-indexes-enter-correction-territory-5044226"
       }
      ],
      "stars": 4
     },
     {
-     "text": "엔비디아의 중국 칩 판매 관련 조사가 이어지고 있어(FBI 조사, 집단소송 제기 움직임, 12월 초 의회 출석 예정) 불안 요인은 남아 있습니다.",
+     "text": "AI 인프라의 빚 조달 부담, AI 투자 수익 불확실성, 중간선거 결과에 따른 규제 우려가 지난주 매도의 배경으로 거론됩니다.",
      "sources": [
       {
-       "title": "Futures bounce after AI selloff; Bessent on Nvidia probe - what's moving markets",
-       "url": "https://in.investing.com/news/economy-news/futures-bounce-after-ai-selloff-bessent-on-nvidia-probe--whats-moving-markets-5720493"
+       "title": "Nasdaq 100 futures soar on Nvidia Huang reversal, triggering circuit breaker halt",
+       "url": "https://www.investing.com/news/stock-market-news/wall-street-futures-jump-after-major-indexes-enter-correction-territory-5044226"
+      }
+     ],
+     "stars": 3
+    },
+    {
+     "text": "노무라의 맥엘리곗은 이번 반등에 공매도 청산과 옵션 헤지가 크게 작용했고 '안심해도 된다'는 신호는 아니라고 말했습니다.",
+     "sources": [
+      {
+       "title": "Nvidia live updates: Nvidia stock climbs more than 31% as board reinstates Jensen Huang as CEO",
+       "url": "https://finance.yahoo.com/markets/stocks/live/nvidia-live-updates-jensen-huang-reinstated-as-ceo-trump-says-he-convinced-board-165423793.html"
       }
      ],
      "stars": 3
     }
    ],
-   "note": "공포가 완전히 풀렸다기보다 급반등에 따른 되돌림 성격이 강합니다. 12월 초 엔비디아 의회 출석과 12월 연준 회의를 확인해 보시면 좋겠습니다."
+   "note": "황 CEO 복귀는 일회성 이벤트 성격이 크고, 한 번의 반등만으로 심리가 바뀌었다고 보기는 어렵습니다. 화요일 10월 PCE 물가, 12월 3일 상원 은행위 청문회, 12월 9일 연준 회의를 확인해 보세요."
   },
   {
    "key": "putCall",
-   "title": "풋콜 0.85 (전날 0.94, -0.09)",
+   "title": "풋콜 0.91 (전날 0.94, -0.03)",
    "tone": "fear",
    "cause": {
-    "text": "선물과 AI 대형주가 급반등하자 하락에 대비한 풋옵션 수요가 줄어 풋콜 비율이 0.94에서 0.85로 내려간 것으로 보입니다.",
+    "text": "풋콜 비율이 0.94에서 0.91로 소폭 내린 것은 급반등으로 하락 대비 풋옵션 수요가 조금 줄었기 때문으로 보입니다. 이 비율을 직접 설명한 기사는 찾지 못했습니다.",
     "sources": [
      {
-      "title": "Dow futures jump 1,100 points, Nasdaq futures surge 6% as Nvidia spikes on Huang's return: Live updates",
-      "url": "https://www.cnbc.com/2026/11/22/stock-market-today-live-updates.html"
+      "title": "Nvidia live updates: Nvidia stock climbs more than 31% as board reinstates Jensen Huang as CEO",
+      "url": "https://finance.yahoo.com/markets/stocks/live/nvidia-live-updates-jensen-huang-reinstated-as-ceo-trump-says-he-convinced-board-165423793.html"
      }
     ],
-    "stars": 4
+    "stars": 3
    },
    "background": [
     {
-     "text": "S&P500은 금요일 종가 6,910.39로 10월 6일 고점 대비 11.6% 낮아 기술적 조정 상태입니다.",
+     "text": "월요일 급등에는 옵션 헤지 정리가 한몫했다는 분석이 있어, 옵션 시장이 크게 흔들린 하루였던 것으로 보입니다.",
      "sources": [
       {
-       "title": "Futures bounce after AI selloff; Bessent on Nvidia probe - what's moving markets",
-       "url": "https://in.investing.com/news/economy-news/futures-bounce-after-ai-selloff-bessent-on-nvidia-probe--whats-moving-markets-5720493"
+       "title": "Nvidia live updates: Nvidia stock climbs more than 31% as board reinstates Jensen Huang as CEO",
+       "url": "https://finance.yahoo.com/markets/stocks/live/nvidia-live-updates-jensen-huang-reinstated-as-ceo-trump-says-he-convinced-board-165423793.html"
       }
      ],
      "stars": 3
     }
    ],
-   "note": "풋콜 비율은 하루 단위로 쉽게 바뀌는 지표라 일회성 변동일 수 있습니다. 반등이 이어지는지 며칠 지켜보셔야 합니다."
+   "note": "변화 폭이 작아 아직 방향이 바뀌었다고 보기는 이릅니다. 급등 뒤 옵션 포지션이 어떻게 정리되는지 며칠 지켜볼 필요가 있습니다."
   },
   {
    "key": "vix",
-   "title": "VIX 27.4 (전날 35.9, -8.5)",
+   "title": "VIX 26.6 (전날 35.9, -9.3)",
    "tone": "neutral",
    "cause": {
-    "text": "선물이 3~6%대 급반등하며 시장이 느끼는 변동성 공포가 빠르게 줄어 VIX가 35.9에서 27.4로 내려온 것으로 보입니다.",
+    "text": "VIX가 35.9에서 26.6으로 약 26% 급락한 것은 엔비디아 CEO 복귀로 AI주 불안이 누그러지고 증시가 크게 반등했기 때문으로 보입니다.",
     "sources": [
      {
-      "title": "Dow futures jump 1,100 points, Nasdaq futures surge 6% as Nvidia spikes on Huang's return: Live updates",
-      "url": "https://www.cnbc.com/2026/11/22/stock-market-today-live-updates.html"
+      "title": "Nvidia live updates: Nvidia stock climbs more than 31% as board reinstates Jensen Huang as CEO",
+      "url": "https://finance.yahoo.com/markets/stocks/live/nvidia-live-updates-jensen-huang-reinstated-as-ceo-trump-says-he-convinced-board-165423793.html"
+     },
+     {
+      "title": "Nasdaq 100 futures soar on Nvidia Huang reversal, triggering circuit breaker halt",
+      "url": "https://www.investing.com/news/stock-market-news/wall-street-futures-jump-after-major-indexes-enter-correction-territory-5044226"
      }
     ],
     "stars": 5
    },
    "background": [
     {
-     "text": "금리 인상 부담도 다소 누그러졌습니다. 한 보도에서는 투자자들이 12월 인상을 더는 확실하게 반영하지 않고, 2년물 금리가 크게 내렸다고 전했습니다(다른 보도의 확률 수치와는 차이가 있습니다).",
+     "text": "황 CEO는 11월 12일 스캔들로 물러났고, 중국 반도체 수출 관련 조사까지 겹쳐 엔비디아는 2008년 이후 최악의 한 주를 보냈습니다.",
      "sources": [
       {
-       "title": "Futures bounce after AI selloff; Bessent on Nvidia probe - what's moving markets",
-       "url": "https://in.investing.com/news/economy-news/futures-bounce-after-ai-selloff-bessent-on-nvidia-probe--whats-moving-markets-5720493"
+       "title": "Nasdaq 100 futures soar on Nvidia Huang reversal, triggering circuit breaker halt",
+       "url": "https://www.investing.com/news/stock-market-news/wall-street-futures-jump-after-major-indexes-enter-correction-territory-5044226"
+      }
+     ],
+     "stars": 4
+    },
+    {
+     "text": "노무라는 물가 고착, 금리 상승, AI 투자 기대 둔화를 시장의 계속되는 부담으로 꼽았습니다.",
+     "sources": [
+      {
+       "title": "Nvidia live updates: Nvidia stock climbs more than 31% as board reinstates Jensen Huang as CEO",
+       "url": "https://finance.yahoo.com/markets/stocks/live/nvidia-live-updates-jensen-huang-reinstated-as-ceo-trump-says-he-convinced-board-165423793.html"
       }
      ],
      "stars": 3
-    },
-    {
-     "text": "베센트 재무장관이 과도한 긴축은 경제를 위태롭게 할 수 있다고 경고한 점도 시장에 영향을 준 것으로 보입니다.",
-     "sources": [
-      {
-       "title": "Futures bounce after AI selloff; Bessent on Nvidia probe - what's moving markets",
-       "url": "https://in.investing.com/news/economy-news/futures-bounce-after-ai-selloff-bessent-on-nvidia-probe--whats-moving-markets-5720493"
-      }
-     ],
-     "stars": 2
     }
    ],
-   "note": "VIX는 아직 27대로 평소보다 높아, 한 번의 반등으로 안정됐다고 보기는 어렵습니다. 12월 연준 회의와 물가 지표를 확인하세요."
+   "note": "VIX가 크게 내렸지만 3개월 VIX보다 높은 역전 상태가 5거래일째라 공포가 완전히 꺾였다고 보기는 어렵습니다. 화요일 PCE 발표와 짧게 열리는 추수감사절 주간 장세를 확인하세요."
   },
   {
    "key": "rsi",
-   "title": "QQQ RSI 43.5 (전날 31.4, +12.1)",
+   "title": "QQQ RSI 42.7 (전날 31.4, +11.3)",
    "tone": "neutral",
    "cause": {
-    "text": "지난주 급락으로 과매도권(31.4)까지 갔던 QQQ가 반등으로 크게 올라 RSI가 43.5로 회복된 것으로 보입니다.",
+    "text": "QQQ RSI가 31.4에서 42.7로 오른 것은 하루 만에 나스닥100이 크게 오르며 과매도 구간(30 근처)에서 벗어났기 때문으로 보입니다.",
     "sources": [
      {
-      "title": "Dow futures jump 1,100 points, Nasdaq futures surge 6% as Nvidia spikes on Huang's return: Live updates",
-      "url": "https://www.cnbc.com/2026/11/22/stock-market-today-live-updates.html"
+      "title": "뉴욕증시, 젠슨황 복귀에 일제 급등... 나스닥 6%대↑",
+      "url": "https://www.getnews.co.kr/news/articleView.html?idxno=888228"
      }
     ],
     "stars": 4
    },
    "background": [
     {
-     "text": "RSI는 최근 가격 변화로 계산되므로, 큰 낙폭 뒤 큰 반등이 나오면 수치가 빠르게 튀어 오릅니다.",
-     "sources": [],
-     "stars": 2
-    }
-   ],
-   "note": "원인은 위 지표들과 같습니다. 수치 변화가 커서 반등이 꺾이면 다시 내려올 수 있습니다."
-  },
-  {
-   "key": "ma",
-   "title": "QQQ $654.26 (전날 대비 +7.5%, 200일선 대비 아래 4.2%)",
-   "tone": "greed",
-   "cause": {
-    "text": "엔비디아 복귀 소식과 AI주 동반 강세로 QQQ가 하루 만에 7.5% 올라 $654.26이 됐지만, 200일선 아래 4.2%에 머물러 있는 것으로 보입니다.",
-    "sources": [
-     {
-      "title": "Dow futures jump 1,100 points, Nasdaq futures surge 6% as Nvidia spikes on Huang's return: Live updates",
-      "url": "https://www.cnbc.com/2026/11/22/stock-market-today-live-updates.html"
-     }
-    ],
-    "stars": 4
-   },
-   "background": [
-    {
-     "text": "마이크론, 코어위브, AMD 등 다른 AI 관련주도 함께 올라 나스닥100 전반을 끌어올렸습니다.",
+     "text": "나스닥 종합지수는 6.51% 오른 24,089.56으로 마감했고 반도체 지수는 14% 올랐습니다.",
      "sources": [
       {
-       "title": "Dow futures jump 1,100 points, Nasdaq futures surge 6% as Nvidia spikes on Huang's return: Live updates",
-       "url": "https://www.cnbc.com/2026/11/22/stock-market-today-live-updates.html"
+       "title": "뉴욕증시, 젠슨황 복귀에 일제 급등... 나스닥 6%대↑",
+       "url": "https://www.getnews.co.kr/news/articleView.html?idxno=888228"
       }
      ],
      "stars": 3
-    },
+    }
+   ],
+   "note": "급락 뒤 반등으로 RSI가 올라간 것이라 일회성 성격이 강합니다. 이후 며칠간 상승이 이어지는지 확인해야 합니다."
+  },
+  {
+   "key": "ma",
+   "title": "QQQ $651.03 (전날 대비 +7.0%, 200일선 대비 아래 4.7%)",
+   "tone": "greed",
+   "cause": {
+    "text": "QQQ가 하루 +7.0% 올라 $651.03이 됐지만 200일선 아래 4.7%에 머물러 있습니다. 엔비디아 31.5% 급등과 반도체주 강세가 지수를 끌어올린 것으로 보입니다.",
+    "sources": [
+     {
+      "title": "뉴욕증시, 젠슨황 복귀에 일제 급등... 나스닥 6%대↑",
+      "url": "https://www.getnews.co.kr/news/articleView.html?idxno=888228"
+     },
+     {
+      "title": "Nvidia live updates: Nvidia stock climbs more than 31% as board reinstates Jensen Huang as CEO",
+      "url": "https://finance.yahoo.com/markets/stocks/live/nvidia-live-updates-jensen-huang-reinstated-as-ceo-trump-says-he-convinced-board-165423793.html"
+     }
+    ],
+    "stars": 5
+   },
+   "background": [
     {
-     "text": "지난주 낙폭으로 나스닥은 올해 수익률이 마이너스로 돌아선 상태입니다.",
+     "text": "지난주 나스닥은 10% 떨어져 올해 수익률이 마이너스로 돌아섰고, 그 하락이 200일선 아래로 내려온 배경입니다.",
      "sources": [
       {
-       "title": "Dow futures jump 1,100 points, Nasdaq futures surge 6% as Nvidia spikes on Huang's return: Live updates",
-       "url": "https://www.cnbc.com/2026/11/22/stock-market-today-live-updates.html"
+       "title": "Nasdaq 100 futures soar on Nvidia Huang reversal, triggering circuit breaker halt",
+       "url": "https://www.investing.com/news/stock-market-news/wall-street-futures-jump-after-major-indexes-enter-correction-territory-5044226"
+      }
+     ],
+     "stars": 4
+    },
+    {
+     "text": "엔비디아는 급등 후에도 지난달 6일 고점보다 약 31% 낮고, 10년물 금리는 4.9% 안팎으로 부담 요인으로 남아 있습니다.",
+     "sources": [
+      {
+       "title": "뉴욕증시, 젠슨황 복귀에 일제 급등... 나스닥 6%대↑",
+       "url": "https://www.getnews.co.kr/news/articleView.html?idxno=888228"
+      },
+      {
+       "title": "Nasdaq 100 futures soar on Nvidia Huang reversal, triggering circuit breaker halt",
+       "url": "https://www.investing.com/news/stock-market-news/wall-street-futures-jump-after-major-indexes-enter-correction-territory-5044226"
       }
      ],
      "stars": 2
     }
    ],
-   "note": "선물과 프리마켓 움직임이 정규장에서 유지되는지가 관건입니다. 200일선 회복 여부와 월요일 장 마감 뒤 HPE 실적을 확인해 보세요."
+   "note": "하루 급등으로 200일선과의 거리는 줄었지만 아직 아래입니다. 장 마감 뒤 새로 확인된 큰 속보는 찾지 못했고, 화요일 PCE와 목요일 휴장 뒤 금요일 단축장(오후 1시 마감)을 확인해 보세요."
   }
  ]
 }
