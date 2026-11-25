@@ -1,183 +1,175 @@
 {
- "at": 1795617054739,
- "headline": "추가 관세 발표, 예상보다 높은 PCE 물가, 엔비디아·반도체 급락이 겹치며 나스닥100 선물이 약 3% 밀렸고 VIX가 31대로 뛰었습니다.",
+ "at": 1795644085527,
+ "headline": "PCE 물가·GDP가 예상보다 강해 12월 금리인상 전망과 신규 관세 우려가 겹치며 장 초반 AI·기술주가 급락했다가 낙폭을 크게 줄였지만, 공포 지표는 여전히 높은 상태입니다.",
  "items": [
   {
    "key": "fearGreed",
-   "title": "공포탐욕 11 극단적 공포 (전날 17, -6)",
+   "title": "공포탐욕 15 극단적 공포 (전날 17, -2)",
    "tone": "fear",
    "cause": {
-    "text": "어제 정규장에서 반도체지수가 7.88% 급락하고 나스닥이 1.48% 내린 데다, 오늘 장 시작 전 나스닥100 선물이 약 3% 더 밀리면서 공포 쪽 지표가 더 나빠진 것으로 보입니다.",
+    "text": "10월 PCE 물가(3.8%)와 3분기 GDP(4.3%)가 예상보다 강해 12월 금리인상 전망이 굳어지고, 신규 관세안과 AI주 투매가 겹치면서 공포탐욕 지수가 극단적 공포(15)에 머문 것으로 보입니다.",
     "sources": [
      {
-      "title": "[뉴욕마감]지수별 혼조…엔비디아 랠리 하루 만에 꺾이고 나스닥 1.5%↓ - 뉴스1",
-      "url": "https://www.news1.kr/world/international-economy/6364924"
+      "title": "물가·관세 겹악재에 나스닥 선물 3%↓…국채로 '피난'(종합)",
+      "url": "https://edaily.co.kr/News/Read?mediaCodeNo=257&newsId=04375526645649328"
      },
      {
-      "title": "뉴욕증시 프리뷰, AI주 투매·추가 관세 우려에 나스닥 선물 2%대 급락…PCE 주목",
-      "url": "https://www.newspim.com/news/view/20261125001309"
+      "title": "뉴욕증시, AI 투매 딛고 낙폭 축소하며 혼조 마감…다우 0.3%↑·나스닥 0.6%↓",
+      "url": "https://www.newspim.com/news/view/20261126000033"
      }
     ],
     "stars": 5
    },
    "background": [
     {
-     "text": "AI 인프라 투자가 빚으로 이뤄지는데 수익이 따라올지 의문이 이어지며 엔비디아, 마이크론, AMD 등 반도체주가 장 시작 전 5~6% 내렸습니다.",
+     "text": "CME 페드워치 기준 12월 9일 FOMC에서 0.25%포인트 인상될 확률은 98.1%, 1월 추가 인상 확률은 56.3%로 반영됐습니다.",
      "sources": [
       {
-       "title": "뉴욕증시 프리뷰, AI주 투매·추가 관세 우려에 나스닥 선물 2%대 급락…PCE 주목",
-       "url": "https://www.newspim.com/news/view/20261125001309"
+       "title": "물가·관세 겹악재에 나스닥 선물 3%↓…국채로 '피난'(종합)",
+       "url": "https://edaily.co.kr/News/Read?mediaCodeNo=257&newsId=04375526645649328"
       }
      ],
      "stars": 4
     },
     {
-     "text": "트럼프 행정부가 중국, EU 등에 20% 신규 관세를 예고했고, 시행은 빨라야 1월로 전해졌습니다.",
+     "text": "엔비디아는 전날 30% 넘게 급등한 뒤 차익실현 매물이 나와 장중 9% 넘게 밀렸다가 3.9% 하락으로 마감했습니다.",
      "sources": [
       {
-       "title": "Stock market today: Dow, S&P 500, Nasdaq futures fall on hot inflation, new Trump tariffs",
-       "url": "https://finance.yahoo.com/markets/live/stock-market-today-wednesday-november-25-dow-sp-500-nasdaq-pce-inflation-data-091428237.html"
+       "title": "[뉴욕증시] 패닉 매도 진정 속 기술주 소폭 하락…엔비디아 낙폭, 9.1→3.9%",
+       "url": "https://www.fnnews.com/news/202611260631005468"
       }
      ],
      "stars": 3
+    },
+    {
+     "text": "정규장 마감은 다우 +0.33%, 나스닥 약 -0.6%로 낙폭이 줄었지만 공포 지표가 크게 회복되지는 않았습니다.",
+     "sources": [
+      {
+       "title": "뉴욕증시, AI 투매 딛고 낙폭 축소하며 혼조 마감…다우 0.3%↑·나스닥 0.6%↓",
+       "url": "https://www.newspim.com/news/view/20261126000033"
+      }
+     ],
+     "stars": 2
     }
    ],
-   "note": "어제 급락과 오늘 선물 하락이 이어진 흐름이라 단발성이라고 보기는 어렵습니다. 목요일은 추수감사절로 휴장이고 금요일은 단축 거래라, 다음 확인 지점은 금요일 장과 12월 FOMC입니다."
+   "note": "하루 사이 급락과 반등이 오간 만큼 일회성 요소도 섞여 있지만, 금리인상 기조는 이어질 수 있습니다. 26일은 추수감사절 휴장, 27일은 오후 1시 조기 폐장이고 12월 9일 FOMC가 다음 확인 일정입니다."
   },
   {
    "key": "putCall",
-   "title": "풋콜 0.95 (전날 0.90, +0.05)",
+   "title": "풋콜 0.92 (전날 0.90, +0.02)",
    "tone": "fear",
    "cause": {
-    "text": "반도체주 급락과 물가·금리 인상 부담 속에서 하락에 대비하는 풋옵션 수요가 늘어 0.95로 올라온 것으로 보입니다.",
-    "sources": [
-     {
-      "title": "Stock market today: Dow, S&P 500, Nasdaq futures fall on hot inflation, new Trump tariffs",
-      "url": "https://finance.yahoo.com/markets/live/stock-market-today-wednesday-november-25-dow-sp-500-nasdaq-pce-inflation-data-091428237.html"
-     }
-    ],
-    "stars": 4
-   },
-   "background": [
-    {
-     "text": "10월 PCE 물가가 전년 대비 3.8%로 2023년 이후 가장 높았고 근원 PCE도 3.3%로 예상 3.2%를 웃돌았습니다.",
-     "sources": [
-      {
-       "title": "Stock market today: Dow, S&P 500, Nasdaq futures fall on hot inflation, new Trump tariffs",
-       "url": "https://finance.yahoo.com/markets/live/stock-market-today-wednesday-november-25-dow-sp-500-nasdaq-pce-inflation-data-091428237.html"
-      }
-     ],
-     "stars": 4
-    }
-   ],
-   "note": "풋콜 변화폭(+0.05)은 크지 않아 투자자들이 아직은 극단적으로 쏠리지는 않은 것으로 보입니다. 이는 제가 값만 보고 해석한 것입니다. 주말 전 단축장에서 흐름이 이어지는지 볼 필요가 있습니다."
-  },
-  {
-   "key": "vix",
-   "title": "VIX 31.6 (전날 26.4, +5.2)",
-   "tone": "fear",
-   "cause": {
-    "text": "예상보다 높은 PCE 물가, 12월 금리 인상 확률 약 97~98%, 신규 관세 예고, AI주 투매가 한꺼번에 겹쳐 VIX가 31.6까지 오른 것으로 보입니다.",
-    "sources": [
-     {
-      "title": "Stock market today: Dow, S&P 500, Nasdaq futures fall on hot inflation, new Trump tariffs",
-      "url": "https://finance.yahoo.com/markets/live/stock-market-today-wednesday-november-25-dow-sp-500-nasdaq-pce-inflation-data-091428237.html"
-     },
-     {
-      "title": "뉴욕증시 프리뷰, AI주 투매·추가 관세 우려에 나스닥 선물 2%대 급락…PCE 주목",
-      "url": "https://www.newspim.com/news/view/20261125001309"
-     }
-    ],
-    "stars": 5
-   },
-   "background": [
-    {
-     "text": "이란과의 전쟁에 따른 유가 상승으로 물가가 빨라지는데 관세까지 더해지면 고금리가 길어질 수 있다는 우려가 커졌습니다.",
-     "sources": [
-      {
-       "title": "뉴욕증시 프리뷰, AI주 투매·추가 관세 우려에 나스닥 선물 2%대 급락…PCE 주목",
-       "url": "https://www.newspim.com/news/view/20261125001309"
-      }
-     ],
-     "stars": 4
-    },
-    {
-     "text": "3분기 성장률이 4.3%로 상향돼 경기는 튼튼한 편이라 연준이 인상을 멈출 이유가 약해졌다는 해석이 나옵니다.",
-     "sources": [
-      {
-       "title": "Stock market today: Dow, S&P 500, Nasdaq futures fall on hot inflation, new Trump tariffs",
-       "url": "https://finance.yahoo.com/markets/live/stock-market-today-wednesday-november-25-dow-sp-500-nasdaq-pce-inflation-data-091428237.html"
-      }
-     ],
-     "stars": 3
-    }
-   ],
-   "note": "VIX가 3개월물보다 높은 역전이 7거래일째라 단기 공포가 이어지는 중입니다. 다음 확인 지점은 금요일 단축장과 12월 FOMC, 1월 10일 만료되는 미중 무역 휴전입니다."
-  },
-  {
-   "key": "rsi",
-   "title": "QQQ RSI 43.0 (전날 38.8, +4.2)",
-   "tone": "neutral",
-   "cause": {
-    "text": "RSI가 38.8에서 43.0으로 오른 것은 앞선 거래일들의 반등 흔적이 남은 값으로 보이며, 오늘 하락이 아직 다 반영되지 않았을 가능성이 있습니다. 이는 제 추정이고 기사로 확인한 것은 아닙니다.",
+    "text": "풋콜 비율이 0.90에서 0.92로 소폭만 올랐습니다. 장중 급락 때 하락 대비 수요가 늘었다가 오후 반등으로 대부분 되돌려진 것으로 보이나, 기사로 직접 확인되지는 않은 추정입니다.",
     "sources": [],
     "stars": 2
    },
    "background": [
     {
-     "text": "지난 금요일에는 젠슨 황 복귀 기대로 엔비디아가 크게 올랐다가 어제 5.86% 내리며 상승분을 되돌렸습니다.",
+     "text": "장 초반 나스닥100 선물이 3% 가까이 밀렸고 장중 나스닥100이 3.8%까지 하락한 뒤 낙폭이 줄었습니다.",
      "sources": [
       {
-       "title": "[뉴욕마감]지수별 혼조…엔비디아 랠리 하루 만에 꺾이고 나스닥 1.5%↓ - 뉴스1",
-       "url": "https://www.news1.kr/world/international-economy/6364924"
+       "title": "연휴 앞둔 뉴욕증시, AI 매도세 재개에 급락…엔비디아, 8%↓",
+       "url": "https://fnnews.com/news/202611260159457178"
       }
      ],
      "stars": 3
+    },
+    {
+     "text": "PCE·GDP 결과로 금리인상 부담이 커지자 투자자들이 안전자산인 국채로 이동했다고 보도됐습니다.",
+     "sources": [
+      {
+       "title": "물가·관세 겹악재에 나스닥 선물 3%↓…국채로 '피난'(종합)",
+       "url": "https://edaily.co.kr/News/Read?mediaCodeNo=257&newsId=04375526645649328"
+      }
+     ],
+     "stars": 2
     }
    ],
-   "note": "오늘 하락이 종가에 확정되면 RSI는 다시 내려갈 수 있습니다. 43은 아직 과매도 구간(보통 30 이하)이 아니라는 점도 함께 보시면 좋습니다."
+   "note": "변화 폭이 작아 뚜렷한 신호로 보기는 어렵습니다. 휴일 전후 거래량이 줄 수 있어 27일 조기 폐장일 흐름을 보시면 됩니다."
   },
   {
-   "key": "ma",
-   "title": "QQQ $617.00 (전날 대비 -3.3%, 200일선 대비 아래 9.7%)",
-   "tone": "fear",
+   "key": "vix",
+   "title": "VIX 28.3 (전날 26.4, +1.9)",
+   "tone": "neutral",
    "cause": {
-    "text": "QQQ가 하루 -3.3% 내려 $617이 되며 200일선 아래 9.7%까지 벌어진 것은 반도체 급락, 물가 쇼크, 관세 예고가 한꺼번에 반영된 결과로 보입니다.",
+    "text": "VIX는 장중 35 부근까지 치솟았다가 오후 반등으로 28.3 안팎에서 마감해 전날(26.4)보다 높아졌습니다. 물가·금리인상 우려와 AI주 투매가 원인으로 보입니다.",
     "sources": [
      {
-      "title": "Stock market today: Dow, S&P 500, Nasdaq futures fall on hot inflation, new Trump tariffs",
-      "url": "https://finance.yahoo.com/markets/live/stock-market-today-wednesday-november-25-dow-sp-500-nasdaq-pce-inflation-data-091428237.html"
+      "title": "[뉴욕증시] 패닉 매도 진정 속 기술주 소폭 하락…엔비디아 낙폭, 9.1→3.9%",
+      "url": "https://www.fnnews.com/news/202611260631005468"
      },
      {
-      "title": "뉴욕증시 프리뷰, AI주 투매·추가 관세 우려에 나스닥 선물 2%대 급락…PCE 주목",
-      "url": "https://www.newspim.com/news/view/20261125001309"
+      "title": "연휴 앞둔 뉴욕증시, AI 매도세 재개에 급락…엔비디아, 8%↓",
+      "url": "https://fnnews.com/news/202611260159457178"
      }
     ],
     "stars": 5
    },
    "background": [
     {
-     "text": "앤트로픽 주가가 공모가를 밑돈 것이 AI 관련주 투자심리를 눌렀고, 기업 지배구조 불안도 겹친 것으로 해석됩니다.",
+     "text": "미국이 한국·중국·EU 등 14개 경제주체에 과잉생산을 이유로 신규 관세를 제안했고, 최종 결정은 이르면 1월에 나올 수 있습니다.",
      "sources": [
       {
-       "title": "[뉴욕마감]지수별 혼조…엔비디아 랠리 하루 만에 꺾이고 나스닥 1.5%↓ - 뉴스1",
-       "url": "https://www.news1.kr/world/international-economy/6364924"
+       "title": "물가·관세 겹악재에 나스닥 선물 3%↓…국채로 '피난'(종합)",
+       "url": "https://edaily.co.kr/News/Read?mediaCodeNo=257&newsId=04375526645649328"
       }
      ],
-     "stars": 3
+     "stars": 4
     },
     {
-     "text": "12월 인상에 이어 1월 추가 인상 확률도 약 63%로 반영돼 금리 부담이 길어질 수 있다는 점이 성장주에 불리합니다.",
+     "text": "마이크론·AMD 등 반도체주가 크게 밀렸고 델은 실적이 좋았는데도 하락해 AI 투자 불안이 이어졌습니다.",
      "sources": [
       {
-       "title": "뉴욕증시 프리뷰, AI주 투매·추가 관세 우려에 나스닥 선물 2%대 급락…PCE 주목",
-       "url": "https://www.newspim.com/news/view/20261125001309"
+       "title": "물가·관세 겹악재에 나스닥 선물 3%↓…국채로 '피난'(종합)",
+       "url": "https://edaily.co.kr/News/Read?mediaCodeNo=257&newsId=04375526645649328"
       }
      ],
      "stars": 3
     }
    ],
-   "note": "200일선 아래 구간이 이어지는 중이라 일회성보다는 추세 약화에 가깝습니다. 장 마감 뒤 실제 종가와 금요일 단축장에서 이 거리가 줄어드는지 확인하시면 됩니다."
+   "note": "VIX가 3개월물보다 높은 역전이 이어지는 만큼 단기 불안은 아직 풀리지 않았습니다. 12월 9일 FOMC와 1월 관세 결정이 다음 확인 사항입니다."
+  },
+  {
+   "key": "rsi",
+   "title": "QQQ RSI 46.7 (전날 38.8, +7.9)",
+   "tone": "neutral",
+   "cause": {
+    "text": "QQQ RSI는 38.8에서 46.7로 올랐는데, 이틀 전(23일) 나스닥이 6.51% 급반등한 영향과 25일 낙폭 축소가 지표에 반영된 것으로 보입니다.",
+    "sources": [
+     {
+      "title": "뉴욕증시, AI 투매 딛고 낙폭 축소하며 혼조 마감…다우 0.3%↑·나스닥 0.6%↓",
+      "url": "https://www.newspim.com/news/view/20261126000033"
+     },
+     {
+      "title": "뉴욕증시 프리뷰, 주가 선물 반등...엔비디아 9% 급등·나스닥100 선물 3.6%↑",
+      "url": "https://www.newspim.com/news/view/20261123001179"
+     }
+    ],
+    "stars": 3
+   },
+   "background": [
+    {
+     "text": "23일 엔비디아가 30% 넘게 급등하며 나스닥이 크게 반등했지만, 이후 차익실현과 AI 불안으로 다시 흔들렸습니다.",
+     "sources": [
+      {
+       "title": "[뉴욕증시] 패닉 매도 진정 속 기술주 소폭 하락…엔비디아 낙폭, 9.1→3.9%",
+       "url": "https://www.fnnews.com/news/202611260631005468"
+      }
+     ],
+     "stars": 3
+    },
+    {
+     "text": "오후에 구경제·배당주로 자금이 옮겨가며 다우가 2% 안팎 하락을 지우고 상승 마감했습니다.",
+     "sources": [
+      {
+       "title": "뉴욕증시, AI 투매 딛고 낙폭 축소하며 혼조 마감…다우 0.3%↑·나스닥 0.6%↓",
+       "url": "https://www.newspim.com/news/view/20261126000033"
+      }
+     ],
+     "stars": 2
+    }
+   ],
+   "note": "RSI 46.7은 중립권으로 돌아왔지만 변동성이 큰 반등 뒤라 방향 판단은 이릅니다. 27일 조기 폐장 흐름과 12월 FOMC를 확인하세요."
   }
  ]
 }
