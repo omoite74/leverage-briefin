@@ -1,175 +1,183 @@
 {
- "at": 1795557675265,
- "headline": "젠슨 황 복귀로 폭등했던 AI·반도체주가 하루 만에 되밀리고 12월 연준 금리 인상 우려와 관세 발표 임박까지 겹치면서, 공포탐욕은 극단적 공포에 머물고 QQQ는 200일선 아래로 더 내려갔습니다.",
+ "at": 1795617054739,
+ "headline": "추가 관세 발표, 예상보다 높은 PCE 물가, 엔비디아·반도체 급락이 겹치며 나스닥100 선물이 약 3% 밀렸고 VIX가 31대로 뛰었습니다.",
  "items": [
   {
    "key": "fearGreed",
-   "title": "공포탐욕 17 극단적 공포 (전날 17, +0)",
+   "title": "공포탐욕 11 극단적 공포 (전날 17, -6)",
    "tone": "fear",
    "cause": {
-    "text": "엔비디아가 전날 31% 급등분 일부를 반납하고 마이크론·AMD 등 반도체주가 크게 떨어지면서 나스닥이 1.48% 하락했고, 이 때문에 공포 심리가 풀리지 않은 것으로 보입니다.",
+    "text": "어제 정규장에서 반도체지수가 7.88% 급락하고 나스닥이 1.48% 내린 데다, 오늘 장 시작 전 나스닥100 선물이 약 3% 더 밀리면서 공포 쪽 지표가 더 나빠진 것으로 보입니다.",
     "sources": [
      {
-      "title": "Nasdaq slumps about 1.5% as Nvidia comeback reverses course and Anthropic breaks IPO price: Live updates",
-      "url": "https://cnbc.com/2026/11/23/stock-market-today-live-updates.html"
+      "title": "[뉴욕마감]지수별 혼조…엔비디아 랠리 하루 만에 꺾이고 나스닥 1.5%↓ - 뉴스1",
+      "url": "https://www.news1.kr/world/international-economy/6364924"
      },
      {
-      "title": "Stock market today: Dow rises, S&P 500 and Nasdaq decline as chip sector tumbles, Nvidia stock falls 6%",
-      "url": "https://finance.yahoo.com/markets/live/stock-market-today-tuesday-november-24-dow-sp-500-nasdaq-chip-stocks-nvidia-140629923.html"
+      "title": "뉴욕증시 프리뷰, AI주 투매·추가 관세 우려에 나스닥 선물 2%대 급락…PCE 주목",
+      "url": "https://www.newspim.com/news/view/20261125001309"
      }
     ],
     "stars": 5
    },
    "background": [
     {
-     "text": "S&P500이 지난 금요일 3.7% 급락해 조정에 들어갔고, 나스닥100도 5.6% 떨어져 약세장 문턱까지 갔습니다.",
+     "text": "AI 인프라 투자가 빚으로 이뤄지는데 수익이 따라올지 의문이 이어지며 엔비디아, 마이크론, AMD 등 반도체주가 장 시작 전 5~6% 내렸습니다.",
      "sources": [
       {
-       "title": "The Fed isn't riding to the rescue — Wall Street still sees a December rate hike after tech's worst week since 2020",
-       "url": "https://finance.yahoo.com/markets/article/the-fed-isnt-riding-to-the-rescue--wall-street-still-sees-a-december-rate-hike-after-techs-worst-week-since-2020-chart-of-the-day-110000273.html"
+       "title": "뉴욕증시 프리뷰, AI주 투매·추가 관세 우려에 나스닥 선물 2%대 급락…PCE 주목",
+       "url": "https://www.newspim.com/news/view/20261125001309"
       }
      ],
      "stars": 4
     },
     {
-     "text": "소비자물가가 10월 기준 약 4% 올랐다는 추정이 나오며 12월 연준 금리 인상 확률이 95% 안팎으로 반영되고 있습니다.",
+     "text": "트럼프 행정부가 중국, EU 등에 20% 신규 관세를 예고했고, 시행은 빨라야 1월로 전해졌습니다.",
      "sources": [
       {
-       "title": "Stock market today: Dow rises, S&P 500 and Nasdaq decline as chip sector tumbles, Nvidia stock falls 6%",
-       "url": "https://finance.yahoo.com/markets/live/stock-market-today-tuesday-november-24-dow-sp-500-nasdaq-chip-stocks-nvidia-140629923.html"
+       "title": "Stock market today: Dow, S&P 500, Nasdaq futures fall on hot inflation, new Trump tariffs",
+       "url": "https://finance.yahoo.com/markets/live/stock-market-today-wednesday-november-25-dow-sp-500-nasdaq-pce-inflation-data-091428237.html"
       }
      ],
-     "stars": 4
-    },
-    {
-     "text": "월스트리트저널은 미국이 중국 등 수십 개국 관세 인상을 준비 중이라고 보도했고, USTR의 과잉생산 관세 결과도 곧 나올 예정입니다.",
-     "sources": [],
      "stars": 3
     }
    ],
-   "note": "전날과 같은 17로 극단적 공포가 이어지는 모습입니다. 수요일 PCE 물가와 12월 9일 연준 회의가 다음 확인거리이며, 장 마감 후 시장을 크게 움직인 속보는 확인하지 못했습니다(델 실적 발표 예정)."
+   "note": "어제 급락과 오늘 선물 하락이 이어진 흐름이라 단발성이라고 보기는 어렵습니다. 목요일은 추수감사절로 휴장이고 금요일은 단축 거래라, 다음 확인 지점은 금요일 장과 12월 FOMC입니다."
   },
   {
    "key": "putCall",
-   "title": "풋콜 0.90 (전날 0.91, -0.01)",
+   "title": "풋콜 0.95 (전날 0.90, +0.05)",
    "tone": "fear",
    "cause": {
-    "text": "풋콜 비율이 0.91에서 0.90으로 거의 변하지 않아, 하락 속에서도 옵션 시장의 쏠림은 크지 않았던 것으로 보입니다.",
+    "text": "반도체주 급락과 물가·금리 인상 부담 속에서 하락에 대비하는 풋옵션 수요가 늘어 0.95로 올라온 것으로 보입니다.",
     "sources": [
      {
-      "title": "Stock market today: Dow rises, S&P 500 and Nasdaq decline as chip sector tumbles, Nvidia stock falls 6%",
-      "url": "https://finance.yahoo.com/markets/live/stock-market-today-tuesday-november-24-dow-sp-500-nasdaq-chip-stocks-nvidia-140629923.html"
-     }
-    ],
-    "stars": 3
-   },
-   "background": [
-    {
-     "text": "VIX는 26.36으로 소폭 내려, 급락 직후의 극단적 불안은 다소 누그러진 모습입니다.",
-     "sources": [
-      {
-       "title": "Stock market today: Dow rises, S&P 500 and Nasdaq decline as chip sector tumbles, Nvidia stock falls 6%",
-       "url": "https://finance.yahoo.com/markets/live/stock-market-today-tuesday-november-24-dow-sp-500-nasdaq-chip-stocks-nvidia-140629923.html"
-      }
-     ],
-     "stars": 2
-    },
-    {
-     "text": "다우는 0.85% 올라 5만선을 회복하는 등 지수별로 엇갈렸고, 하락이 AI·반도체에 집중됐습니다.",
-     "sources": [
-      {
-       "title": "[속보]뉴욕증시 혼조 마감…젠슨황 복귀 열기 떨어져 나스닥 1.51%↓ - 뉴스1",
-       "url": "https://www.news1.kr/world/international-economy/6364914"
-      }
-     ],
-     "stars": 2
-    }
-   ],
-   "note": "풋콜 변화가 작아 의미 있는 신호로 보기는 어렵습니다. 수요일 PCE 발표 뒤 옵션 쏠림이 달라지는지 보시면 됩니다."
-  },
-  {
-   "key": "rsi",
-   "title": "QQQ RSI 38.8 (전날 42.7, -3.9)",
-   "tone": "neutral",
-   "cause": {
-    "text": "반도체지수가 약 8% 급락하고 엔비디아가 약 6% 내리는 등 AI주 매도가 이어져 QQQ RSI가 42.7에서 38.8로 낮아진 것으로 보입니다.",
-    "sources": [
-     {
-      "title": "[속보] 필라델피아 반도체지수 7.8%↓⋯ 뉴욕증시 혼조세 마감",
-      "url": "https://www.sidae.com/article/2026112506161283558"
-     },
-     {
-      "title": "Nasdaq slumps about 1.5% as Nvidia comeback reverses course and Anthropic breaks IPO price: Live updates",
-      "url": "https://cnbc.com/2026/11/23/stock-market-today-live-updates.html"
+      "title": "Stock market today: Dow, S&P 500, Nasdaq futures fall on hot inflation, new Trump tariffs",
+      "url": "https://finance.yahoo.com/markets/live/stock-market-today-wednesday-november-25-dow-sp-500-nasdaq-pce-inflation-data-091428237.html"
      }
     ],
     "stars": 4
    },
    "background": [
     {
-     "text": "앤스로픽이 공모가 83달러 아래로 내려가 AI 기대가 식었고, 대규모 자금 수요와 내부자 매도 우려가 거론됐습니다.",
+     "text": "10월 PCE 물가가 전년 대비 3.8%로 2023년 이후 가장 높았고 근원 PCE도 3.3%로 예상 3.2%를 웃돌았습니다.",
      "sources": [
       {
-       "title": "Stock market today: Dow rises, S&P 500 and Nasdaq decline as chip sector tumbles, Nvidia stock falls 6%",
-       "url": "https://finance.yahoo.com/markets/live/stock-market-today-tuesday-november-24-dow-sp-500-nasdaq-chip-stocks-nvidia-140629923.html"
+       "title": "Stock market today: Dow, S&P 500, Nasdaq futures fall on hot inflation, new Trump tariffs",
+       "url": "https://finance.yahoo.com/markets/live/stock-market-today-wednesday-november-25-dow-sp-500-nasdaq-pce-inflation-data-091428237.html"
       }
      ],
-     "stars": 3
-    },
-    {
-     "text": "엔비디아는 SEC가 회계를 들여다본다는 보도와 분기 보고서 지연 등 지배구조 우려가 남아 있습니다.",
-     "sources": [
-      {
-       "title": "The Fed isn't riding to the rescue — Wall Street still sees a December rate hike after tech's worst week since 2020",
-       "url": "https://finance.yahoo.com/markets/article/the-fed-isnt-riding-to-the-rescue--wall-street-still-sees-a-december-rate-hike-after-techs-worst-week-since-2020-chart-of-the-day-110000273.html"
-      }
-     ],
-     "stars": 3
+     "stars": 4
     }
    ],
-   "note": "RSI는 아직 과매도 기준(통상 30)보다 위이며, 엔비디아 관련 뉴스에 따라 변동이 클 수 있습니다. 다음 확인거리는 PCE 발표와 엔비디아 소식입니다."
+   "note": "풋콜 변화폭(+0.05)은 크지 않아 투자자들이 아직은 극단적으로 쏠리지는 않은 것으로 보입니다. 이는 제가 값만 보고 해석한 것입니다. 주말 전 단축장에서 흐름이 이어지는지 볼 필요가 있습니다."
   },
   {
-   "key": "ma",
-   "title": "QQQ $638.10 (전날 대비 -2.0%, 200일선 대비 아래 6.6%)",
+   "key": "vix",
+   "title": "VIX 31.6 (전날 26.4, +5.2)",
    "tone": "fear",
    "cause": {
-    "text": "엔비디아·마이크론·AMD 등 AI 반도체주 하락과 12월 금리 인상 우려가 겹치며 QQQ가 하루 2.0% 내려 200일선 아래 6.6%까지 벌어진 것으로 보입니다.",
+    "text": "예상보다 높은 PCE 물가, 12월 금리 인상 확률 약 97~98%, 신규 관세 예고, AI주 투매가 한꺼번에 겹쳐 VIX가 31.6까지 오른 것으로 보입니다.",
     "sources": [
      {
-      "title": "Nasdaq slumps about 1.5% as Nvidia comeback reverses course and Anthropic breaks IPO price: Live updates",
-      "url": "https://cnbc.com/2026/11/23/stock-market-today-live-updates.html"
+      "title": "Stock market today: Dow, S&P 500, Nasdaq futures fall on hot inflation, new Trump tariffs",
+      "url": "https://finance.yahoo.com/markets/live/stock-market-today-wednesday-november-25-dow-sp-500-nasdaq-pce-inflation-data-091428237.html"
      },
      {
-      "title": "Stock market today: Dow rises, S&P 500 and Nasdaq decline as chip sector tumbles, Nvidia stock falls 6%",
-      "url": "https://finance.yahoo.com/markets/live/stock-market-today-tuesday-november-24-dow-sp-500-nasdaq-chip-stocks-nvidia-140629923.html"
+      "title": "뉴욕증시 프리뷰, AI주 투매·추가 관세 우려에 나스닥 선물 2%대 급락…PCE 주목",
+      "url": "https://www.newspim.com/news/view/20261125001309"
      }
     ],
     "stars": 5
    },
    "background": [
     {
-     "text": "10년물 국채금리가 약 4.9% 수준으로 높아 성장주에 부담을 주고 있습니다.",
+     "text": "이란과의 전쟁에 따른 유가 상승으로 물가가 빨라지는데 관세까지 더해지면 고금리가 길어질 수 있다는 우려가 커졌습니다.",
      "sources": [
       {
-       "title": "Nasdaq slumps about 1.5% as Nvidia comeback reverses course and Anthropic breaks IPO price: Live updates",
-       "url": "https://cnbc.com/2026/11/23/stock-market-today-live-updates.html"
+       "title": "뉴욕증시 프리뷰, AI주 투매·추가 관세 우려에 나스닥 선물 2%대 급락…PCE 주목",
+       "url": "https://www.newspim.com/news/view/20261125001309"
       }
      ],
-     "stars": 3
+     "stars": 4
     },
     {
-     "text": "월요일 나스닥 6.5% 급등은 엔비디아 CEO 복귀라는 일회성 재료였고 하루 만에 열기가 식었습니다.",
+     "text": "3분기 성장률이 4.3%로 상향돼 경기는 튼튼한 편이라 연준이 인상을 멈출 이유가 약해졌다는 해석이 나옵니다.",
      "sources": [
       {
-       "title": "[속보]뉴욕증시 혼조 마감…젠슨황 복귀 열기 떨어져 나스닥 1.51%↓ - 뉴스1",
-       "url": "https://www.news1.kr/world/international-economy/6364914"
+       "title": "Stock market today: Dow, S&P 500, Nasdaq futures fall on hot inflation, new Trump tariffs",
+       "url": "https://finance.yahoo.com/markets/live/stock-market-today-wednesday-november-25-dow-sp-500-nasdaq-pce-inflation-data-091428237.html"
       }
      ],
      "stars": 3
     }
    ],
-   "note": "200일선 아래 구간이 이어지고 있어, 수요일 PCE 물가와 12월 9일 연준 회의, 관세 발표 결과가 다음 변수입니다."
+   "note": "VIX가 3개월물보다 높은 역전이 7거래일째라 단기 공포가 이어지는 중입니다. 다음 확인 지점은 금요일 단축장과 12월 FOMC, 1월 10일 만료되는 미중 무역 휴전입니다."
+  },
+  {
+   "key": "rsi",
+   "title": "QQQ RSI 43.0 (전날 38.8, +4.2)",
+   "tone": "neutral",
+   "cause": {
+    "text": "RSI가 38.8에서 43.0으로 오른 것은 앞선 거래일들의 반등 흔적이 남은 값으로 보이며, 오늘 하락이 아직 다 반영되지 않았을 가능성이 있습니다. 이는 제 추정이고 기사로 확인한 것은 아닙니다.",
+    "sources": [],
+    "stars": 2
+   },
+   "background": [
+    {
+     "text": "지난 금요일에는 젠슨 황 복귀 기대로 엔비디아가 크게 올랐다가 어제 5.86% 내리며 상승분을 되돌렸습니다.",
+     "sources": [
+      {
+       "title": "[뉴욕마감]지수별 혼조…엔비디아 랠리 하루 만에 꺾이고 나스닥 1.5%↓ - 뉴스1",
+       "url": "https://www.news1.kr/world/international-economy/6364924"
+      }
+     ],
+     "stars": 3
+    }
+   ],
+   "note": "오늘 하락이 종가에 확정되면 RSI는 다시 내려갈 수 있습니다. 43은 아직 과매도 구간(보통 30 이하)이 아니라는 점도 함께 보시면 좋습니다."
+  },
+  {
+   "key": "ma",
+   "title": "QQQ $617.00 (전날 대비 -3.3%, 200일선 대비 아래 9.7%)",
+   "tone": "fear",
+   "cause": {
+    "text": "QQQ가 하루 -3.3% 내려 $617이 되며 200일선 아래 9.7%까지 벌어진 것은 반도체 급락, 물가 쇼크, 관세 예고가 한꺼번에 반영된 결과로 보입니다.",
+    "sources": [
+     {
+      "title": "Stock market today: Dow, S&P 500, Nasdaq futures fall on hot inflation, new Trump tariffs",
+      "url": "https://finance.yahoo.com/markets/live/stock-market-today-wednesday-november-25-dow-sp-500-nasdaq-pce-inflation-data-091428237.html"
+     },
+     {
+      "title": "뉴욕증시 프리뷰, AI주 투매·추가 관세 우려에 나스닥 선물 2%대 급락…PCE 주목",
+      "url": "https://www.newspim.com/news/view/20261125001309"
+     }
+    ],
+    "stars": 5
+   },
+   "background": [
+    {
+     "text": "앤트로픽 주가가 공모가를 밑돈 것이 AI 관련주 투자심리를 눌렀고, 기업 지배구조 불안도 겹친 것으로 해석됩니다.",
+     "sources": [
+      {
+       "title": "[뉴욕마감]지수별 혼조…엔비디아 랠리 하루 만에 꺾이고 나스닥 1.5%↓ - 뉴스1",
+       "url": "https://www.news1.kr/world/international-economy/6364924"
+      }
+     ],
+     "stars": 3
+    },
+    {
+     "text": "12월 인상에 이어 1월 추가 인상 확률도 약 63%로 반영돼 금리 부담이 길어질 수 있다는 점이 성장주에 불리합니다.",
+     "sources": [
+      {
+       "title": "뉴욕증시 프리뷰, AI주 투매·추가 관세 우려에 나스닥 선물 2%대 급락…PCE 주목",
+       "url": "https://www.newspim.com/news/view/20261125001309"
+      }
+     ],
+     "stars": 3
+    }
+   ],
+   "note": "200일선 아래 구간이 이어지는 중이라 일회성보다는 추세 약화에 가깝습니다. 장 마감 뒤 실제 종가와 금요일 단축장에서 이 거리가 줄어드는지 확인하시면 됩니다."
   }
  ]
 }
