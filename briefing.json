@@ -1,146 +1,148 @@
 {
- "at": 1795789867015,
- "headline": "추수감사절 휴장 뒤 단축장을 앞두고 AI·반도체주 저가 매수로 나스닥100 선물이 2~3%대 급등하며 공포가 한풀 꺾였지만, 금리 인상 우려 속에 QQQ는 아직 200일선 아래입니다.",
+ "at": 1795816852684,
+ "headline": "블랙프라이데이 단축장(27일)에 AI·반도체 저가 매수로 나스닥이 2%대 올라 공포 지표가 한 단계 풀렸지만, 12월 연준 금리 인상 부담은 남아 있습니다.",
  "items": [
   {
    "key": "fearGreed",
-   "title": "공포탐욕 20 극단적 공포 (전날 16, +4)",
+   "title": "공포탐욕 25 극단적 공포 (전날 16, +9)",
    "tone": "fear",
    "cause": {
-    "text": "휴장 뒤 첫 거래일(27일)에 엔비디아·마이크론 등 급락했던 AI 반도체주로 저가 매수가 몰리며 나스닥100 선물이 크게 오른 것이 공포를 누그러뜨린 것으로 보입니다. 다만 지수는 20으로 여전히 극단적 공포 구간입니다.",
+    "text": "최근 크게 떨어진 AI·기술주에 저가 매수가 몰리며 나스닥이 2.3% 오른 것이 공포탐욕지수를 16에서 25로 끌어올린 것으로 보입니다. 다만 아직 '극단적 공포' 구간입니다.",
     "sources": [
      {
-      "title": "Nasdaq Futures Surge 2.7% as Nvidia, Micron and SanDisk Lead Global AI Stock Recovery",
-      "url": "https://www.share-talk.com/nasdaq-futures-surge-2-7-as-nvidia-micron-and-sandisk-lead-global-ai-stock-recovery/"
-     },
-     {
-      "title": "뉴욕증시 전망, 나스닥 선물 2.8% 급등…AI주 반등",
-      "url": "https://www.topstarnews.net/news/articleView.html?idxno=16288075"
+      "title": "블프에 불뿜은 AI·기술주…나스닥 2.3%↑[뉴욕마감]",
+      "url": "https://supple.kr/news/cmwzbt9xtgd6lkwp8tmez7fw9"
      }
     ],
     "stars": 5
    },
    "background": [
     {
-     "text": "직전 거래일 엔비디아가 장중 9% 넘게 빠졌다가 3.91% 하락으로 마감했고, 나스닥100이 한때 고점 대비 20% 하락했다는 보도가 있어 반등 폭이 커 보였습니다.",
+     "text": "추수감사절 다음 날 오후 1시에 일찍 끝난 거래라 거래량이 적었고, 매도세가 잦아든 것도 반등을 도운 것으로 풀이됩니다.",
      "sources": [
       {
-       "title": "Nasdaq futures rise 2.4% before Black Friday half-day as chips rebound",
-       "url": "https://mlq.ai/news/nasdaq-futures-rise-24-before-black-friday-half-day-as-chips-rebound/"
-      },
-      {
-       "title": "추수감사절 연휴로 거래 한산한 가운데 미국 주가지수 선물 상승…기술주 반등 주목",
-       "url": "https://kr.investing.com/news/stock-market-news/article-2191450"
-      }
-     ],
-     "stars": 4
-    },
-    {
-     "text": "연준이 금융안정 보고서에서 빅테크의 AI 관련 부담이 장부 숫자보다 클 수 있다고 경고한 것이 AI주 불안의 배경 중 하나로 보입니다.",
-     "sources": [
-      {
-       "title": "Fed warns of growing financial risks from AI boom",
-       "url": "https://axios.com/2026/11/16/fed-ai-boom-financial-risks"
-      },
-      {
-       "title": "Fed financial stability report: AI data center $3 trillion off balance sheet, Nvidia",
-       "url": "https://fortune.com/2026/11/17/fed-financial-stability-report-ai-data-center-3-trillion-off-balance-sheet-nvidia/"
+       "title": "블프에 불뿜은 AI·기술주…나스닥 2.3%↑[뉴욕마감]",
+       "url": "https://supple.kr/news/cmwzbt9xtgd6lkwp8tmez7fw9"
       }
      ],
      "stars": 3
     },
     {
-     "text": "금리 인상 우려가 여전해 반등이 이어질지는 불확실하다는 분석이 함께 나옵니다.",
+     "text": "AI 기업의 부채 조달과 설비투자 둔화 우려, 12월 연준 금리 인상 가능성이 여전히 부담으로 꼽힙니다.",
      "sources": [
       {
-       "title": "뉴욕증시 프리뷰, AI·반도체주 저가 매수에 나스닥 선물 2% 상승…금리 인상 우려 여전",
-       "url": "https://m.news.nate.com/view/20261127n28764"
+       "title": "블프에 불뿜은 AI·기술주…나스닥 2.3%↑[뉴욕마감]",
+       "url": "https://supple.kr/news/cmwzbt9xtgd6lkwp8tmez7fw9"
       }
      ],
-     "stars": 2
+     "stars": 3
     }
    ],
-   "note": "급락 뒤 반등이라 일회성 성격이 강해 보이며, 이어질지는 더 봐야 합니다. 한국시간 오늘 밤 11시 30분 개장해 새벽 3시에 끝나는 단축장 결과와 금리 인상 관련 발언·지표를 지켜볼 만합니다."
+   "note": "단축 거래일의 반등이라 한 번의 움직임만으로 심리가 바뀌었다고 보기는 어렵습니다. 12월 2일 ISM 제조업 PMI, 12월 4일 고용 지표를 확인해 보세요."
   },
   {
    "key": "putCall",
    "title": "풋콜 0.86 (전날 0.92, -0.06)",
    "tone": "fear",
    "cause": {
-    "text": "주가가 반등하면서 하락에 대비한 풋옵션 수요가 줄어 풋콜 비율이 0.92에서 0.86으로 내려간 것으로 보입니다. 이 인과는 기사로 직접 확인한 것이 아니라 추정입니다.",
+    "text": "주가가 반등하면서 하락 방어용 풋 매수가 줄어 풋콜 비율이 0.92에서 0.86으로 내려간 것으로 보입니다. 이 해석은 기사로 직접 확인한 것은 아니고 추정입니다.",
     "sources": [
      {
-      "title": "Nasdaq futures surge as investors pile back into battered AI stocks",
-      "url": "https://rallies.ai/news/nasdaq-futures-surge-as-investors-pile-back-into-battered-ai-stocks-98d13c903f1890c7"
+      "title": "블프에 불뿜은 AI·기술주…나스닥 2.3%↑[뉴욕마감]",
+      "url": "https://supple.kr/news/cmwzbt9xtgd6lkwp8tmez7fw9"
      }
     ],
     "stars": 3
    },
    "background": [
     {
-     "text": "AI·반도체주 저가 매수와 선물 급등이 하락 대비 수요를 덜어준 것으로 보입니다.",
+     "text": "필라델피아 반도체지수가 5% 넘게 올라 반도체주 중심으로 반등이 컸습니다.",
      "sources": [
       {
-       "title": "뉴욕증시 전망, 나스닥 선물 2.8% 급등…AI주 반등",
-       "url": "https://www.topstarnews.net/news/articleView.html?idxno=16288075"
+       "title": "블랙프라이데이 단축장, 반도체지수 급등이 이끈 미국 증시 반등",
+       "url": "https://www.chickstockfi.com/report/2026-11-28?market=us"
+      }
+     ],
+     "stars": 3
+    }
+   ],
+   "note": "풋콜 0.86은 아직 낮은 수준이라고 보기 어렵고, 거래량이 적은 날의 수치라 월요일(30일) 정상 거래에서 다시 확인이 필요합니다."
+  },
+  {
+   "key": "vix",
+   "title": "VIX 23.8 (전날 26.8, -3.0)",
+   "tone": "neutral",
+   "cause": {
+    "text": "나스닥과 S&P500이 함께 오르며 급한 불안이 가라앉아 VIX가 26.8에서 23.8로 내려온 것으로 보입니다. 이로써 VIX 역전이 풀린 지 1거래일째입니다.",
+    "sources": [
+     {
+      "title": "블프에 불뿜은 AI·기술주…나스닥 2.3%↑[뉴욕마감]",
+      "url": "https://supple.kr/news/cmwzbt9xtgd6lkwp8tmez7fw9"
+     }
+    ],
+    "stars": 5
+   },
+   "background": [
+    {
+     "text": "VIX는 11월 24일 기준 26.4로 최근 3년 중 높은 편이었고, 10년물 금리도 4.91%로 높은 수준이었습니다.",
+     "sources": [
+      {
+       "title": "블랙프라이데이 단축장, 반도체지수 급등이 이끈 미국 증시 반등",
+       "url": "https://www.chickstockfi.com/report/2026-11-28?market=us"
       }
      ],
      "stars": 3
     },
     {
-     "text": "금리 인상 가능성과 관세 확대 우려가 남아 있어 보호 수요가 다시 늘 여지는 있습니다.",
+     "text": "S&P500이 한 주 동안 크게 빠진 뒤의 반등이어서 변동성이 아직 큰 상태입니다.",
      "sources": [
       {
-       "title": "뉴욕증시 프리뷰, AI·반도체주 저가 매수에 나스닥 선물 2% 상승…금리 인상 우려 여전",
-       "url": "https://m.news.nate.com/view/20261127n28764"
+       "title": "Black Friday Stock Market: Shortened Session, S&P 500 Futures Rise Early",
+       "url": "https://www.world-today-news.com/black-friday-stock-market-shortened-session-sp-500-futures-rise-early/"
       }
      ],
      "stars": 2
     }
    ],
-   "note": "하루 단위 변화라 일회성일 수 있습니다. 단축장 이후 풋콜 비율이 0.9 부근으로 다시 오르는지 확인해 볼 만합니다."
+   "note": "VIX 23.8도 평소보다 높은 편이라 안정됐다고 단정하기는 이릅니다. 12월 연준 회의와 고용 지표 전후로 다시 움직일 수 있습니다. 장 마감 뒤 선물이나 속보는 이번 검색에서 확인하지 못했습니다."
   },
   {
    "key": "ma",
-   "title": "QQQ $645.58 (전날 대비 +1.8%, 200일선 대비 아래 5.6%)",
+   "title": "QQQ $650.99 (전날 대비 +2.7%, 200일선 대비 아래 4.8%)",
    "tone": "greed",
    "cause": {
-    "text": "AI·반도체주 반등에 나스닥100 선물이 급등하면서 QQQ가 하루 +1.8% 오른 것으로 보입니다. 그래도 200일선보다는 5.6% 아래에 있습니다.",
+    "text": "QQQ가 2.7% 오른 것은 AI·반도체 저가 매수 때문으로 보입니다. 아마존·브로드컴 약 4%, 메타 3.1% 상승이 보도됐습니다. 그래도 200일선보다 4.8% 아래라 추세 회복 전 단계입니다.",
     "sources": [
      {
-      "title": "Nasdaq futures rise 2.4% before Black Friday half-day as chips rebound",
-      "url": "https://mlq.ai/news/nasdaq-futures-rise-24-before-black-friday-half-day-as-chips-rebound/"
-     },
-     {
-      "title": "Stock market today: Dow, S&P 500, Nasdaq futures gain as AI jitters steady",
-      "url": "https://finance.yahoo.com/markets/live/stock-market-today-firday-november-27-dow-sp-500-nasdaq-black-friday-holiday-091152065.html"
+      "title": "블프에 불뿜은 AI·기술주…나스닥 2.3%↑[뉴욕마감]",
+      "url": "https://supple.kr/news/cmwzbt9xtgd6lkwp8tmez7fw9"
      }
     ],
     "stars": 4
    },
    "background": [
     {
-     "text": "엔비디아 주가가 10월 사상 최고치보다 37% 이상 낮다는 보도가 있어 지수가 200일선을 회복하기까지 거리가 있어 보입니다.",
+     "text": "나스닥종합은 2만4129.50으로 마감했고, 이번 주 상승률은 6.68%로 집계됐습니다.",
      "sources": [
       {
-       "title": "뉴욕증시 프리뷰, AI·반도체주 저가 매수에 나스닥 선물 2% 상승…금리 인상 우려 여전",
-       "url": "https://m.news.nate.com/view/20261127n28764"
+       "title": "블프에 불뿜은 AI·기술주…나스닥 2.3%↑[뉴욕마감]",
+       "url": "https://supple.kr/news/cmwzbt9xtgd6lkwp8tmez7fw9"
       }
      ],
      "stars": 3
     },
     {
-     "text": "엔비디아의 동남아 서버 출하 중단 보도와 미국의 '과잉생산 관세' 제안 등 무역 변수가 부담으로 남아 있습니다.",
+     "text": "젠슨 황 엔비디아 CEO 복귀 후 급등했던 기술주가 다시 밀리는 등 등락이 컸습니다.",
      "sources": [
       {
-       "title": "[뉴욕증시 전략] 엔비디아 유통망, 중국 임대 전면 차단 통보",
-       "url": "https://supple.kr/news/cmwyollizenlikwp8j1foeeia"
+       "title": "블프에 불뿜은 AI·기술주…나스닥 2.3%↑[뉴욕마감]",
+       "url": "https://supple.kr/news/cmwzbt9xtgd6lkwp8tmez7fw9"
       }
      ],
      "stars": 2
     }
    ],
-   "note": "반등 하루만으로 추세가 바뀌었다고 보기는 어렵습니다. 단축장 종가와 200일선 대비 격차, 금리 인상 관련 일정, 관세 공청회(1월 25일)를 확인해 볼 만합니다."
+   "note": "짧은 거래일의 1회성 반등일 수 있어, 200일선 회복 여부는 다음 주 흐름을 봐야 합니다. 정규장 일정은 30일 월요일부터 재개됩니다."
   }
  ]
 }
