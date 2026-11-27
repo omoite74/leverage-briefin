@@ -1,136 +1,146 @@
 {
- "at": 1795703482025,
- "headline": "추수감사절 휴장(26일)이라 새 움직임은 없는 가운데, 물가 3.8%·12월 금리 인상 전망과 AI 투자 불안, 신규 관세가 겹쳐 공포 심리가 극단적 공포 15에 머문 모습입니다.",
+ "at": 1795789867015,
+ "headline": "추수감사절 휴장 뒤 단축장을 앞두고 AI·반도체주 저가 매수로 나스닥100 선물이 2~3%대 급등하며 공포가 한풀 꺾였지만, 금리 인상 우려 속에 QQQ는 아직 200일선 아래입니다.",
  "items": [
   {
    "key": "fearGreed",
-   "title": "공포탐욕 15 극단적 공포 (전날 15, +0)",
+   "title": "공포탐욕 20 극단적 공포 (전날 16, +4)",
    "tone": "fear",
    "cause": {
-    "text": "10월 PCE 물가가 전년 대비 3.8%(근원 3.3%)로 나와 12월 금리 인상 전망이 굳어졌고, 25일 나스닥이 장중 4.6%까지 급락했다 0.62% 하락으로 마감할 만큼 불안이 커서 지수가 15에 머문 것으로 보입니다.",
+    "text": "휴장 뒤 첫 거래일(27일)에 엔비디아·마이크론 등 급락했던 AI 반도체주로 저가 매수가 몰리며 나스닥100 선물이 크게 오른 것이 공포를 누그러뜨린 것으로 보입니다. 다만 지수는 20으로 여전히 극단적 공포 구간입니다.",
     "sources": [
      {
-      "title": "美10월 PCE 물가 3.8%↑…12월 금리인상 전망 굳어져(종합)",
-      "url": "https://www.koreatimes.com/article/11632830"
+      "title": "Nasdaq Futures Surge 2.7% as Nvidia, Micron and SanDisk Lead Global AI Stock Recovery",
+      "url": "https://www.share-talk.com/nasdaq-futures-surge-2-7-as-nvidia-micron-and-sandisk-lead-global-ai-stock-recovery/"
      },
      {
-      "title": "엔비디아 3.91%·나스닥 0.62%↓⋯뉴욕증시 혼조 마감",
-      "url": "https://www.kmib.co.kr/article/20261126500040"
+      "title": "뉴욕증시 전망, 나스닥 선물 2.8% 급등…AI주 반등",
+      "url": "https://www.topstarnews.net/news/articleView.html?idxno=16288075"
      }
     ],
     "stars": 5
    },
    "background": [
     {
-     "text": "CME 페드워치 기준 12월 8~9일 FOMC에서 0.25%포인트 인상 확률이 99.8%로 보도됐고, 현재 기준금리는 3.75~4.00%입니다.",
+     "text": "직전 거래일 엔비디아가 장중 9% 넘게 빠졌다가 3.91% 하락으로 마감했고, 나스닥100이 한때 고점 대비 20% 하락했다는 보도가 있어 반등 폭이 커 보였습니다.",
      "sources": [
       {
-       "title": "美10월 PCE 물가 3.8%↑…12월 금리인상 전망 굳어져(종합)",
-       "url": "https://www.koreatimes.com/article/11632830"
-      }
-     ],
-     "stars": 5
-    },
-    {
-     "text": "AI 인프라 투자를 빚으로 하는 기업들의 자금조달 부담 우려 속에 엔비디아가 3.91% 내린 149.30달러로 마감했습니다.",
-     "sources": [
+       "title": "Nasdaq futures rise 2.4% before Black Friday half-day as chips rebound",
+       "url": "https://mlq.ai/news/nasdaq-futures-rise-24-before-black-friday-half-day-as-chips-rebound/"
+      },
       {
-       "title": "엔비디아 4% 급락에 뉴욕증시 출렁…다우는 반등",
-       "url": "https://m.sedaily.com/article/20119088"
+       "title": "추수감사절 연휴로 거래 한산한 가운데 미국 주가지수 선물 상승…기술주 반등 주목",
+       "url": "https://kr.investing.com/news/stock-market-news/article-2191450"
       }
      ],
      "stars": 4
     },
     {
-     "text": "USTR가 11월 25일 14개 경제권에 15~35%의 과잉생산 관련 301조 관세를 제안했고, 한국은 15% 상한이 유지됐습니다.",
+     "text": "연준이 금융안정 보고서에서 빅테크의 AI 관련 부담이 장부 숫자보다 클 수 있다고 경고한 것이 AI주 불안의 배경 중 하나로 보입니다.",
      "sources": [
       {
-       "title": "U.S. Caps Korea Tariff at 15% in Overcapacity Probe",
-       "url": "https://en.sedaily.com/economy/2026/11/26/us-caps-korea-tariff-at-15-percent-in-overcapacity-probe"
+       "title": "Fed warns of growing financial risks from AI boom",
+       "url": "https://axios.com/2026/11/16/fed-ai-boom-financial-risks"
       },
       {
-       "title": "USTR Proposes Tariffs Following 14 Section 301 Manufacturing Excess Capacity Investigations",
-       "url": "https://www.hklaw.com/en/insights/publications/2026/11/ustr-proposes-tariffs-following-14-section-301"
-      }
-     ],
-     "stars": 3
-    }
-   ],
-   "note": "26일은 휴장이라 장 마감 뒤 새로 확인된 큰 속보는 없었습니다. 일회성보다는 금리 인상과 AI 불안이 이어지는 흐름이며, 27일 단축장과 12월 8~9일 FOMC가 다음 확인 지점입니다."
-  },
-  {
-   "key": "putCall",
-   "title": "풋콜 0.92 (전날 0.90, +0.02)",
-   "tone": "fear",
-   "cause": {
-    "text": "PCE 발표와 장중 급락 뒤 휴장을 앞두고 하락에 대비하는 풋 수요가 조금 늘어 0.90에서 0.92로 소폭 오른 것으로 추정됩니다(옵션 수급을 직접 다룬 기사는 찾지 못했습니다).",
-    "sources": [
-     {
-      "title": "엔비디아 4% 급락에 뉴욕증시 출렁…다우는 반등",
-      "url": "https://m.sedaily.com/article/20119088"
-     }
-    ],
-    "stars": 3
-   },
-   "background": [
-    {
-     "text": "기술주 중심으로 AI 투자 수익성과 자금조달 비용 우려가 다시 부각됐다고 보도됐습니다.",
-     "sources": [
-      {
-       "title": "엔비디아 4% 급락에 뉴욕증시 출렁…다우는 반등",
-       "url": "https://m.sedaily.com/article/20119088"
+       "title": "Fed financial stability report: AI data center $3 trillion off balance sheet, Nvidia",
+       "url": "https://fortune.com/2026/11/17/fed-financial-stability-report-ai-data-center-3-trillion-off-balance-sheet-nvidia/"
       }
      ],
      "stars": 3
     },
     {
-     "text": "12월 금리 인상 확률이 사실상 확정 수준으로 보도돼 금리 부담에 대한 헤지 수요가 이어질 수 있는 환경입니다.",
+     "text": "금리 인상 우려가 여전해 반등이 이어질지는 불확실하다는 분석이 함께 나옵니다.",
      "sources": [
       {
-       "title": "美10월 PCE 물가 3.8%↑…12월 금리인상 전망 굳어져(종합)",
-       "url": "https://www.koreatimes.com/article/11632830"
+       "title": "뉴욕증시 프리뷰, AI·반도체주 저가 매수에 나스닥 선물 2% 상승…금리 인상 우려 여전",
+       "url": "https://m.news.nate.com/view/20261127n28764"
       }
      ],
-     "stars": 3
+     "stars": 2
     }
    ],
-   "note": "변화폭이 0.02로 작아 큰 신호는 아닙니다. 휴장 뒤 27일 단축장에서 풋콜 비율이 어떻게 움직이는지 보시면 됩니다."
+   "note": "급락 뒤 반등이라 일회성 성격이 강해 보이며, 이어질지는 더 봐야 합니다. 한국시간 오늘 밤 11시 30분 개장해 새벽 3시에 끝나는 단축장 결과와 금리 인상 관련 발언·지표를 지켜볼 만합니다."
   },
   {
-   "key": "rsi",
-   "title": "QQQ RSI 46.7 (전날 38.8, +7.9)",
-   "tone": "neutral",
+   "key": "putCall",
+   "title": "풋콜 0.86 (전날 0.92, -0.06)",
+   "tone": "fear",
    "cause": {
-    "text": "QQQ RSI가 38.8에서 46.7로 오른 것은 25일 장중 4.6% 급락 뒤 저가 매수가 들어와 낙폭을 크게 줄인 영향으로 보이나, 종가는 하락이라 계산 기간 변동 등 다른 요인도 있을 수 있습니다.",
+    "text": "주가가 반등하면서 하락에 대비한 풋옵션 수요가 줄어 풋콜 비율이 0.92에서 0.86으로 내려간 것으로 보입니다. 이 인과는 기사로 직접 확인한 것이 아니라 추정입니다.",
     "sources": [
      {
-      "title": "엔비디아 랠리 하루 만에 제동…나스닥 1.5%↓ [뉴욕마감]",
-      "url": "https://news.mtn.co.kr/article/2026112507004027984"
-     },
-     {
-      "title": "[뉴욕증시] 패닉 매도 진정 속 기술주 소폭 하락…엔비디아 낙폭, 9.1→3.9%",
-      "url": "https://www.fnnews.com/news/202611260631005468"
+      "title": "Nasdaq futures surge as investors pile back into battered AI stocks",
+      "url": "https://rallies.ai/news/nasdaq-futures-surge-as-investors-pile-back-into-battered-ai-stocks-98d13c903f1890c7"
      }
     ],
     "stars": 3
    },
    "background": [
     {
-     "text": "나스닥은 24일 1.48% 하락, 25일 0.62% 하락으로 이틀 연속 내렸지만 25일은 장 후반 낙폭을 크게 줄였습니다.",
+     "text": "AI·반도체주 저가 매수와 선물 급등이 하락 대비 수요를 덜어준 것으로 보입니다.",
      "sources": [
       {
-       "title": "뉴욕증시, AI 기술주 차익실현에 혼조 마감…나스닥 1.48%↓",
-       "url": "https://www.sentv.co.kr/article/view/sentv202611250018"
-      },
-      {
-       "title": "엔비디아 3.91%·나스닥 0.62%↓⋯뉴욕증시 혼조 마감",
-       "url": "https://www.kmib.co.kr/article/20261126500040"
+       "title": "뉴욕증시 전망, 나스닥 선물 2.8% 급등…AI주 반등",
+       "url": "https://www.topstarnews.net/news/articleView.html?idxno=16288075"
       }
      ],
      "stars": 3
+    },
+    {
+     "text": "금리 인상 가능성과 관세 확대 우려가 남아 있어 보호 수요가 다시 늘 여지는 있습니다.",
+     "sources": [
+      {
+       "title": "뉴욕증시 프리뷰, AI·반도체주 저가 매수에 나스닥 선물 2% 상승…금리 인상 우려 여전",
+       "url": "https://m.news.nate.com/view/20261127n28764"
+      }
+     ],
+     "stars": 2
     }
    ],
-   "note": "RSI 46.7은 반등이라기보다 낙폭이 줄어든 결과일 수 있어 일회성 여부는 단정하기 어렵습니다. 27일 단축장의 AI주 반등 여부가 다음 확인 지점입니다."
+   "note": "하루 단위 변화라 일회성일 수 있습니다. 단축장 이후 풋콜 비율이 0.9 부근으로 다시 오르는지 확인해 볼 만합니다."
+  },
+  {
+   "key": "ma",
+   "title": "QQQ $645.58 (전날 대비 +1.8%, 200일선 대비 아래 5.6%)",
+   "tone": "greed",
+   "cause": {
+    "text": "AI·반도체주 반등에 나스닥100 선물이 급등하면서 QQQ가 하루 +1.8% 오른 것으로 보입니다. 그래도 200일선보다는 5.6% 아래에 있습니다.",
+    "sources": [
+     {
+      "title": "Nasdaq futures rise 2.4% before Black Friday half-day as chips rebound",
+      "url": "https://mlq.ai/news/nasdaq-futures-rise-24-before-black-friday-half-day-as-chips-rebound/"
+     },
+     {
+      "title": "Stock market today: Dow, S&P 500, Nasdaq futures gain as AI jitters steady",
+      "url": "https://finance.yahoo.com/markets/live/stock-market-today-firday-november-27-dow-sp-500-nasdaq-black-friday-holiday-091152065.html"
+     }
+    ],
+    "stars": 4
+   },
+   "background": [
+    {
+     "text": "엔비디아 주가가 10월 사상 최고치보다 37% 이상 낮다는 보도가 있어 지수가 200일선을 회복하기까지 거리가 있어 보입니다.",
+     "sources": [
+      {
+       "title": "뉴욕증시 프리뷰, AI·반도체주 저가 매수에 나스닥 선물 2% 상승…금리 인상 우려 여전",
+       "url": "https://m.news.nate.com/view/20261127n28764"
+      }
+     ],
+     "stars": 3
+    },
+    {
+     "text": "엔비디아의 동남아 서버 출하 중단 보도와 미국의 '과잉생산 관세' 제안 등 무역 변수가 부담으로 남아 있습니다.",
+     "sources": [
+      {
+       "title": "[뉴욕증시 전략] 엔비디아 유통망, 중국 임대 전면 차단 통보",
+       "url": "https://supple.kr/news/cmwyollizenlikwp8j1foeeia"
+      }
+     ],
+     "stars": 2
+    }
+   ],
+   "note": "반등 하루만으로 추세가 바뀌었다고 보기는 어렵습니다. 단축장 종가와 200일선 대비 격차, 금리 인상 관련 일정, 관세 공청회(1월 25일)를 확인해 볼 만합니다."
   }
  ]
 }
