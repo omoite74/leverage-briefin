@@ -1,148 +1,170 @@
 {
- "at": 1795816852684,
- "headline": "블랙프라이데이 단축장(27일)에 AI·반도체 저가 매수로 나스닥이 2%대 올라 공포 지표가 한 단계 풀렸지만, 12월 연준 금리 인상 부담은 남아 있습니다.",
+ "at": 1795876255858,
+ "headline": "추수감사절 다음 날 단축장에서 AI·반도체주 저가 매수로 나스닥이 반등하자 VIX는 23.8로 내려 공포가 한풀 꺾였지만, 공포탐욕은 여전히 '극단적 공포'입니다.",
  "items": [
   {
    "key": "fearGreed",
    "title": "공포탐욕 25 극단적 공포 (전날 16, +9)",
    "tone": "fear",
    "cause": {
-    "text": "최근 크게 떨어진 AI·기술주에 저가 매수가 몰리며 나스닥이 2.3% 오른 것이 공포탐욕지수를 16에서 25로 끌어올린 것으로 보입니다. 다만 아직 '극단적 공포' 구간입니다.",
+    "text": "11월 급락 뒤 AI·반도체주에 저가 매수가 몰리며 나스닥이 크게 오른 것이 공포탐욕을 16에서 25로 끌어올린 것으로 보입니다.",
     "sources": [
      {
-      "title": "블프에 불뿜은 AI·기술주…나스닥 2.3%↑[뉴욕마감]",
-      "url": "https://supple.kr/news/cmwzbt9xtgd6lkwp8tmez7fw9"
+      "title": "Nasdaq Jumps 2.31% to 24,129.50 as Chip Stocks Lead Black Friday Rebound",
+      "url": "https://www.bbntimes.com/technology/nasdaq-jumps-2-31-to-24-129-50-as-chip-stocks-lead-black-friday-rebound"
+     },
+     {
+      "title": "US Stock Futures Rally as AI Shares Recover, Chip Export Restrictions Disrupt Financing and Oil Supply Risks Persist",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/us-stock-futures-rally-ai-100839039.html"
      }
     ],
     "stars": 5
    },
    "background": [
     {
-     "text": "추수감사절 다음 날 오후 1시에 일찍 끝난 거래라 거래량이 적었고, 매도세가 잦아든 것도 반등을 도운 것으로 풀이됩니다.",
+     "text": "나스닥100은 수요일 한때 고점 대비 20% 넘게 밀렸고, 반등 뒤에도 기록적 종가보다 약 12.6% 낮은 상태라고 합니다.",
      "sources": [
       {
-       "title": "블프에 불뿜은 AI·기술주…나스닥 2.3%↑[뉴욕마감]",
-       "url": "https://supple.kr/news/cmwzbt9xtgd6lkwp8tmez7fw9"
+       "title": "Nasdaq Jumps 2.31% to 24,129.50 as Chip Stocks Lead Black Friday Rebound",
+       "url": "https://www.bbntimes.com/technology/nasdaq-jumps-2-31-to-24-129-50-as-chip-stocks-lead-black-friday-rebound"
+      }
+     ],
+     "stars": 4
+    },
+    {
+     "text": "미국이 싱가포르·말레이시아 등 5개국에 AI 칩 구매 허가를 요구하면서 데이터센터 대출이 미뤄지는 등 AI 쪽 불안은 남아 있습니다.",
+     "sources": [
+      {
+       "title": "US Stock Futures Rally as AI Shares Recover, Chip Export Restrictions Disrupt Financing and Oil Supply Risks Persist",
+       "url": "https://finance.yahoo.com/markets/stocks/articles/us-stock-futures-rally-ai-100839039.html"
       }
      ],
      "stars": 3
     },
     {
-     "text": "AI 기업의 부채 조달과 설비투자 둔화 우려, 12월 연준 금리 인상 가능성이 여전히 부담으로 꼽힙니다.",
+     "text": "사우디 에너지 시설 공격과 호르무즈 해협 인근 선박 공격으로 유가 공급 우려가 이어지고 있습니다.",
      "sources": [
       {
-       "title": "블프에 불뿜은 AI·기술주…나스닥 2.3%↑[뉴욕마감]",
-       "url": "https://supple.kr/news/cmwzbt9xtgd6lkwp8tmez7fw9"
+       "title": "US Stock Futures Rally as AI Shares Recover, Chip Export Restrictions Disrupt Financing and Oil Supply Risks Persist",
+       "url": "https://finance.yahoo.com/markets/stocks/articles/us-stock-futures-rally-ai-100839039.html"
       }
      ],
-     "stars": 3
+     "stars": 2
     }
    ],
-   "note": "단축 거래일의 반등이라 한 번의 움직임만으로 심리가 바뀌었다고 보기는 어렵습니다. 12월 2일 ISM 제조업 PMI, 12월 4일 고용 지표를 확인해 보세요."
+   "note": "급락 뒤 반등 하루라 일회성일 수 있고, 25는 여전히 공포 구간입니다. 연준 12월 회의와 AI·반도체주 흐름을 확인해야 합니다."
   },
   {
    "key": "putCall",
    "title": "풋콜 0.86 (전날 0.92, -0.06)",
    "tone": "fear",
    "cause": {
-    "text": "주가가 반등하면서 하락 방어용 풋 매수가 줄어 풋콜 비율이 0.92에서 0.86으로 내려간 것으로 보입니다. 이 해석은 기사로 직접 확인한 것은 아니고 추정입니다.",
+    "text": "주가가 반등하며 하락에 대비한 풋옵션 수요가 줄어 풋콜 비율이 0.92에서 0.86으로 내린 것으로 보입니다. 다만 이 비율 자체를 설명한 기사는 찾지 못했습니다.",
     "sources": [
      {
-      "title": "블프에 불뿜은 AI·기술주…나스닥 2.3%↑[뉴욕마감]",
-      "url": "https://supple.kr/news/cmwzbt9xtgd6lkwp8tmez7fw9"
+      "title": "Nasdaq Jumps 2.31% to 24,129.50 as Chip Stocks Lead Black Friday Rebound",
+      "url": "https://www.bbntimes.com/technology/nasdaq-jumps-2-31-to-24-129-50-as-chip-stocks-lead-black-friday-rebound"
      }
     ],
     "stars": 3
    },
    "background": [
     {
-     "text": "필라델피아 반도체지수가 5% 넘게 올라 반도체주 중심으로 반등이 컸습니다.",
+     "text": "이날은 추수감사절 다음 날 오후 1시 조기 폐장이라 거래량이 적어 수치가 덜 믿을 만할 수 있습니다.",
      "sources": [
       {
-       "title": "블랙프라이데이 단축장, 반도체지수 급등이 이끈 미국 증시 반등",
-       "url": "https://www.chickstockfi.com/report/2026-11-28?market=us"
+       "title": "US Stock Futures Rally as AI Shares Recover, Chip Export Restrictions Disrupt Financing and Oil Supply Risks Persist",
+       "url": "https://finance.yahoo.com/markets/stocks/articles/us-stock-futures-rally-ai-100839039.html"
       }
      ],
-     "stars": 3
+     "stars": 2
+    },
+    {
+     "text": "11월 내내 AI주 급락으로 방어 수요가 컸던 터라 0.86도 아직 낮은 수준은 아닌 것으로 보입니다(추정).",
+     "sources": [],
+     "stars": 1
     }
    ],
-   "note": "풋콜 0.86은 아직 낮은 수준이라고 보기 어렵고, 거래량이 적은 날의 수치라 월요일(30일) 정상 거래에서 다시 확인이 필요합니다."
+   "note": "단축장의 영향이 큰 일회성 변화일 수 있습니다. 정규 거래일 풋콜이 더 내려가는지 지켜보세요."
   },
   {
    "key": "vix",
    "title": "VIX 23.8 (전날 26.8, -3.0)",
    "tone": "neutral",
    "cause": {
-    "text": "나스닥과 S&P500이 함께 오르며 급한 불안이 가라앉아 VIX가 26.8에서 23.8로 내려온 것으로 보입니다. 이로써 VIX 역전이 풀린 지 1거래일째입니다.",
+    "text": "AI·반도체주 반등으로 VIX가 11% 넘게 내려 23.81로 마감했고, 수요일 장중 35 부근까지 치솟았던 공포가 가라앉은 것으로 보입니다.",
     "sources": [
      {
-      "title": "블프에 불뿜은 AI·기술주…나스닥 2.3%↑[뉴욕마감]",
-      "url": "https://supple.kr/news/cmwzbt9xtgd6lkwp8tmez7fw9"
+      "title": "뉴욕 증시, AI 저가매수에 일제히 반등...반도체지수 4.7% ↑ [데일리국제금융]",
+      "url": "https://m.sedaily.com/article/20120088"
+     },
+     {
+      "title": "Nasdaq Jumps 2.31% to 24,129.50 as Chip Stocks Lead Black Friday Rebound",
+      "url": "https://www.bbntimes.com/technology/nasdaq-jumps-2-31-to-24-129-50-as-chip-stocks-lead-black-friday-rebound"
      }
     ],
     "stars": 5
    },
    "background": [
     {
-     "text": "VIX는 11월 24일 기준 26.4로 최근 3년 중 높은 편이었고, 10년물 금리도 4.91%로 높은 수준이었습니다.",
+     "text": "11월 중순 VIX는 28.26까지 오르는 등 AI주 급락과 함께 변동성이 컸습니다.",
      "sources": [
       {
-       "title": "블랙프라이데이 단축장, 반도체지수 급등이 이끈 미국 증시 반등",
-       "url": "https://www.chickstockfi.com/report/2026-11-28?market=us"
+       "title": "[서울데이터랩] 미국 증시, 동반 약세 마감…다우 1.64% 하락·VIX 13% 급등",
+       "url": "https://m.news.nate.com/view/20261118n03038"
       }
      ],
      "stars": 3
     },
     {
-     "text": "S&P500이 한 주 동안 크게 빠진 뒤의 반등이어서 변동성이 아직 큰 상태입니다.",
+     "text": "유가와 칩 수출 규제 같은 불안 요인이 남아 있어 VIX가 쉽게 더 내려가기는 어려워 보입니다.",
      "sources": [
       {
-       "title": "Black Friday Stock Market: Shortened Session, S&P 500 Futures Rise Early",
-       "url": "https://www.world-today-news.com/black-friday-stock-market-shortened-session-sp-500-futures-rise-early/"
+       "title": "US Stock Futures Rally as AI Shares Recover, Chip Export Restrictions Disrupt Financing and Oil Supply Risks Persist",
+       "url": "https://finance.yahoo.com/markets/stocks/articles/us-stock-futures-rally-ai-100839039.html"
       }
      ],
      "stars": 2
     }
    ],
-   "note": "VIX 23.8도 평소보다 높은 편이라 안정됐다고 단정하기는 이릅니다. 12월 연준 회의와 고용 지표 전후로 다시 움직일 수 있습니다. 장 마감 뒤 선물이나 속보는 이번 검색에서 확인하지 못했습니다."
+   "note": "급락 직후의 반짝 하락일 수 있고, 아직 23.8로 높은 편입니다. 다음 주 정규장 거래량 회복과 12월 연준 회의를 확인하세요."
   },
   {
    "key": "ma",
    "title": "QQQ $650.99 (전날 대비 +2.7%, 200일선 대비 아래 4.8%)",
    "tone": "greed",
    "cause": {
-    "text": "QQQ가 2.7% 오른 것은 AI·반도체 저가 매수 때문으로 보입니다. 아마존·브로드컴 약 4%, 메타 3.1% 상승이 보도됐습니다. 그래도 200일선보다 4.8% 아래라 추세 회복 전 단계입니다.",
+    "text": "나스닥100 선물이 2%대 오르는 등 AI·반도체주가 반등하며 QQQ가 하루 만에 2.7% 오른 것으로 보입니다. 그래도 200일선보다 4.8% 아래입니다.",
     "sources": [
      {
-      "title": "블프에 불뿜은 AI·기술주…나스닥 2.3%↑[뉴욕마감]",
-      "url": "https://supple.kr/news/cmwzbt9xtgd6lkwp8tmez7fw9"
+      "title": "US Stock Futures Rally as AI Shares Recover, Chip Export Restrictions Disrupt Financing and Oil Supply Risks Persist",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/us-stock-futures-rally-ai-100839039.html"
+     },
+     {
+      "title": "Nasdaq Jumps 2.31% to 24,129.50 as Chip Stocks Lead Black Friday Rebound",
+      "url": "https://www.bbntimes.com/technology/nasdaq-jumps-2-31-to-24-129-50-as-chip-stocks-lead-black-friday-rebound"
      }
     ],
-    "stars": 4
+    "stars": 5
    },
    "background": [
     {
-     "text": "나스닥종합은 2만4129.50으로 마감했고, 이번 주 상승률은 6.68%로 집계됐습니다.",
+     "text": "10월 6일 기록한 고점 이후 AI·기술주 조정이 이어져 200일선 아래에 머물러 있습니다.",
      "sources": [
       {
-       "title": "블프에 불뿜은 AI·기술주…나스닥 2.3%↑[뉴욕마감]",
-       "url": "https://supple.kr/news/cmwzbt9xtgd6lkwp8tmez7fw9"
+       "title": "Nasdaq Jumps 2.31% to 24,129.50 as Chip Stocks Lead Black Friday Rebound",
+       "url": "https://www.bbntimes.com/technology/nasdaq-jumps-2-31-to-24-129-50-as-chip-stocks-lead-black-friday-rebound"
       }
      ],
      "stars": 3
     },
     {
-     "text": "젠슨 황 엔비디아 CEO 복귀 후 급등했던 기술주가 다시 밀리는 등 등락이 컸습니다.",
-     "sources": [
-      {
-       "title": "블프에 불뿜은 AI·기술주…나스닥 2.3%↑[뉴욕마감]",
-       "url": "https://supple.kr/news/cmwzbt9xtgd6lkwp8tmez7fw9"
-      }
-     ],
-     "stars": 2
+     "text": "앱이 받은 뉴스 제목에는 연준 12월 금리 인상 대비 분위기가 있지만, 이번 검색에서 직접 확인한 기사는 없습니다.",
+     "sources": [],
+     "stars": 1
     }
    ],
-   "note": "짧은 거래일의 1회성 반등일 수 있어, 200일선 회복 여부는 다음 주 흐름을 봐야 합니다. 정규장 일정은 30일 월요일부터 재개됩니다."
+   "note": "하루 반등만으로 추세가 바뀌었다고 보기는 어렵습니다. 200일선 회복 여부와 12월 연준 회의 일정을 확인하세요."
   }
  ]
 }
